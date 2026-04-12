@@ -8,17 +8,10 @@
       "active": true,
       "sources": [
         {
-          "label": "Official Website \u2013 What's New",
-          "url": "https://jeemain.nta.ac.in/",
-          "fetch_type": "html_scrape",
-          "selector": ".whatsnew a, .notice-board a, .updates a",
-          "base_url": "https://jeemain.nta.ac.in"
-        },
-        {
           "label": "NTA Official Website",
           "url": "https://nta.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".whats-new a, .notice a",
+          "selector": "a[href*='/Download/Notice/']",
           "base_url": "https://nta.ac.in"
         }
       ]
@@ -33,7 +26,7 @@
           "label": "Official Website",
           "url": "https://jeeadv.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".news a, .notice a, table a",
+          "selector": "a[href*='/documents/'], a[href*='.pdf']",
           "base_url": "https://jeeadv.ac.in"
         }
       ]
@@ -48,7 +41,7 @@
           "label": "NTA NEET Website",
           "url": "https://neet.nta.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": ".whatsnew a, .updates a, .notice a",
+          "selector": "a[href*='cdnbbsr']",
           "base_url": "https://neet.nta.nic.in"
         }
       ]
@@ -63,7 +56,7 @@
           "label": "NBE Official Website",
           "url": "https://natboard.edu.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .updates a",
+          "selector": "a[href*='viewNotice']",
           "base_url": "https://natboard.edu.in"
         }
       ]
@@ -76,10 +69,10 @@
       "sources": [
         {
           "label": "CUET UG Official",
-          "url": "https://cuet.samarth.ac.in/",
+          "url": "https://cuet.nta.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .updates a, .news a",
-          "base_url": "https://cuet.samarth.ac.in"
+          "selector": "a[href*='cdnbbsr'], a[href*='/document/']",
+          "base_url": "https://cuet.nta.nic.in"
         }
       ]
     },
@@ -91,10 +84,10 @@
       "sources": [
         {
           "label": "CUET PG Official",
-          "url": "https://pgcuet.samarth.ac.in/",
+          "url": "https://pgcuet.nta.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .updates a",
-          "base_url": "https://pgcuet.samarth.ac.in"
+          "selector": "a[href*='cdnbbsr'], a[href*='/document/']",
+          "base_url": "https://pgcuet.nta.nic.in"
         }
       ]
     },
@@ -108,7 +101,7 @@
           "label": "WBJEEB Official Website",
           "url": "https://wbjeeb.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .whatsnew a",
+          "selector": "a[href*='cdnbbsr'], a[href*='/document/']",
           "base_url": "https://wbjeeb.nic.in"
         }
       ]
@@ -123,7 +116,7 @@
           "label": "MHT-CET Official",
           "url": "https://cetcell.mahacet.org/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .updates a",
+          "selector": "a[href*='/wp-content/uploads/']",
           "base_url": "https://cetcell.mahacet.org"
         }
       ]
@@ -136,10 +129,10 @@
       "sources": [
         {
           "label": "KEA Official Website",
-          "url": "https://kea.kar.nic.in/",
+          "url": "https://cetonline.karnataka.gov.in/kea/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, table a",
-          "base_url": "https://kea.kar.nic.in"
+          "selector": "a[href*='.pdf'], a[href*='notice'], a[href*='notification']",
+          "base_url": "https://cetonline.karnataka.gov.in"
         }
       ]
     },
@@ -150,10 +143,10 @@
       "active": true,
       "sources": [
         {
-          "label": "SCHE AP Official",
+          "label": "APSCHE Official",
           "url": "https://cets.apsche.ap.gov.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .updates a",
+          "selector": "a[href*='aptonline.in'], a[href*='cets.apsche.ap.gov.in/EAPCET']",
           "base_url": "https://cets.apsche.ap.gov.in"
         }
       ]
@@ -165,11 +158,11 @@
       "active": true,
       "sources": [
         {
-          "label": "TSCHE Official Website",
-          "url": "https://tsche.ac.in/",
+          "label": "TS EAMCET Official",
+          "url": "https://eapcet-sche.tsche.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a",
-          "base_url": "https://tsche.ac.in"
+          "selector": "a[href*='.pdf'], a[href*='notification'], a[href*='notice']",
+          "base_url": "https://eapcet-sche.tsche.ac.in"
         }
       ]
     },
@@ -183,7 +176,7 @@
           "label": "VIT University Official",
           "url": "https://viteee.vit.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .updates a",
+          "selector": "a[href*='vit.ac.in/files/'], a[href*='.pdf']",
           "base_url": "https://viteee.vit.ac.in"
         }
       ]
@@ -198,7 +191,7 @@
           "label": "BITS Pilani Admission",
           "url": "https://admissions.bits-pilani.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .announcements a, a",
+          "selector": "a[href*='downloads/'], a[href*='.pdf']",
           "base_url": "https://admissions.bits-pilani.ac.in"
         }
       ]
