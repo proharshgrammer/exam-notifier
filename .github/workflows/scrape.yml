@@ -1,0 +1,46 @@
+name: Exam Tracker – Scrape & Update
+
+on:
+  schedule:
+    # Runs every 60 minutes (GitHub Actions minimum is 5 mins, but 60 is polite)
+    - cron: "0 * * * *"
+  workflow_dispatch:  # Also allows manual trigger from GitHub UI
+
+permissions:
+  contents: write  # Needed to commit notifications.json back to repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        run: python scraper/main.py
+
+      - name: Commit updated notifications.json
+        run: |
+          git config user.name "exam-tracker-bot"
+          git config user.email "bot@exam-tracker"
+          git add data/notifications.json data/seen_hashes.json
+          git diff --cached --quiet || git commit -m "chore: update notifications [skip ci]"
+          git push

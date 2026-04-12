@@ -1,0 +1,220 @@
+{
+  "_comment": "Add new exam sources here. No code changes needed. Supported fetch_type: 'rss', 'html_scrape', 'twitter_nitter'",
+  "sources": [
+    {
+      "id": "jee_mains",
+      "name": "JEE Mains",
+      "category": "Engineering Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official Website – What's New",
+          "url": "https://jeemain.nta.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".whatsnew a, .notice-board a, .updates a",
+          "base_url": "https://jeemain.nta.ac.in"
+        },
+        {
+          "label": "NTA Official Website",
+          "url": "https://nta.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".whats-new a, .notice a",
+          "base_url": "https://nta.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "jee_advanced",
+      "name": "JEE Advanced",
+      "category": "Engineering Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official Website",
+          "url": "https://jeeadv.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".news a, .notice a, table a",
+          "base_url": "https://jeeadv.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "neet_ug",
+      "name": "NEET UG",
+      "category": "Medical Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "NTA NEET Website",
+          "url": "https://neet.nta.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".whatsnew a, .updates a, .notice a",
+          "base_url": "https://neet.nta.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "neet_pg",
+      "name": "NEET PG",
+      "category": "Medical PG Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "NBE Official Website",
+          "url": "https://natboard.edu.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .updates a",
+          "base_url": "https://natboard.edu.in"
+        }
+      ]
+    },
+    {
+      "id": "cuet_ug",
+      "name": "CUET UG",
+      "category": "Central University Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "CUET UG Official",
+          "url": "https://cuet.samarth.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .updates a, .news a",
+          "base_url": "https://cuet.samarth.ac.in"
+        },
+        {
+          "label": "NTA CUET Page",
+          "url": "https://nta.ac.in/cuet-ug",
+          "fetch_type": "html_scrape",
+          "selector": ".whats-new a, .notice a",
+          "base_url": "https://nta.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "cuet_pg",
+      "name": "CUET PG",
+      "category": "Central University PG Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "CUET PG Official",
+          "url": "https://pgcuet.samarth.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .updates a",
+          "base_url": "https://pgcuet.samarth.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "wbjee",
+      "name": "WBJEE",
+      "category": "State Engineering – West Bengal",
+      "active": true,
+      "sources": [
+        {
+          "label": "WBJEEB Official Website",
+          "url": "https://wbjeeb.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .whatsnew a",
+          "base_url": "https://wbjeeb.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "mht_cet",
+      "name": "MHT-CET",
+      "category": "State Engineering – Maharashtra",
+      "active": true,
+      "sources": [
+        {
+          "label": "MHT-CET Official",
+          "url": "https://cetcell.mahacet.org/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .updates a",
+          "base_url": "https://cetcell.mahacet.org"
+        }
+      ]
+    },
+    {
+      "id": "kcet",
+      "name": "KCET",
+      "category": "State Engineering – Karnataka",
+      "active": true,
+      "sources": [
+        {
+          "label": "KEA Official Website",
+          "url": "https://kea.kar.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, table a",
+          "base_url": "https://kea.kar.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "ap_eamcet",
+      "name": "AP EAMCET",
+      "category": "State Engineering – Andhra Pradesh",
+      "active": true,
+      "sources": [
+        {
+          "label": "SCHE AP Official",
+          "url": "https://cets.apsche.ap.gov.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .updates a",
+          "base_url": "https://cets.apsche.ap.gov.in"
+        }
+      ]
+    },
+    {
+      "id": "ts_eamcet",
+      "name": "TS EAMCET",
+      "category": "State Engineering – Telangana",
+      "active": true,
+      "sources": [
+        {
+          "label": "TSCHE Official Website",
+          "url": "https://tsche.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a",
+          "base_url": "https://tsche.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "viteee",
+      "name": "VITEEE (VIT)",
+      "category": "Private University Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "VIT University Official",
+          "url": "https://viteee.vit.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .updates a",
+          "base_url": "https://viteee.vit.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "bitsat",
+      "name": "BITSAT",
+      "category": "Private University Entrance",
+      "active": true,
+      "sources": [
+        {
+          "label": "BITS Pilani Admission",
+          "url": "https://www.bitsadmission.com/",
+          "fetch_type": "html_scrape",
+          "selector": ".notice a, .news a, .announcements a",
+          "base_url": "https://www.bitsadmission.com"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "check_interval_minutes": 60,
+    "max_notifications_per_source": 10,
+    "notify_on_new_only": true,
+    "dedup_window_days": 30
+  }
+}

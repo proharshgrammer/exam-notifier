@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>India Exam Tracker | Counselor Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .card-new { border-left: 4px solid #f59e0b; }
+    .exam-badge { font-size: 0.7rem; }
+    .loader { border: 3px solid #e5e7eb; border-top: 3px solid #3b82f6; border-radius: 50%; width: 36px; height: 36px; animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen font-sans">
+
+<!-- Header -->
+<header class="bg-blue-700 text-white shadow-md">
+  <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between flex-wrap gap-3">
+    <div>
+      <h1 class="text-2xl font-bold tracking-tight">🎓 India Exam Tracker</h1>
+      <p class="text-blue-200 text-sm mt-0.5">Live notifications from JEE · NEET · CUET · WBJEE · State CETs · VIT · BITSAT</p>
+    </div>
+    <div class="text-right">
+      <div id="last-updated" class="text-blue-200 text-xs"></div>
+      <div id="total-count" class="text-white font-semibold text-sm mt-1"></div>
+    </div>
+  </div>
+</header>
+
+<!-- Filters -->
+<div class="bg-white border-b shadow-sm sticky top-0 z-10">
+  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap gap-2 items-center">
+    <span class="text-gray-500 text-sm font-medium mr-1">Filter:</span>
+    <button onclick="filterExam('all')" id="btn-all"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-blue-600 text-white transition">All</button>
+    <button onclick="filterExam('jee_mains')" id="btn-jee_mains"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Mains</button>
+    <button onclick="filterExam('jee_advanced')" id="btn-jee_advanced"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Advanced</button>
+    <button onclick="filterExam('neet_ug')" id="btn-neet_ug"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET UG</button>
+    <button onclick="filterExam('neet_pg')" id="btn-neet_pg"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET PG</button>
+    <button onclick="filterExam('cuet_ug')" id="btn-cuet_ug"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET UG</button>
+    <button onclick="filterExam('cuet_pg')" id="btn-cuet_pg"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET PG</button>
+    <button onclick="filterExam('wbjee')" id="btn-wbjee"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">WBJEE</button>
+    <button onclick="filterExam('mht_cet')" id="btn-mht_cet"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">MHT-CET</button>
+    <button onclick="filterExam('kcet')" id="btn-kcet"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">KCET</button>
+    <button onclick="filterExam('ap_eamcet')" id="btn-ap_eamcet"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">AP EAMCET</button>
+    <button onclick="filterExam('ts_eamcet')" id="btn-ts_eamcet"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">TS EAMCET</button>
+    <button onclick="filterExam('viteee')" id="btn-viteee"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">VITEEE</button>
+    <button onclick="filterExam('bitsat')" id="btn-bitsat"
+      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">BITSAT</button>
+  </div>
+</div>
+
+<!-- Main content -->
+<main class="max-w-7xl mx-auto px-4 py-6">
+  <!-- Loading state -->
+  <div id="loading" class="flex flex-col items-center justify-center py-24 gap-4">
+    <div class="loader"></div>
+    <p class="text-gray-400 text-sm">Loading notifications...</p>
+  </div>
+
+  <!-- Error state -->
+  <div id="error" class="hidden text-center py-16 text-red-500">
+    <p class="text-4xl mb-3">⚠️</p>
+    <p class="font-semibold">Could not load notifications.</p>
+    <p class="text-sm text-gray-400 mt-1">Check your internet connection or try refreshing.</p>
+  </div>
+
+  <!-- Cards grid -->
+  <div id="cards" class="hidden grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+
+  <!-- Empty state -->
+  <div id="empty" class="hidden text-center py-16 text-gray-400">
+    <p class="text-4xl mb-3">🔍</p>
+    <p class="font-semibold">No notifications for this filter.</p>
+  </div>
+</main>
+
+<!-- Footer -->
+<footer class="text-center text-gray-400 text-xs py-6 border-t mt-8">
+  Data auto-refreshed every 60 minutes via GitHub Actions.
+  Dashboard hosted on GitHub Pages. All data from official exam websites.
+</footer>
+
+<script>
+  // ── Config ──────────────────────────────────────────────────────────────────
+  // Path to the JSON data file (works on GitHub Pages)
+  const DATA_URL = "./data/notifications.json";
+  const NEW_THRESHOLD_HOURS = 6;
+
+  // ── Exam color map ──────────────────────────────────────────────────────────
+  const EXAM_COLORS = {
+    jee_mains:    "bg-indigo-100 text-indigo-800",
+    jee_advanced: "bg-purple-100 text-purple-800",
+    neet_ug:      "bg-green-100 text-green-800",
+    neet_pg:      "bg-teal-100 text-teal-800",
+    cuet_ug:      "bg-orange-100 text-orange-800",
+    cuet_pg:      "bg-amber-100 text-amber-800",
+    wbjee:        "bg-blue-100 text-blue-800",
+    mht_cet:      "bg-rose-100 text-rose-800",
+    kcet:         "bg-yellow-100 text-yellow-800",
+    ap_eamcet:    "bg-cyan-100 text-cyan-800",
+    ts_eamcet:    "bg-sky-100 text-sky-800",
+    viteee:       "bg-fuchsia-100 text-fuchsia-800",
+    bitsat:       "bg-lime-100 text-lime-800",
+  };
+
+  let allNotifications = [];
+  let currentFilter = "all";
+
+  // ── Fetch data ──────────────────────────────────────────────────────────────
+  async function loadData() {
+    try {
+      const res = await fetch(DATA_URL + "?t=" + Date.now());
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      allNotifications = await res.json();
+      renderCards(allNotifications);
+      updateMeta();
+    } catch (e) {
+      document.getElementById("loading").classList.add("hidden");
+      document.getElementById("error").classList.remove("hidden");
+      console.error(e);
+    }
+  }
+
+  // ── Render ──────────────────────────────────────────────────────────────────
+  function renderCards(items) {
+    const container = document.getElementById("cards");
+    const loading = document.getElementById("loading");
+    const empty = document.getElementById("empty");
+
+    loading.classList.add("hidden");
+
+    const filtered = currentFilter === "all"
+      ? items
+      : items.filter(n => n.exam_id === currentFilter);
+
+    if (filtered.length === 0) {
+      container.classList.remove("grid");
+      container.classList.add("hidden");
+      empty.classList.remove("hidden");
+      return;
+    }
+
+    empty.classList.add("hidden");
+    container.classList.remove("hidden");
+    container.classList.add("grid");
+
+    container.innerHTML = filtered.map(n => cardHTML(n)).join("");
+  }
+
+  function cardHTML(n) {
+    const isNew = isRecent(n.fetched_at, NEW_THRESHOLD_HOURS);
+    const color = EXAM_COLORS[n.exam_id] || "bg-gray-100 text-gray-800";
+    const time = formatTime(n.fetched_at);
+
+    return `
+      <div class="bg-white rounded-xl shadow-sm border hover:shadow-md transition ${isNew ? 'card-new' : ''} p-4 flex flex-col gap-3">
+        <div class="flex items-start justify-between gap-2">
+          <span class="exam-badge px-2 py-0.5 rounded-full font-semibold uppercase tracking-wide ${color}">${n.exam}</span>
+          ${isNew ? '<span class="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full font-medium">🆕 New</span>' : ''}
+        </div>
+        <p class="text-gray-800 text-sm font-medium leading-snug">${n.title}</p>
+        <div class="mt-auto flex items-center justify-between gap-2 flex-wrap">
+          <div>
+            <p class="text-gray-400 text-xs">${n.source_label}</p>
+            <p class="text-gray-400 text-xs">${time}</p>
+          </div>
+          <a href="${n.url}" target="_blank" rel="noopener noreferrer"
+            class="inline-flex items-center gap-1 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition">
+            View Notice ↗
+          </a>
+        </div>
+      </div>`;
+  }
+
+  // ── Filter ──────────────────────────────────────────────────────────────────
+  function filterExam(examId) {
+    currentFilter = examId;
+
+    // Update button styles
+    document.querySelectorAll(".filter-btn").forEach(btn => {
+      btn.classList.remove("bg-blue-600", "text-white");
+      btn.classList.add("bg-gray-100", "text-gray-700");
+    });
+    const active = document.getElementById("btn-" + examId);
+    if (active) {
+      active.classList.remove("bg-gray-100", "text-gray-700");
+      active.classList.add("bg-blue-600", "text-white");
+    }
+
+    renderCards(allNotifications);
+  }
+
+  // ── Helpers ──────────────────────────────────────────────────────────────────
+  function isRecent(isoString, hours) {
+    if (!isoString) return false;
+    const diff = (Date.now() - new Date(isoString).getTime()) / 3600000;
+    return diff < hours;
+  }
+
+  function formatTime(isoString) {
+    if (!isoString) return "";
+    const d = new Date(isoString);
+    return d.toLocaleString("en-IN", { timeZone: "Asia/Kolkata", dateStyle: "medium", timeStyle: "short" });
+  }
+
+  function updateMeta() {
+    const el = document.getElementById("last-updated");
+    const count = document.getElementById("total-count");
+    el.textContent = "Last refreshed: " + new Date().toLocaleTimeString("en-IN", { timeZone: "Asia/Kolkata" });
+    count.textContent = allNotifications.length + " total notifications";
+  }
+
+  // ── Init ────────────────────────────────────────────────────────────────────
+  loadData();
+  // Auto-refresh every 10 minutes on the page
+  setInterval(loadData, 600000);
+</script>
+
+</body>
+</html>
