@@ -30,56 +30,52 @@
 
 <!-- Filters -->
 <div class="bg-white border-b shadow-sm sticky top-0 z-10">
-  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap gap-2 items-center">
-    <span class="text-gray-500 text-sm font-medium mr-1">Filter:</span>
-    <button onclick="filterExam('all')" id="btn-all"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-blue-600 text-white transition">All</button>
-    <button onclick="filterExam('jee_mains')" id="btn-jee_mains"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Mains</button>
-    <button onclick="filterExam('jee_advanced')" id="btn-jee_advanced"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Advanced</button>
-    <button onclick="filterExam('neet_ug')" id="btn-neet_ug"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET UG</button>
-    <button onclick="filterExam('neet_pg')" id="btn-neet_pg"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET PG</button>
-    <button onclick="filterExam('cuet_ug')" id="btn-cuet_ug"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET UG</button>
-    <button onclick="filterExam('cuet_pg')" id="btn-cuet_pg"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET PG</button>
-    <button onclick="filterExam('wbjee')" id="btn-wbjee"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">WBJEE</button>
-    <button onclick="filterExam('mht_cet')" id="btn-mht_cet"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">MHT-CET</button>
-    <button onclick="filterExam('kcet')" id="btn-kcet"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">KCET</button>
-    <button onclick="filterExam('ap_eamcet')" id="btn-ap_eamcet"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">AP EAMCET</button>
-    <button onclick="filterExam('ts_eamcet')" id="btn-ts_eamcet"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">TS EAMCET</button>
-    <button onclick="filterExam('viteee')" id="btn-viteee"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">VITEEE</button>
-    <button onclick="filterExam('bitsat')" id="btn-bitsat"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">BITSAT</button>
-    <button onclick="filterExam('josaa')" id="btn-josaa"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JoSAA</button>
-    <button onclick="filterExam('csab')" id="btn-csab"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CSAB</button>
-    <button onclick="filterExam('uptu')" id="btn-uptu"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">UPTU</button>
-    <button onclick="filterExam('comedk')" id="btn-comedk"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">COMEDK</button>
-    <button onclick="filterExam('ojee')" id="btn-ojee"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">OJEE</button>
-    <button onclick="filterExam('srmjee')" id="btn-srmjee"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">SRMJEE</button>
-    <button onclick="filterExam('cu_haryana')" id="btn-cu_haryana"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CU Haryana</button>
-    <button onclick="filterExam('jac_chd')" id="btn-jac_chd"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JAC CHD</button>
-    <button onclick="filterExam('lpu_punjab')" id="btn-lpu_punjab"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">LPU Punjab</button>
-    <button onclick="filterExam('jac_delhi')" id="btn-jac_delhi"
-      class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JAC Delhi</button>
+  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-col gap-3">
+    
+    <!-- All & Search -->
+    <div class="flex items-center gap-2">
+      <button onclick="filterExam('all')" id="btn-all"
+        class="filter-btn px-4 py-1.5 rounded-full text-sm font-semibold bg-blue-600 text-white transition">🌟 All Notifications</button>
+    </div>
+
+    <!-- National -->
+    <div class="flex flex-wrap gap-2 items-center">
+      <span class="text-xs font-semibold text-gray-400 uppercase w-full md:w-auto md:mr-2">National</span>
+      <button onclick="filterExam('jee_mains')" id="btn-jee_mains" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Mains</button>
+      <button onclick="filterExam('jee_advanced')" id="btn-jee_advanced" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JEE Advanced</button>
+      <button onclick="filterExam('neet_ug')" id="btn-neet_ug" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET UG</button>
+      <button onclick="filterExam('neet_pg')" id="btn-neet_pg" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">NEET PG</button>
+      <button onclick="filterExam('cuet_ug')" id="btn-cuet_ug" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET UG</button>
+      <button onclick="filterExam('cuet_pg')" id="btn-cuet_pg" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CUET PG</button>
+    </div>
+
+    <!-- State & Private -->
+    <div class="flex flex-wrap gap-2 items-center">
+      <span class="text-xs font-semibold text-gray-400 uppercase w-full md:w-auto md:mr-2">State / Pvt</span>
+      <button onclick="filterExam('wbjee')" id="btn-wbjee" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">WBJEE</button>
+      <button onclick="filterExam('mht_cet')" id="btn-mht_cet" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">MHT-CET</button>
+      <button onclick="filterExam('kcet')" id="btn-kcet" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">KCET</button>
+      <button onclick="filterExam('ap_eamcet')" id="btn-ap_eamcet" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">AP EAMCET</button>
+      <button onclick="filterExam('ts_eamcet')" id="btn-ts_eamcet" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">TS EAMCET</button>
+      <button onclick="filterExam('viteee')" id="btn-viteee" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">VITEEE</button>
+      <button onclick="filterExam('bitsat')" id="btn-bitsat" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">BITSAT</button>
+    </div>
+
+    <!-- Counselling -->
+    <div class="flex flex-wrap gap-2 items-center">
+      <span class="text-xs font-semibold text-gray-400 uppercase w-full md:w-auto md:mr-2">Counselling</span>
+      <button onclick="filterExam('josaa')" id="btn-josaa" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JoSAA</button>
+      <button onclick="filterExam('csab')" id="btn-csab" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CSAB</button>
+      <button onclick="filterExam('uptu')" id="btn-uptu" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">UPTU</button>
+      <button onclick="filterExam('comedk')" id="btn-comedk" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">COMEDK</button>
+      <button onclick="filterExam('ojee')" id="btn-ojee" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">OJEE</button>
+      <button onclick="filterExam('srmjee')" id="btn-srmjee" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">SRMJEE</button>
+      <button onclick="filterExam('cu_haryana')" id="btn-cu_haryana" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">CU Haryana</button>
+      <button onclick="filterExam('jac_chd')" id="btn-jac_chd" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JAC CHD</button>
+      <button onclick="filterExam('lpu_punjab')" id="btn-lpu_punjab" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">LPU Punjab</button>
+      <button onclick="filterExam('jac_delhi')" id="btn-jac_delhi" class="filter-btn px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-blue-100 transition">JAC Delhi</button>
+    </div>
+
   </div>
 </div>
 
