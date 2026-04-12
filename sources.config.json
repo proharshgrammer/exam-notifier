@@ -8,7 +8,7 @@
       "active": true,
       "sources": [
         {
-          "label": "Official Website – What's New",
+          "label": "Official Website \u2013 What's New",
           "url": "https://jeemain.nta.ac.in/",
           "fetch_type": "html_scrape",
           "selector": ".whatsnew a, .notice-board a, .updates a",
@@ -108,7 +108,7 @@
     {
       "id": "wbjee",
       "name": "WBJEE",
-      "category": "State Engineering – West Bengal",
+      "category": "State Engineering \u2013 West Bengal",
       "active": true,
       "sources": [
         {
@@ -123,7 +123,7 @@
     {
       "id": "mht_cet",
       "name": "MHT-CET",
-      "category": "State Engineering – Maharashtra",
+      "category": "State Engineering \u2013 Maharashtra",
       "active": true,
       "sources": [
         {
@@ -138,7 +138,7 @@
     {
       "id": "kcet",
       "name": "KCET",
-      "category": "State Engineering – Karnataka",
+      "category": "State Engineering \u2013 Karnataka",
       "active": true,
       "sources": [
         {
@@ -153,7 +153,7 @@
     {
       "id": "ap_eamcet",
       "name": "AP EAMCET",
-      "category": "State Engineering – Andhra Pradesh",
+      "category": "State Engineering \u2013 Andhra Pradesh",
       "active": true,
       "sources": [
         {
@@ -168,7 +168,7 @@
     {
       "id": "ts_eamcet",
       "name": "TS EAMCET",
-      "category": "State Engineering – Telangana",
+      "category": "State Engineering \u2013 Telangana",
       "active": true,
       "sources": [
         {
@@ -207,6 +207,156 @@
           "fetch_type": "html_scrape",
           "selector": ".notice a, .news a, .announcements a",
           "base_url": "https://www.bitsadmission.com"
+        }
+      ]
+    },
+    {
+      "id": "josaa",
+      "name": "JoSAA",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://josaa.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://josaa.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "csab",
+      "name": "CSAB",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://csab.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://csab.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "uptu",
+      "name": "UPTU",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://uptac.admissions.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://uptac.admissions.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "comedk",
+      "name": "COMEDK",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://www.comedk.org/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://www.comedk.org"
+        }
+      ]
+    },
+    {
+      "id": "ojee",
+      "name": "OJEE",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://ojee.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://ojee.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "srmjee",
+      "name": "SRMJEE",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://www.srmist.edu.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://www.srmist.edu.in"
+        }
+      ]
+    },
+    {
+      "id": "cu_haryana",
+      "name": "CU Haryana",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://www.cuh.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://www.cuh.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "jac_chd",
+      "name": "JAC CHD",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://jacchd.admissions.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://jacchd.admissions.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "lpu_punjab",
+      "name": "LPU Punjab",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://nest.lpu.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://nest.lpu.in"
+        }
+      ]
+    },
+    {
+      "id": "jac_delhi",
+      "name": "JAC Delhi",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "Official",
+          "url": "https://jacdelhi.admissions.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a",
+          "base_url": "https://jacdelhi.admissions.nic.in"
         }
       ]
     }
