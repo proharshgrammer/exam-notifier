@@ -6,9 +6,13 @@ Also runnable locally: python main.py
 
 import json
 import os
+import sys
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
+
+# Fix import path for notifier
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from fetcher import fetch_source
 from parser import parse_notifications
