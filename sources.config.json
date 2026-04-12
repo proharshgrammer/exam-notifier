@@ -212,7 +212,7 @@
     }
   ],
   "settings": {
-    "check_interval_minutes": 60,
+    "check_interval_minutes": 30,
     "max_notifications_per_source": 10,
     "notify_on_new_only": true,
     "dedup_window_days": 30
