@@ -80,13 +80,6 @@
           "fetch_type": "html_scrape",
           "selector": ".notice a, .updates a, .news a",
           "base_url": "https://cuet.samarth.ac.in"
-        },
-        {
-          "label": "NTA CUET Page",
-          "url": "https://nta.ac.in/cuet-ug",
-          "fetch_type": "html_scrape",
-          "selector": ".whats-new a, .notice a",
-          "base_url": "https://nta.ac.in"
         }
       ]
     },
@@ -203,10 +196,10 @@
       "sources": [
         {
           "label": "BITS Pilani Admission",
-          "url": "https://www.bitsadmission.com/",
+          "url": "https://admissions.bits-pilani.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": ".notice a, .news a, .announcements a",
-          "base_url": "https://www.bitsadmission.com"
+          "selector": ".notice a, .news a, .announcements a, a",
+          "base_url": "https://admissions.bits-pilani.ac.in"
         }
       ]
     },
