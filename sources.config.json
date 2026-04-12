@@ -213,7 +213,7 @@
           "label": "Official",
           "url": "https://josaa.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='/document/']",
           "base_url": "https://josaa.nic.in"
         }
       ]
@@ -228,7 +228,7 @@
           "label": "Official",
           "url": "https://csab.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='cdnbbsr'], a[href*='/notices']",
           "base_url": "https://csab.nic.in"
         }
       ]
@@ -243,7 +243,7 @@
           "label": "Official",
           "url": "https://uptac.admissions.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='/document/'], a[href*='cdnbbsr']",
           "base_url": "https://uptac.admissions.nic.in"
         }
       ]
@@ -258,7 +258,7 @@
           "label": "Official",
           "url": "https://www.comedk.org/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='/uploads/']",
           "base_url": "https://www.comedk.org"
         }
       ]
@@ -273,7 +273,7 @@
           "label": "Official",
           "url": "https://ojee.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='cdnbbsr']",
           "base_url": "https://ojee.nic.in"
         }
       ]
@@ -285,10 +285,10 @@
       "active": true,
       "sources": [
         {
-          "label": "Official",
-          "url": "https://www.srmist.edu.in/",
+          "label": "SRM Admissions Page",
+          "url": "https://www.srmist.edu.in/admission/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='.pdf'], a[href*='notice'], a[href*='announcement']",
           "base_url": "https://www.srmist.edu.in"
         }
       ]
@@ -303,7 +303,7 @@
           "label": "Official",
           "url": "https://www.cuh.ac.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='/admin/uploads/'], a[href*='admission']",
           "base_url": "https://www.cuh.ac.in"
         }
       ]
@@ -318,7 +318,7 @@
           "label": "Official",
           "url": "https://jacchd.admissions.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='/document/'], a[href*='cdnbbsr']",
           "base_url": "https://jacchd.admissions.nic.in"
         }
       ]
@@ -330,11 +330,11 @@
       "active": true,
       "sources": [
         {
-          "label": "Official",
-          "url": "https://nest.lpu.in/",
+          "label": "LPU NEST Updates",
+          "url": "https://www.lpu.in/admission/admissions.php",
           "fetch_type": "html_scrape",
-          "selector": "a",
-          "base_url": "https://nest.lpu.in"
+          "selector": "a[href*='.pdf'], a[href*='notice'], a[href*='news'], a[href*='update']",
+          "base_url": "https://www.lpu.in"
         }
       ]
     },
@@ -348,7 +348,7 @@
           "label": "Official",
           "url": "https://jacdelhi.admissions.nic.in/",
           "fetch_type": "html_scrape",
-          "selector": "a",
+          "selector": "a[href*='cdnbbsr']",
           "base_url": "https://jacdelhi.admissions.nic.in"
         }
       ]
