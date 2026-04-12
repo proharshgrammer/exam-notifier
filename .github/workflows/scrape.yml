@@ -2,8 +2,8 @@ name: Exam Tracker – Scrape & Update
 
 on:
   schedule:
-    # Runs every 60 minutes (GitHub Actions minimum is 5 mins, but 60 is polite)
-    - cron: "0 * * * *"
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:  # Also allows manual trigger from GitHub UI
 
 permissions:
