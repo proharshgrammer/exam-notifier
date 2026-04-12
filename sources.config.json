@@ -359,6 +359,21 @@
           "base_url": "https://jacdelhi.admissions.nic.in"
         }
       ]
+    },
+    {
+      "id": "udaan_test",
+      "name": "Udaan Test",
+      "category": "Testing",
+      "active": true,
+      "sources": [
+        {
+          "label": "Udaan Testing",
+          "url": "https://udaanvidyapeeth.com/",
+          "fetch_type": "html_scrape",
+          "selector": "a.announcement-test, .notice-board a, a",
+          "base_url": "https://udaanvidyapeeth.com"
+        }
+      ]
     }
   ],
   "settings": {
