@@ -1,5 +1,27 @@
 [
   {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260413192806.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "7a432f8475517097d9cd5c777f3aa7f6",
+    "fetched_at": "2026-04-13T15:19:19.271404+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260413195313.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "522df94b66cf2ba146b3ed7748eed24a",
+    "fetched_at": "2026-04-13T15:19:17.758451+00:00"
+  },
+  {
     "title": "Notice : Downloading of CET 2026 Hall Ticket",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/Important-Notice-Admit-Card-CET-2026.pdf",
     "exam": "MHT-CET",
