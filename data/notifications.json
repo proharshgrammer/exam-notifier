@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notice : Downloading of CET 2026 Hall Ticket",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/Important-Notice-Admit-Card-CET-2026.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "39fc87ba7d174ffc9902d2a1d9edd093",
+    "fetched_at": "2026-04-13T11:52:01.962125+00:00"
+  },
+  {
     "title": "Notice: Declaration of Result of the Upgradation Round and Freezing option",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2025/07/2025071921.pdf",
     "exam": "JAC Delhi",
