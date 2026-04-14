@@ -1,5 +1,27 @@
 [
   {
+    "title": "Extension of Last Date for Submission of Photo Verification Certificate for Common University Entrance Test [CUET (UG)] – 2026-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/20260414841689472.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "b4fbd4e5aa11bef15208d5665991d965",
+    "fetched_at": "2026-04-14T12:40:13.993102+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260414164445.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "96231c729b2932e545c1976c3b1f6b17",
+    "fetched_at": "2026-04-14T12:40:04.517545+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260413192806.pdf",
     "exam": "JEE Mains",
