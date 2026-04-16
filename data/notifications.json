@@ -1,5 +1,27 @@
 [
   {
+    "title": "Portal for opting their own scribe details from concerned PwD/PwBD candidates of NEET (UG) – 2026 – reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/202604161250694206.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "aab8f7b46bc18bebb4317143616aae06",
+    "fetched_at": "2026-04-16T12:00:57.106923+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260416171457.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "a64c740845f6e1e458fb2319f1ef94bd",
+    "fetched_at": "2026-04-16T12:00:51.962439+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260416131815.pdf",
     "exam": "JEE Mains",
