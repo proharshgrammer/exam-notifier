@@ -1,5 +1,16 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/instructional-manual-for-srmjeee-ug-2026-phase-i.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "6bcc338816b522b13d14dd4a5a92f798",
+    "fetched_at": "2026-04-17T06:09:14.296354+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260416193715.PDF",
     "exam": "JEE Mains",
