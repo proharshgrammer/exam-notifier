@@ -1,6 +1,17 @@
 [
   {
     "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260420132025.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "719f6a906754ecc364a6e8cef49926ae",
+    "fetched_at": "2026-04-20T08:34:30.602786+00:00"
+  },
+  {
+    "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260418120309.pdf",
     "exam": "JEE Mains",
     "exam_id": "jee_mains",
