@@ -1,5 +1,27 @@
 [
   {
+    "title": "MBA/MMS CET: Document on Normalization",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/MBA-Normalization-2026.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "b495d0847cd1715bea1c67bd4e636e86",
+    "fetched_at": "2026-04-22T14:48:40.209160+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260422192859.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "3fd34d8c156f852ac476616c20a3a86b",
+    "fetched_at": "2026-04-22T14:48:16.404783+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260422151101.pdf",
     "exam": "JEE Mains",
