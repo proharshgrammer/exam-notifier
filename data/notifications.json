@@ -1,5 +1,27 @@
 [
   {
+    "title": "Release of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026- reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/202604262116105512.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "bc4e916a4e183320a42f8590f093046b",
+    "fetched_at": "2026-04-26T16:51:51.112398+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260426213351.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "858cc162a54a386fc65bc100d12069c6",
+    "fetched_at": "2026-04-26T16:51:46.613328+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260425181933.pdf",
     "exam": "JEE Mains",
