@@ -1,5 +1,16 @@
 [
   {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260429170513.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b88eb5f11fa42b85c9d60a4928c1190a",
+    "fetched_at": "2026-04-29T11:42:02.808574+00:00"
+  },
+  {
     "title": "tentative schedule (including NEET-SS 2026) of forthcoming NBEMS Examinations.",
     "url": "https://natboard.edu.in/viewNotice.php?NBE=dkU5K0VnZjY0ellZSTh2dlF4UnNUdz09",
     "exam": "NEET PG",
