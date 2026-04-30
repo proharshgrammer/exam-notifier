@@ -1,5 +1,60 @@
 [
   {
+    "title": "Assistant Law Officer",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/law_officer_ARA.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "903eb626a3f2207d513b9fac756a73a6",
+    "fetched_at": "2026-04-30T13:07:34.510270+00:00"
+  },
+  {
+    "title": "Seeking Scribe details for availing the facility of Scribe by PwD/ PwBD candidates in CUET (UG)- 2026-regarding.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/202604301825745464.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "fd44359b5e03c2422b5abe9a9fe56b27",
+    "fetched_at": "2026-04-30T13:07:19.425610+00:00"
+  },
+  {
+    "title": "Advisory for Candidates Regarding Dress Code and Permissible Items",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/20260430667364505.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "d87f3bd984180731397bcbeb6c83174f",
+    "fetched_at": "2026-04-30T13:07:12.801653+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260430172700.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "01bdf3de907655b1120d7bb5e91ab34d",
+    "fetched_at": "2026-04-30T13:07:09.148013+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260430180536.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "98db808c17d072e0fce14416a47c3ca5",
+    "fetched_at": "2026-04-30T13:07:07.359300+00:00"
+  },
+  {
     "title": "Advisory for Biometric Exception in NEET (UG) – 2026 -reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/202604291441667113.pdf",
     "exam": "NEET UG",
