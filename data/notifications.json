@@ -1,5 +1,38 @@
 [
   {
+    "title": "Extension of window for PwD/PwBD candidates for seeking scribe details -regarding.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/202605061069460532.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "226736f7b414747fe5b396df65e6f380",
+    "fetched_at": "2026-05-06T13:16:08.490281+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260506173154.PDF",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "17ef2e73f1994d0d14bad4a357c50e9b",
+    "fetched_at": "2026-05-06T13:15:58.427757+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260506175909.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b93cfed51466d8f1cf73eb467b7728b2",
+    "fetched_at": "2026-05-06T13:15:56.151183+00:00"
+  },
+  {
     "title": "Press Released dated 05 May 2026: 96.6% of Candidates Allotted Preferred City; Re-allocation Window Opens for Remaining Candidates",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/2026050559482061.pdf",
     "exam": "CUET UG",
