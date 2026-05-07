@@ -1,5 +1,27 @@
 [
   {
+    "title": "Process/Business Rule",
+    "url": "https://jacchd.admissions.nic.in/document/business-rules/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "0b5c7d002e8e5f3fd9c6e4bb9e2f9a45",
+    "fetched_at": "2026-05-07T10:31:27.454889+00:00"
+  },
+  {
+    "title": "EWS Certificate for Panjab University",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2025/05/2025052970.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "09a43c620a878a34f75c74e9f9bc124f",
+    "fetched_at": "2026-05-07T10:31:25.629395+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-1-scholarships-2026.pdf",
     "exam": "SRMJEE",
