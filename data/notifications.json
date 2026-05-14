@@ -1,5 +1,16 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-2026-phase-1-round-1-e-counselling-manual.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "ebc31308ee4d33cd68cfdbee73f06df4",
+    "fetched_at": "2026-05-14T11:00:57.451405+00:00"
+  },
+  {
     "title": "Counselling Schedule (Tentative) JAC-2026",
     "url": "https://jacchd.admissions.nic.in/document/counselling-schedule-tentative-jac-2026/",
     "exam": "JAC CHD",
