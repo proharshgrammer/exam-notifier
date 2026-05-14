@@ -1,5 +1,27 @@
 [
   {
+    "title": "Documents required for wards of Kashmiri Migrants or Displaced Persons",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/05/20260514901545507.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "a4a8d01e51a792634880c7c3c0800b72",
+    "fetched_at": "2026-05-14T13:03:26.183954+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260514174819.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "e3c3212a37429e2282eedcdde4367871",
+    "fetched_at": "2026-05-14T12:59:56.181827+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-2026-phase-1-round-1-e-counselling-manual.pdf",
     "exam": "SRMJEE",
