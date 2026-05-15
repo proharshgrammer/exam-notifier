@@ -1,5 +1,16 @@
 [
   {
+    "title": "Conduct of Re-examination for National Eligibility-cum-Entrance Test [NEET (UG)] 2026 – Reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "d178070b734cf98d48167b99dac8295a",
+    "fetched_at": "2026-05-15T15:37:20.064933+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260515181731.pdf",
     "exam": "JEE Mains",
