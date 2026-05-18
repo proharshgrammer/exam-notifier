@@ -1,5 +1,16 @@
 [
   {
+    "title": "Business Rules",
+    "url": "https://jacchd.admissions.nic.in/document/business-rules-2/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "1031485064abecb061c2007d1b3c5ed1",
+    "fetched_at": "2026-05-18T08:34:32.480556+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260517181626.pdf",
     "exam": "JEE Mains",
