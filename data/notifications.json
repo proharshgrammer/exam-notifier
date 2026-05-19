@@ -1,5 +1,16 @@
 [
   {
+    "title": "Counselling Schedule (Tentative) JAC-2026 (Updated on 19-05-2026)",
+    "url": "https://jacchd.admissions.nic.in/document/counselling-schedule-tentative-jac-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "472d45561d1a3dfbf6d978cb575b8ac6",
+    "fetched_at": "2026-05-19T06:16:20.393392+00:00"
+  },
+  {
     "title": "Date Extension for Answer Key Challenge",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
     "exam": "OJEE",
