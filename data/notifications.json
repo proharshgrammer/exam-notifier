@@ -1,5 +1,27 @@
 [
   {
+    "title": "Guidelines and Counselling Process",
+    "url": "https://jacchd.admissions.nic.in/document/business-rules-2/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "a41bf90e89fc98d6143d264d59807802",
+    "fetched_at": "2026-05-21T11:50:59.961131+00:00"
+  },
+  {
+    "title": "PU Institutes Admission Details",
+    "url": "https://jacchd.admissions.nic.in/document/pu-institutes-admission-details/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "8416b0ba2f16e7ecfb7d6dde151d3973",
+    "fetched_at": "2026-05-21T11:50:57.881064+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
     "exam": "JEE Mains",
