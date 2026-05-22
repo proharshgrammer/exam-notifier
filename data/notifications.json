@@ -1,5 +1,38 @@
 [
   {
+    "title": "Public Notice dated 12.05.2026 regarding refund of examination fee for NEET (UG)-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605222022919758.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "3678da35ae855d2429109435ce805537",
+    "fetched_at": "2026-05-22T17:56:55.323450+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222328.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "a601d3f994bf23cce04df043141b00a3",
+    "fetched_at": "2026-05-22T17:56:51.167865+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222657.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "6bf44b14f33492150322e103657ff5e9",
+    "fetched_at": "2026-05-22T17:56:49.248723+00:00"
+  },
+  {
     "title": "Guidelines and Counselling Process",
     "url": "https://jacchd.admissions.nic.in/document/business-rules-2/",
     "exam": "JAC CHD",
