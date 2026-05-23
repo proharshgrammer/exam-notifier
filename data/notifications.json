@@ -1,5 +1,16 @@
 [
   {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260523100239.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "66ed5e0149559c31b781a67810907950",
+    "fetched_at": "2026-05-23T05:05:45.547760+00:00"
+  },
+  {
     "title": "Public Notice dated 12.05.2026 regarding refund of examination fee for NEET (UG)-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605222022919758.pdf",
     "exam": "NEET UG",
