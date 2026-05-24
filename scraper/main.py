@@ -11,6 +11,13 @@ import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Ensure UTF-8 printing on Windows terminals
+if sys.stdout.encoding != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
+
 # Fix import path for notifier
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -27,26 +34,26 @@ SEEN_FILE = ROOT / "data" / "seen_hashes.json"
 
 
 def load_config() -> dict:
-    with open(CONFIG_FILE) as f:
+    with open(CONFIG_FILE, encoding="utf-8") as f:
         return json.load(f)
 
 
 def load_existing_data() -> list:
     if DATA_FILE.exists():
-        with open(DATA_FILE) as f:
+        with open(DATA_FILE, encoding="utf-8") as f:
             return json.load(f)
     return []
 
 
 def load_seen_hashes() -> set:
     if SEEN_FILE.exists():
-        with open(SEEN_FILE) as f:
+        with open(SEEN_FILE, encoding="utf-8") as f:
             return set(json.load(f))
     return set()
 
 
 def save_seen_hashes(hashes: set):
-    with open(SEEN_FILE, "w") as f:
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(list(hashes), f)
 
 
@@ -54,7 +61,7 @@ def save_notifications(notifications: list):
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     # Keep most recent 500 notifications to keep file small
     notifications = sorted(notifications, key=lambda x: x["fetched_at"], reverse=True)[:500]
-    with open(DATA_FILE, "w") as f:
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(notifications, f, indent=2, ensure_ascii=False)
 
 

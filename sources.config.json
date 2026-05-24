@@ -228,16 +228,16 @@
     },
     {
       "id": "uptu",
-      "name": "UPTU",
+      "name": "UPTAC (UPTU)",
       "category": "Counselling",
       "active": true,
       "sources": [
         {
           "label": "Official",
-          "url": "https://uptac.admissions.nic.in/",
+          "url": "https://uptac.samarth.edu.in/index.php/notifications/index",
           "fetch_type": "html_scrape",
-          "selector": "a[href*='/document/'], a[href*='cdnbbsr']",
-          "base_url": "https://uptac.admissions.nic.in"
+          "selector": "a[href*='samarth-admission'], a[href*='cdnbbsr'], a[href*='.pdf']",
+          "base_url": "https://uptac.samarth.edu.in"
         }
       ]
     },
@@ -343,6 +343,81 @@
           "fetch_type": "html_scrape",
           "selector": "a[href*='cdnbbsr']",
           "base_url": "https://jacdelhi.admissions.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "hbtu",
+      "name": "HBTU Counselling",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "HBTU Portal",
+          "url": "https://hbtu.admissions.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a[href*='/document/'], a[href*='cdnbbsr'], a[href*='.pdf']",
+          "base_url": "https://hbtu.admissions.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "mmmut",
+      "name": "MMMUT Counselling",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "MMMUT Main",
+          "url": "https://www.mmmut.ac.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a[href*='News_content/'], a[href*='.pdf']",
+          "base_url": "https://www.mmmut.ac.in"
+        }
+      ]
+    },
+    {
+      "id": "ggsipu",
+      "name": "GGSIPU (IPU)",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "IPU Portal",
+          "url": "https://ipu.admissions.nic.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a[href*='cdnbbsr'], a[href*='/document/'], a[href*='.pdf']",
+          "base_url": "https://ipu.admissions.nic.in"
+        }
+      ]
+    },
+    {
+      "id": "mpdte",
+      "name": "MPDTE",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "MPDTE Portal",
+          "url": "https://dte.mponline.gov.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a[href*='.pdf']",
+          "base_url": "https://dte.mponline.gov.in"
+        }
+      ]
+    },
+    {
+      "id": "hstes",
+      "name": "HSTES",
+      "category": "Counselling",
+      "active": true,
+      "sources": [
+        {
+          "label": "HSTES Portal",
+          "url": "https://hstes.org.in/",
+          "fetch_type": "html_scrape",
+          "selector": "a[href*='.pdf'], a[href*='notice']",
+          "base_url": "https://hstes.org.in"
         }
       ]
     }
