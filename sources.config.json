@@ -84,22 +84,22 @@
       "sources": [
         {
           "label": "CUET PG Official",
-          "url": "https://pgcuet.nta.nic.in/",
+          "url": "https://exams.nta.nic.in/cuet-pg/",
           "fetch_type": "html_scrape",
           "selector": "a[href*='cdnbbsr'], a[href*='/document/']",
-          "base_url": "https://pgcuet.nta.nic.in"
+          "base_url": "https://exams.nta.nic.in"
         }
       ]
     },
     {
       "id": "wbjee",
       "name": "WBJEE",
-      "category": "State Engineering \u2013 West Bengal",
+      "category": "State Engineering – West Bengal",
       "active": true,
       "sources": [
         {
           "label": "WBJEEB Official Website",
-          "url": "https://wbjeeb.nic.in/",
+          "url": "https://wbjeeb.nic.in/wbjee/",
           "fetch_type": "html_scrape",
           "selector": "a[href*='cdnbbsr'], a[href*='/document/']",
           "base_url": "https://wbjeeb.nic.in"
@@ -154,15 +154,15 @@
     {
       "id": "ts_eamcet",
       "name": "TS EAMCET",
-      "category": "State Engineering \u2013 Telangana",
+      "category": "State Engineering – Telangana",
       "active": true,
       "sources": [
         {
           "label": "TS EAMCET Official",
-          "url": "https://eapcet-sche.tsche.ac.in/",
+          "url": "https://eapcet.tgche.ac.in/",
           "fetch_type": "html_scrape",
           "selector": "a[href*='.pdf'], a[href*='notification'], a[href*='notice']",
-          "base_url": "https://eapcet-sche.tsche.ac.in"
+          "base_url": "https://eapcet.tgche.ac.in"
         }
       ]
     },
