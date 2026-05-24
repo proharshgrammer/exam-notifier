@@ -65,7 +65,8 @@ def log_to_sheets(item: dict) -> bool:
             item.get("url", ""),
         ]
 
-        # Ensure header row exists
+        # Ensure tab exists and write header
+        _ensure_sheet_tab_exists(service)
         _ensure_header(service)
 
         service.spreadsheets().values().append(
@@ -80,7 +81,46 @@ def log_to_sheets(item: dict) -> bool:
 
     except Exception as e:
         print(f"    [Sheets] Failed to log: {e}")
+        err_str = str(e)
+        
+        # Diagnostic assistance for users
+        client_email = "your-service-account-email"
+        try:
+            client_email = json.loads(SERVICE_ACCOUNT_JSON).get("client_email", client_email)
+        except Exception:
+            pass
+            
+        if "403" in err_str or "permission" in err_str.lower():
+            print(f"    👉 TROUBLESHOOTING: Access Denied (403). Ensure you shared the Google Sheet with the Service Account email: '{client_email}' as an 'Editor'.")
+        elif "404" in err_str or "requested entity was not found" in err_str.lower():
+            print(f"    👉 TROUBLESHOOTING: Spreadsheet Not Found (404). Check if the GOOGLE_SHEET_ID secret is exactly correct.")
+        elif "API key not valid" in err_str or "invalid credentials" in err_str.lower():
+            print(f"    👉 TROUBLESHOOTING: Authentication failed. Verify that GOOGLE_SERVICE_ACCOUNT_JSON secret is a valid GCP key JSON.")
         return False
+
+
+def _ensure_sheet_tab_exists(service):
+    """Check if the sheet/tab exists, and create it if it does not."""
+    try:
+        spreadsheet = service.spreadsheets().get(spreadsheetId=SHEET_ID).execute()
+        sheet_titles = [s['properties']['title'] for s in spreadsheet.get('sheets', [])]
+        if SHEET_TAB not in sheet_titles:
+            print(f"    [Sheets] Creating missing tab '{SHEET_TAB}'...")
+            body = {
+                'requests': [
+                    {
+                        'addSheet': {
+                            'properties': {
+                                'title': SHEET_TAB
+                            }
+                        }
+                    }
+                ]
+            }
+            service.spreadsheets().batchUpdate(spreadsheetId=SHEET_ID, body=body).execute()
+    except Exception as e:
+        # Pass and let _ensure_header fail if it is a major connection error
+        pass
 
 
 def _ensure_header(service):
