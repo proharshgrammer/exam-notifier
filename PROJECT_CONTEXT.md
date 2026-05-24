@@ -156,8 +156,9 @@ Created and appended in [sheets_logger.py](file:///e:/Coding/Projects/Notificati
 
 - **[notifier/sheets_logger.py](file:///e:/Coding/Projects/Notification Dashboard/notifier/sheets_logger.py)**:
   - Connects using a Google Cloud Service Account JSON Key stored in the `GOOGLE_SERVICE_ACCOUNT_JSON` environment variable.
-  - Ensures a header row with defined columns exists before appending data using `_ensure_header(service)`.
-  - Appends new notification rows into the sheet tab `"Notifications"` using Google Sheets API `append()` requests.
+  - Automatically verifies and creates the `"Notifications"` tab if it does not exist in the workbook to prevent range errors.
+  - Writes a header row if the sheet is empty, then appends new notification rows using Google Sheets API `append()` requests.
+  - Implements custom troubleshooting hints for Google API errors (e.g. printing the exact service account email to share the sheet with on `403 Permission Denied`).
 
 ### 3. Frontend Dashboard
 - **[index.html](file:///e:/Coding/Projects/Notification Dashboard/index.html)**:
