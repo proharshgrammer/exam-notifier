@@ -1,5 +1,27 @@
 [
   {
+    "title": "Rescheduling of Common University Entrance Test [CUET (UG)] 2026– Reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/202605241460504032.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "f535c88b31ce0bd1f3b550aaf6314908",
+    "fetched_at": "2026-05-24T12:42:13.173082+00:00"
+  },
+  {
+    "title": "Read More",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260524180310.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "fcc3a0583b89a046792df14e89aa90e2",
+    "fetched_at": "2026-05-24T12:42:04.389415+00:00"
+  },
+  {
     "title": "Read More",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260523100239.pdf",
     "exam": "JEE Mains",
