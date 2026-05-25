@@ -23,8 +23,11 @@ def parse_notifications(raw_content, src_config: dict, exam_config: dict) -> lis
 
     if fetch_type == "rss":
         return _parse_rss(raw_content, src_config, exam_config)
+    elif fetch_type == "json":
+        return _parse_json(raw_content, src_config, exam_config)
     else:
         return _parse_html(raw_content, src_config, exam_config)
+
 
 
 # ── HTML Parser ────────────────────────────────────────────────────────────────
@@ -138,3 +141,81 @@ def _clean_text(text: str) -> str:
     # Remove common noise like "New" badge text, arrows, etc.
     text = re.sub(r"^(new|updated|hot|important)\s*", "", text, flags=re.IGNORECASE)
     return text
+
+
+# ── JSON Parser ────────────────────────────────────────────────────────────────
+
+def _resolve_json_path(data, path: str):
+    """
+    Resolve a dot-separated path in a nested dictionary/list.
+    E.g. _resolve_json_path({"data": {"items": [1, 2]}}, "data.items") -> [1, 2]
+    """
+    if not path:
+        return data
+    parts = path.split(".")
+    curr = data
+    for part in parts:
+        if isinstance(curr, dict) and part in curr:
+            curr = curr[part]
+        elif isinstance(curr, list):
+            try:
+                idx = int(part)
+                curr = curr[idx]
+            except ValueError:
+                return None
+        else:
+            return None
+    return curr
+
+
+def _parse_json(json_data, src_config: dict, exam_config: dict) -> list[dict]:
+    json_selector = src_config.get("json_selector", "")
+    title_key = src_config.get("title_key", "title")
+    url_key = src_config.get("url_key", "url")
+    base_url = src_config.get("base_url", "")
+    max_items = 10
+
+    # Resolve the path to find the items list
+    items_list = _resolve_json_path(json_data, json_selector)
+    
+    if not isinstance(items_list, list):
+        if isinstance(items_list, dict):
+            items_list = [items_list]
+        else:
+            print(f"    [Parser] JSON data resolved at '{json_selector}' is not a list or dictionary.")
+            return []
+
+    results = []
+    seen_urls = set()
+
+    for item in items_list[:max_items * 3]:
+        # Resolve title and url keys (could be nested dot-paths)
+        raw_title = _resolve_json_path(item, title_key)
+        raw_url = _resolve_json_path(item, url_key)
+
+        if not raw_title or not raw_url:
+            continue
+
+        title = _clean_text(str(raw_title))
+        href = str(raw_url).strip()
+
+        if not title or len(title) < 8:
+            continue
+        if not href or href in ("#", "javascript:void(0)", ""):
+            continue
+
+        # Convert to absolute URL using base_url or domain if relative
+        from urllib.parse import urljoin
+        full_url = urljoin(base_url, href) if not href.startswith("http") else href
+
+        if full_url in seen_urls:
+            continue
+        seen_urls.add(full_url)
+
+        results.append(_build_item(title, full_url, src_config, exam_config))
+
+        if len(results) >= max_items:
+            break
+
+    return results
+

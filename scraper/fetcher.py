@@ -8,6 +8,10 @@ import feedparser
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import urllib3
+
+# Suppress insecure request warnings when verify=False is used in fallbacks
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 HEADERS = {
     "User-Agent": (
@@ -30,17 +34,18 @@ def _build_session() -> requests.Session:
     return session
 
 
-def fetch_source(url: str, fetch_type: str) -> str | dict:
+def fetch_source(url: str, fetch_type: str) -> str | dict | list:
     """
     Fetch content from a source URL.
 
     Args:
         url: The URL to fetch.
-        fetch_type: One of 'html_scrape', 'rss'
+        fetch_type: One of 'html_scrape', 'rss', 'json'
 
     Returns:
         For html_scrape: raw HTML string
         For rss: parsed feedparser dict
+        For json: parsed JSON list or dictionary
     """
     time.sleep(1)  # Polite delay between requests
 
@@ -50,9 +55,22 @@ def fetch_source(url: str, fetch_type: str) -> str | dict:
             raise ValueError(f"Failed to parse RSS feed: {url}")
         return feed
 
-    # Default: html_scrape
     session = _build_session()
-    response = session.get(url, headers=HEADERS, timeout=TIMEOUT)
-    response.raise_for_status()
+    
+    # Try fetching with SSL verification first
+    try:
+        response = session.get(url, headers=HEADERS, timeout=TIMEOUT)
+        response.raise_for_status()
+    except requests.exceptions.SSLError:
+        # Fallback: retry with verify=False if SSL verification fails (e.g. BITSAT)
+        print(f"    [Fetcher] SSL verification failed for {url}. Retrying with verify=False...")
+        response = session.get(url, headers=HEADERS, timeout=TIMEOUT, verify=False)
+        response.raise_for_status()
+
+    if fetch_type == "json":
+        return response.json()
+
+    # Default: html_scrape
     response.encoding = response.apparent_encoding or "utf-8"
     return response.text
+

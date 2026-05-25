@@ -88,6 +88,10 @@ Stored in [notifications.json](file:///e:/Coding/Projects/Notification Dashboard
 Stored in [sources.config.json](file:///e:/Coding/Projects/Notification Dashboard/sources.config.json). Configures URLs and selectors for parsing.
 - **`sources`**: A list of exam metadata.
 - **`settings`**: Scraper scheduling/capping settings.
+
+#### Source Configuration Options:
+*   **HTML Scrape / RSS**: Configured via `"fetch_type": "html_scrape"` or `"rss"`. Uses `"selector"` (CSS Selector).
+*   **JSON API Scrape**: Configured via `"fetch_type": "json"`. Uses `"json_selector"` (dot-path to notice array), `"title_key"` (dot-path to title), and `"url_key"` (dot-path to link).
 ```json
 {
   "sources": [
@@ -140,10 +144,13 @@ Created and appended in [sheets_logger.py](file:///e:/Coding/Projects/Notificati
 - **[scraper/fetcher.py](file:///e:/Coding/Projects/Notification Dashboard/scraper/fetcher.py)**:
   - Configures standard web browser headers to bypass rudimentary bot blocklists.
   - Implements `urllib3`'s `Retry` handler for resilient HTTP connections, supporting automatic 3-retry strategies with exponential backoffs.
-  - Provides `fetch_source(url, fetch_type)`: parses RSS using `feedparser` or HTML text pages using `requests`.
+  - Provides `fetch_source(url, fetch_type)`: parses RSS using `feedparser`, fetches HTML text using `requests`, or returns parsed JSON lists/dicts.
+  - Automatically handles SSL handshake failures (`SSLError`) by retrying with SSL verification disabled (`verify=False`).
 
 - **[scraper/parser.py](file:///e:/Coding/Projects/Notification Dashboard/scraper/parser.py)**:
+  - Supports routing for HTML scraping, RSS parsing, and JSON API payloads.
   - Uses `BeautifulSoup` to process HTML content using the configured CSS selectors.
+  - Implements `_resolve_json_path` for JSON data, extracting data points via nested dot-notation paths.
   - Normalizes relative links using the `base_url` defined inside the source settings.
   - Features a smart title resolver `_resolve_generic_title` that extracts text from sibling columns or parent heading nodes when anchor link texts are generic (like "View Document", "View Announcement", "Download", etc.).
   - Includes a text cleanup function `_clean_text()` that strips excessive whitespace and removes noisy starting badge labels like "New", "Updated", "Hot", or "Important".
