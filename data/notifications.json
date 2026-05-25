@@ -1,5 +1,27 @@
 [
   {
+    "title": "Provisional Answer Keys of JEE (Advanced) 2026 are now available: [Paper 1, Paper 2]",
+    "url": "https://jeeadv.ac.in/documents/p2_provisional_keys.pdf",
+    "exam": "JEE Advanced",
+    "exam_id": "jee_advanced",
+    "category": "Engineering Entrance",
+    "source_label": "Official Website",
+    "source_url": "https://jeeadv.ac.in/",
+    "id": "913ae828fd4ed66b48131c14d33bc74f",
+    "fetched_at": "2026-05-25T06:39:44.142285+00:00"
+  },
+  {
+    "title": "Provisional Answer Keys of JEE (Advanced) 2026 are now available: [Paper 1, Paper 2]",
+    "url": "https://jeeadv.ac.in/documents/p1_provisional_keys.pdf",
+    "exam": "JEE Advanced",
+    "exam_id": "jee_advanced",
+    "category": "Engineering Entrance",
+    "source_label": "Official Website",
+    "source_url": "https://jeeadv.ac.in/",
+    "id": "35cfbb8b5269d350c794f6be183e812f",
+    "fetched_at": "2026-05-25T06:39:41.857879+00:00"
+  },
+  {
     "title": "Rules of the Examination of WBJEE 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101034829476.pdf",
     "exam": "WBJEE",
