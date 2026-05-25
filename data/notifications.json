@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260525132221.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "2e47e3b9d8466700ef71e61a5eb7ebf2",
+    "fetched_at": "2026-05-25T11:13:20.970990+00:00"
+  },
+  {
     "title": "Provisional Answer Keys of JEE (Advanced) 2026 are now available: [Paper 1, Paper 2]",
     "url": "https://jeeadv.ac.in/documents/p2_provisional_keys.pdf",
     "exam": "JEE Advanced",
