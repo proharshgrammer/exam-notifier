@@ -1,5 +1,16 @@
 [
   {
+    "title": "Prospectus",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/f07c19d93b32d0c74a7ca85f5a5ca2bb21cc878fa0a98bff1d646072ac7df05b17791698601_admission_docs.pdf/1",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "61b3d879b1d2795ce4dcfe8b36e47253",
+    "fetched_at": "2026-05-25T18:30:06.821285+00:00"
+  },
+  {
     "title": "Beware of fraudulent calls, emails, SMS, and social media messages claiming to offer direct admission to BITS Pilani. Do not fall prey for such false claims. If you come across any, please report them to the admission office immediately. Remember, https://admissions.bits-pilani.ac.in/ is the only official website for BITS Pilani admissions. Click here for more details.",
     "url": "https://admissions.bits-pilani.ac.in/downloads/Not_to_fall_prey.pdf?06012025",
     "exam": "BITSAT",
