@@ -1,5 +1,27 @@
 [
   {
+    "title": "Admission Notice for B.Tech. & B.Arch. Programmes 2026-2027",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261439374361.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "75698aeff28d62b742fcce8130bb6713",
+    "fetched_at": "2026-05-26T13:31:42.723247+00:00"
+  },
+  {
+    "title": "Notice regarding Provisional or Model Answer Keys of WBJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/05/202605261597279141.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "ffdd3d95ac804ea628da9a555b6a2eec",
+    "fetched_at": "2026-05-26T13:27:36.340693+00:00"
+  },
+  {
     "title": "Beware of Touts/Agents Promising Admissions",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261129471745.pdf",
     "exam": "JAC Delhi",
