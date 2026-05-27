@@ -1,5 +1,49 @@
 [
   {
+    "title": "Offline Counselling for the programme Lateral Entry to B.Tech. Programmes for B.SC. Graduates (prog. Code 129)_dated-27.05.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/20260527327560860.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "20c8d6d5dc4d637573ae757a63809521",
+    "fetched_at": "2026-05-27T12:29:38.319588+00:00"
+  },
+  {
+    "title": "BEWARE OF TOUTS PROMISING ADMISSIONS IN GGSIPU 2026-27_dated-27.05.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/202605271896348938.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "31641ed1f722dc473610c4e3796e53d3",
+    "fetched_at": "2026-05-27T12:29:36.189765+00:00"
+  },
+  {
+    "title": "Public Notice: Submission of Candidates Grievances/ Objections Raising Schedule (MAH-MHT CET 2026) PCM Group Second Attempt",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/05/OT-NOTICE-MHT-CET-2026-PCM-Second-Attempt.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "3faa5ab9de6733ec07689145bfa8afaa",
+    "fetched_at": "2026-05-27T12:23:51.738344+00:00"
+  },
+  {
+    "title": "MHT-CET 2026: Document on Normalization",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/MHT-CET-2026-Result-Processing-Methodology.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "bb5d92583ca2eaede0ca1f7f63aec729",
+    "fetched_at": "2026-05-27T12:23:48.922351+00:00"
+  },
+  {
     "title": "Admission Notice for B.Tech. & B.Arch. Programmes 2026-2027",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261439374361.pdf",
     "exam": "JAC Delhi",
