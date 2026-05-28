@@ -1,5 +1,115 @@
 [
   {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/MCA.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "89c3a2ac8c61df84e4244c8133bf5260",
+    "fetched_at": "2026-05-28T04:56:38.582687+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/MBA.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "8e1ea8a8284dd50db5622548f175d974",
+    "fetched_at": "2026-05-28T04:56:37.078539+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPROF.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "5817589f236ddfceffbd8f9f66cbc96f",
+    "fetched_at": "2026-05-28T04:56:35.698332+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BDESIGN.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "2e80cbdaa0a580950ebcd0c0a5f44f10",
+    "fetched_at": "2026-05-28T04:56:34.335366+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPLANNING.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "6cceab8b0c6719d3918f03ce33f4fee0",
+    "fetched_at": "2026-05-28T04:56:32.914298+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LT.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "33b50a5923e76faa8503ef2f639b46ca",
+    "fetched_at": "2026-05-28T04:56:31.600707+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/HMT.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "44ba87231700a2b11ee74f5114777656",
+    "fetched_at": "2026-05-28T04:56:30.236671+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPHARM.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "a77b82333e9341d1ca853f19ec30d483",
+    "fetched_at": "2026-05-28T04:56:28.860227+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BE.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "2a2effd2775bd87311bbf9c9be67ed94",
+    "fetched_at": "2026-05-28T04:56:27.535896+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BARCH.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "15b6d7f8b01b0cbbcf6764a2834ec886",
+    "fetched_at": "2026-05-28T04:56:25.424429+00:00"
+  },
+  {
     "title": "Extension of Facility for Submission of Bank Account Details for Refund of Examination Fee of NEET (UG)-2026-reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605271711404199.pdf",
     "exam": "NEET UG",
