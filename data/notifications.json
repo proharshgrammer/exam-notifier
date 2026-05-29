@@ -1,5 +1,38 @@
 [
   {
+    "title": "Counselling Schedule JAC Delhi 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/20260529131371942.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "c0e51aaf2fe132db71b09b6c25748feb",
+    "fetched_at": "2026-05-29T10:35:31.073287+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260529120330.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "ca5fd40ecca1adf31c8d18f59bfecd14",
+    "fetched_at": "2026-05-29T10:30:42.301263+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260529120905.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "7394ec717cea73348160c75a1dd2eb34",
+    "fetched_at": "2026-05-29T10:30:39.847423+00:00"
+  },
+  {
     "title": "Rule book",
     "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/MCA.pdf",
     "exam": "MPDTE",
