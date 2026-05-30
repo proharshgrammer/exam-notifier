@@ -1,5 +1,16 @@
 [
   {
+    "title": "Counselling Schedule JAC Delhi 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605301812138363.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "7d5328c6a44c62a9cc84de01c5cf6cbb",
+    "fetched_at": "2026-05-30T10:08:54.578116+00:00"
+  },
+  {
     "title": "Counselling Process Quick Guide-2026",
     "url": "https://www.comedk.org/uploads/Counselling_Process_Quick_Guide_2026_-_Version_1_0.pdf",
     "exam": "COMEDK",
@@ -5487,16 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "2bc640d43511dfdfec94cd1ee4fbad24",
     "fetched_at": "2026-04-12T18:05:04.794264+00:00"
-  },
-  {
-    "title": "Accessibility Tools",
-    "url": "javascript:void(0);",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "cb9f66b7fedc25d4994ef05a389ac3dc",
-    "fetched_at": "2026-04-12T18:05:03.010489+00:00"
   }
 ]
