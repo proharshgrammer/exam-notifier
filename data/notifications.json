@@ -1,5 +1,38 @@
 [
   {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBPHARM.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "1f851c730b30c6832c7b2827f3e6bbd8",
+    "fetched_at": "2026-05-31T18:51:46.495386+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBE.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "91cd0167578109f18afbbf50d201f12e",
+    "fetched_at": "2026-05-31T18:51:45.180975+00:00"
+  },
+  {
+    "title": "Rule book",
+    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BCA.pdf",
+    "exam": "MPDTE",
+    "exam_id": "mpdte",
+    "category": "Counselling",
+    "source_label": "MPDTE Portal",
+    "source_url": "https://dte.mponline.gov.in/",
+    "id": "48b1c9a5a8fe98611876360c3236f8b9",
+    "fetched_at": "2026-05-31T18:51:42.004338+00:00"
+  },
+  {
     "title": "Re-scheduling of examination for the candidates affected due to technical glitch in CUET (UG) – 2026 on 30.05.2026 (Shift-I)-reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/20260530374646310.pdf",
     "exam": "CUET UG",
@@ -5465,38 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "eb68370cda051f6e3e32ca21f3f79542",
     "fetched_at": "2026-04-12T18:05:09.567610+00:00"
-  },
-  {
-    "title": "Instructions & Procedures",
-    "url": "https://josaa.nic.in/procedures/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "aaeb30145f7f8606cac431658364f0a9",
-    "fetched_at": "2026-04-12T18:05:08.632908+00:00"
-  },
-  {
-    "title": "Business Rules",
-    "url": "https://josaa.nic.in/information-bulletin/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "9ac5a12f0fc2bb0c3fa58db99681e01f",
-    "fetched_at": "2026-04-12T18:05:07.577230+00:00"
-  },
-  {
-    "title": "शिक्षा मंत्रालय / Ministry of education",
-    "url": "https://www.education.gov.in/en",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "b443cbcccf75121b6ee6e4e594dc90fd",
-    "fetched_at": "2026-04-12T18:05:06.697004+00:00"
   }
 ]
