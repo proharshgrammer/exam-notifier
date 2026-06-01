@@ -1,5 +1,16 @@
 [
   {
+    "title": "JoSAA Schedule 2026",
+    "url": "https://josaa.nic.in/document/josaa-schedule-2026/",
+    "exam": "JoSAA",
+    "exam_id": "josaa",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://josaa.nic.in/",
+    "id": "e63bcf1e8443560db1fb0c6582afe6dc",
+    "fetched_at": "2026-06-01T07:07:54.398745+00:00"
+  },
+  {
     "title": "Final Answer Key Paper 2",
     "url": "https://jeeadv.ac.in/documents/p2_solutions_final.pdf",
     "exam": "JEE Advanced",
@@ -5487,16 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "64c6c177c67a1f6ca4d06290b9594cd1",
     "fetched_at": "2026-04-12T18:05:15.614035+00:00"
-  },
-  {
-    "title": "Hide Images",
-    "url": "https://csab.nic.in/help/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "b8c5ed870dac286ef44b06c2a93f873a",
-    "fetched_at": "2026-04-12T18:05:14.643436+00:00"
   }
 ]
