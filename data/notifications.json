@@ -1,5 +1,38 @@
 [
   {
+    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION SESSION:2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606012100351080.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "54f6081b7c3e0b18acf7ffdb33faffbf",
+    "fetched_at": "2026-06-01T13:18:49.408319+00:00"
+  },
+  {
+    "title": "REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS FOR NEWLY INTRODUCED PARA MEDICAL / MEDICAL PROGRAMMES: A.S.2026-27_dated-01.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606011288511768.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "49b884b11919f69464e3d9d12d745c44",
+    "fetched_at": "2026-06-01T13:18:48.051813+00:00"
+  },
+  {
+    "title": "Business Rule",
+    "url": "https://josaa.nic.in/document/business-rule-3/",
+    "exam": "JoSAA",
+    "exam_id": "josaa",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://josaa.nic.in/",
+    "id": "6ba2d02584fbca84769f0d720730a1bf",
+    "fetched_at": "2026-06-01T13:16:43.797156+00:00"
+  },
+  {
     "title": "JoSAA Schedule 2026",
     "url": "https://josaa.nic.in/document/josaa-schedule-2026/",
     "exam": "JoSAA",
@@ -5465,38 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "43dc1368e8b132208aa8544b365a79fd",
     "fetched_at": "2026-04-12T18:05:18.259064+00:00"
-  },
-  {
-    "title": "Chairman Message",
-    "url": "https://csab.nic.in/message-from-chairman/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "cd00d35e4303c2fa409f2567f2713f86",
-    "fetched_at": "2026-04-12T18:05:17.381261+00:00"
-  },
-  {
-    "title": "Contact Us",
-    "url": "https://csab.nic.in/contact-us/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "97fe2b193f1cda9206a534d42ee0e1f8",
-    "fetched_at": "2026-04-12T18:05:16.522712+00:00"
-  },
-  {
-    "title": "शिक्षा मंत्रालय / Ministry of Education",
-    "url": "https://www.education.gov.in/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "64c6c177c67a1f6ca4d06290b9594cd1",
-    "fetched_at": "2026-04-12T18:05:15.614035+00:00"
   }
 ]
