@@ -1,5 +1,49 @@
 [
   {
+    "title": "Business Rules 2026",
+    "url": "https://josaa.nic.in/document/business-rule-3/",
+    "exam": "JoSAA",
+    "exam_id": "josaa",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://josaa.nic.in/",
+    "id": "5002a2eb50ad2ae1481d14787845686b",
+    "fetched_at": "2026-06-01T19:12:03.148953+00:00"
+  },
+  {
+    "title": "Release of admit cards for re-scheduled candidates for CUET (UG)- 2026 on 06-07 June 2026-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260601958335840.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "d23400a4a58e51c0a01b1f1a88af9f09",
+    "fetched_at": "2026-06-01T19:08:37.733701+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260601213514.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "198e723e816b772e2bf4e18cddea6f6a",
+    "fetched_at": "2026-06-01T19:08:29.703296+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260601213649.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "31e53cc515588ae7a608dcc51908632a",
+    "fetched_at": "2026-06-01T19:08:26.943635+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION SESSION:2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606012100351080.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "fae79edfd753eb082af4b93e38db37f2",
     "fetched_at": "2026-04-12T18:05:24.790991+00:00"
-  },
-  {
-    "title": "Hide Images",
-    "url": "https://uptac.admissions.nic.in/help/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "592ffd32a779994aa715665d9576182f",
-    "fetched_at": "2026-04-12T18:05:23.902632+00:00"
-  },
-  {
-    "title": "Top 20 Percentile",
-    "url": "https://csab.nic.in/top-20-percentile-list/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "72a0961f0294461402e8d40deaacc328",
-    "fetched_at": "2026-04-12T18:05:19.974165+00:00"
-  },
-  {
-    "title": "CSAB Supernumerary",
-    "url": "https://csab.nic.in/csab-supernumerary/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "abad0df11c1b53ef44d48434efcd22cf",
-    "fetched_at": "2026-04-12T18:05:19.108037+00:00"
-  },
-  {
-    "title": "DASA & CSAB-Special",
-    "url": "https://csab.nic.in/csab-special/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "43dc1368e8b132208aa8544b365a79fd",
-    "fetched_at": "2026-04-12T18:05:18.259064+00:00"
   }
 ]
