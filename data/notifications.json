@@ -1,5 +1,16 @@
 [
   {
+    "title": "Counselling Schedule JAC Delhi 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/20260602334577955.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "d1d06d9412649c6d17438ef1493e8666",
+    "fetched_at": "2026-06-02T08:57:59.896863+00:00"
+  },
+  {
     "title": "Business Rules 2026",
     "url": "https://josaa.nic.in/document/business-rule-3/",
     "exam": "JoSAA",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "00a9ee6f2c8c5a8ef04bf7fd257a4a9a",
     "fetched_at": "2026-04-12T18:05:25.648183+00:00"
-  },
-  {
-    "title": "उत्तर प्रदेश सरकार / Government of Uttar Pradesh",
-    "url": "https://up.gov.in/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "fae79edfd753eb082af4b93e38db37f2",
-    "fetched_at": "2026-04-12T18:05:24.790991+00:00"
   }
 ]
