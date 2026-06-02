@@ -1,5 +1,16 @@
 [
   {
+    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION SESSION:2026-27 LATER ENTRY TO BACHELOR OF TECHNOLOGY (L.E. B.TECH.) FOR B.SC GRADUATE (CET CODE – 129)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606012100351080.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "c99e6969ef40d8040b948f4434b52adb",
+    "fetched_at": "2026-06-02T12:50:36.359481+00:00"
+  },
+  {
     "title": "Counselling Schedule JAC Delhi 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/20260602334577955.pdf",
     "exam": "JAC Delhi",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "7459ff0e2f4bd2311f8f23a41d978d56",
     "fetched_at": "2026-04-12T18:05:26.580371+00:00"
-  },
-  {
-    "title": "उत्तर प्रदेश तकनीकी शिक्षा विभाग / Uttar Pradesh Technical Education Department",
-    "url": "http://upted.gov.in/hi",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "00a9ee6f2c8c5a8ef04bf7fd257a4a9a",
-    "fetched_at": "2026-04-12T18:05:25.648183+00:00"
   }
 ]
