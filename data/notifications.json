@@ -1,5 +1,27 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-srmjeeeug-phase-2-2026.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "ca95df2ce84880a634c7e09371af5524",
+    "fetched_at": "2026-06-03T07:03:12.959968+00:00"
+  },
+  {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-2026-phase-i-round-ii-e-counselling-manual.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "525af1ab8d94c0a439f296499bf56ce5",
+    "fetched_at": "2026-06-03T07:03:09.890143+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION SESSION:2026-27 LATER ENTRY TO BACHELOR OF TECHNOLOGY (L.E. B.TECH.) FOR B.SC GRADUATE (CET CODE – 129)",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606012100351080.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "fc81b11edfb3554ad0302fe65e68d2e4",
     "fetched_at": "2026-04-12T18:05:28.429506+00:00"
-  },
-  {
-    "title": "Entrance Examinations",
-    "url": "https://uptac.admissions.nic.in/entrance-examinations/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "e5144835e2454a7944d1ecf2a4c43bd8",
-    "fetched_at": "2026-04-12T18:05:27.453944+00:00"
-  },
-  {
-    "title": "Participating Institutes",
-    "url": "https://uptac.admissions.nic.in/institutes/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "7459ff0e2f4bd2311f8f23a41d978d56",
-    "fetched_at": "2026-04-12T18:05:26.580371+00:00"
   }
 ]
