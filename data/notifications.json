@@ -1,5 +1,27 @@
 [
   {
+    "title": "NOTIFICATION REGARDING ENROLMENT FOR CENTRALIZED ONLINE COUNSELLING FOR THE PROGRAMMES FOR WHICH ONLINE COUNSELLING WILL BE CARRIED OUT A.S. 2026-27 . DATED 03.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260603196582616.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8f8787c0a21d2362f8f30ed59cf174da",
+    "fetched_at": "2026-06-03T12:06:00.048757+00:00"
+  },
+  {
+    "title": "Counselling Schedule JAC Delhi 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202606031351331088.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "69a166ffe3949ef271876b2de28a6fa0",
+    "fetched_at": "2026-06-03T12:05:49.081979+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-srmjeeeug-phase-2-2026.pdf",
     "exam": "SRMJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "7e42ede2c6ac5d2cd070eb8ded10a524",
     "fetched_at": "2026-04-12T18:05:33.318506+00:00"
-  },
-  {
-    "title": "Schedule",
-    "url": "https://uptac.admissions.nic.in/schedule-2/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "241a692977e298c8f09e624399f4d007",
-    "fetched_at": "2026-04-12T18:05:29.409445+00:00"
-  },
-  {
-    "title": "Information Bulletin",
-    "url": "https://uptac.admissions.nic.in/information-bulletin/",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "fc81b11edfb3554ad0302fe65e68d2e4",
-    "fetched_at": "2026-04-12T18:05:28.429506+00:00"
   }
 ]
