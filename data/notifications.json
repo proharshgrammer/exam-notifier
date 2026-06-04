@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260604181537.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "21f3385e73d900251ab3953ffdf88bc7",
+    "fetched_at": "2026-06-04T14:06:32.614413+00:00"
+  },
+  {
     "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ ALLOTMENT OF SEAT OF ACCOUNT OF NON VALIDATION OF CLAT UG 2026 RANK (INTEGRATED BALLB, BBALLB (CODE-121) dated-04.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606041117268658.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "257bfb8a17c79266e589d32ac9d2a26d",
     "fetched_at": "2026-04-12T18:05:38.708080+00:00"
-  },
-  {
-    "title": "UGET 2023 Counselling",
-    "url": "https://www.comedk.org/counselling-document-2023",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "60640aad2704cc762f504dc665833aba",
-    "fetched_at": "2026-04-12T18:05:37.817664+00:00"
   }
 ]
