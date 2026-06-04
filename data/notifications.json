@@ -1,5 +1,49 @@
 [
   {
+    "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ ALLOTMENT OF SEAT OF ACCOUNT OF NON VALIDATION OF CLAT UG 2026 RANK (INTEGRATED BALLB, BBALLB (CODE-121) dated-04.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606041117268658.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "5f88b5199d4a54de81f74a9c756eb5ff",
+    "fetched_at": "2026-06-04T10:54:09.020612+00:00"
+  },
+  {
+    "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ ALLOTMENT OF SEAT OF ACCOUNT OF NON VALIDATION OF CLAT UG 2026 RANK LLM (CODE-112) dated-04.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260604847110359.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6c19d85559fe21adb9341b3f783f0c48",
+    "fetched_at": "2026-06-04T10:54:07.784478+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1ST COUNSELLING B.TECH(BIOTECHNOLOGY) (CET-130)/ADMISSION SESSION 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606041362835297.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a483c7eb8185ccb570ff9f78d6eaa89e",
+    "fetched_at": "2026-06-04T10:54:06.489845+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1ST COUNELLING FOR THE PROGRAMME B.Sc. (Environmental Science) (Code-135) A.S.2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606041139561012.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "fdb00b86f26288124c0538e7010d541c",
+    "fetched_at": "2026-06-04T10:54:03.993978+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260604114322.pdf",
     "exam": "JEE Mains",
@@ -5454,49 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "60640aad2704cc762f504dc665833aba",
     "fetched_at": "2026-04-12T18:05:37.817664+00:00"
-  },
-  {
-    "title": "UGET 2024 Counselling",
-    "url": "https://www.comedk.org/counselling-document-2024",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "4d9ac2dc25780595135266216a66e5d1",
-    "fetched_at": "2026-04-12T18:05:36.915762+00:00"
-  },
-  {
-    "title": "About UGET and Notification 2024",
-    "url": "https://www.comedk.org/about-uget-and-notification-2024",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "3733d6078681e60e2c4ae4686096b240",
-    "fetched_at": "2026-04-12T18:05:35.994054+00:00"
-  },
-  {
-    "title": "UGET 2025 Counselling",
-    "url": "https://www.comedk.org/counselling-document-2025",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "099affa38c9d3631d9ca69d676182915",
-    "fetched_at": "2026-04-12T18:05:35.066268+00:00"
-  },
-  {
-    "title": "About UGET and Notification 2025",
-    "url": "https://www.comedk.org/about-uget-and-notification-2025",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "d707c5b7a6674a6328b468d209bfecf6",
-    "fetched_at": "2026-04-12T18:05:34.194290+00:00"
   }
 ]
