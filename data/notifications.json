@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260604114322.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "8e847584a83167c23549bd63f7a249a3",
+    "fetched_at": "2026-06-04T07:06:19.473296+00:00"
+  },
+  {
     "title": "NOTIFICATION REGARDING ENROLMENT FOR CENTRALIZED ONLINE COUNSELLING FOR THE PROGRAMMES FOR WHICH ONLINE COUNSELLING WILL BE CARRIED OUT A.S. 2026-27 . DATED 03.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260603196582616.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "d707c5b7a6674a6328b468d209bfecf6",
     "fetched_at": "2026-04-12T18:05:34.194290+00:00"
-  },
-  {
-    "title": "About COMEDK",
-    "url": "https://www.comedk.org/about-us",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "7e42ede2c6ac5d2cd070eb8ded10a524",
-    "fetched_at": "2026-04-12T18:05:33.318506+00:00"
   }
 ]
