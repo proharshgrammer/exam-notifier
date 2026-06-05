@@ -1,5 +1,16 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/exam-instructions-for-srmjeee-phase-ii-2026.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "97a53c7f0e2762333bdb461293e04718",
+    "fetched_at": "2026-06-05T06:40:23.965666+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260604181537.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "0a7e5edb59a8a205168ed9063a879400",
     "fetched_at": "2026-04-12T18:05:39.666740+00:00"
-  },
-  {
-    "title": "About UGET and Notification 2023",
-    "url": "https://www.comedk.org/about-uget-and-notification-2023",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "257bfb8a17c79266e589d32ac9d2a26d",
-    "fetched_at": "2026-04-12T18:05:38.708080+00:00"
   }
 ]
