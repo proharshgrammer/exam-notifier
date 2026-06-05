@@ -1,5 +1,71 @@
 [
   {
+    "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF SEAT ON ACCOUNT OF NON VALIDATION OF CLAT PG 2026 RANK MASTER OF LAW (LLM) 1YEAR (CODE 112).",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606051122027037.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9518a28d02b9424f3aa176177e8d5c9a",
+    "fetched_at": "2026-06-05T10:55:17.507486+00:00"
+  },
+  {
+    "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF NON VALIDATION OF CLAT UG 2026 RANK INTEGRATED BA-LLB/BBA-LLB (CODE 121 (CLAT UG 2026).).",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/2026060597105936.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f05c4685829aff2ea23c6cd4a3374b36",
+    "fetched_at": "2026-06-05T10:55:16.266157+00:00"
+  },
+  {
+    "title": "EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS FOR NEWLY INTRODUCED PARA MEDICAL , MEDICAL PROGRAMMES ACADEMIC SESSION 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606052059734047.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "74742e7cde073fbaeeabfa75d963cd3f",
+    "fetched_at": "2026-06-05T10:55:15.079518+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 2nd COUNSELLING L.E B.TECH (L.E.B.TECH) FOR B.SC (CET CODE-129) OPEN HOUSE COUNSELLING ACADEMIC SESSION 2026-27_dated-05.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606051860971190.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f8dbd45d9ef2cd8027725619601ca14a",
+    "fetched_at": "2026-06-05T10:55:13.784195+00:00"
+  },
+  {
+    "title": "Schedule for B.Tech. Programs 2026-27",
+    "url": "https://hbtu.admissions.nic.in/document/schedule-for-b-tech-programs-2026-27/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "4647e118727307566d64297cc3ac5986",
+    "fetched_at": "2026-06-05T10:55:03.390106+00:00"
+  },
+  {
+    "title": "Notification: Regarding the issuance and renewal of free Haryana Roadways bus passes for the 2026-27 academic session.",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/0R2138.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "e504ba3fa2bfd37f59adf316b4f52c99",
+    "fetched_at": "2026-06-05T10:54:41.449466+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/exam-instructions-for-srmjeee-phase-ii-2026.pdf",
     "exam": "SRMJEE",
@@ -5432,71 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "4933667150662e459bb5d9c7c5a48bad",
     "fetched_at": "2026-04-12T18:05:48.190385+00:00"
-  },
-  {
-    "title": "Skill Development and Technical Education Department",
-    "url": "http://sdteodisha.gov.in/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "8637027f259d32155289a904b051289f",
-    "fetched_at": "2026-04-12T18:05:47.231925+00:00"
-  },
-  {
-    "title": "ଓଡ଼ିଶା ସରକାର / Government of Odisha",
-    "url": "https://odisha.gov.in/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "ce074ce2ef0ad4f28e6b51677f82ae64",
-    "fetched_at": "2026-04-12T18:05:46.188019+00:00"
-  },
-  {
-    "title": "Hide Images",
-    "url": "https://ojee.nic.in/help/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "61d795c6ebd4ba3078118b38a42392f5",
-    "fetched_at": "2026-04-12T18:05:45.231443+00:00"
-  },
-  {
-    "title": "UGET 2022 Counselling",
-    "url": "https://www.comedk.org/counselling-details-2022",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "945fbbf8dc5dfe57b34e6c9f7f59ec76",
-    "fetched_at": "2026-04-12T18:05:41.418741+00:00"
-  },
-  {
-    "title": "UGET News 2022",
-    "url": "https://www.comedk.org/general-updates-2022",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "442f4c6ac48a546af07bab9c040b204c",
-    "fetched_at": "2026-04-12T18:05:40.547588+00:00"
-  },
-  {
-    "title": "About UGET and Notification 2022",
-    "url": "https://www.comedk.org/about-uget-and-notification-2022",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "0a7e5edb59a8a205168ed9063a879400",
-    "fetched_at": "2026-04-12T18:05:39.666740+00:00"
   }
 ]
