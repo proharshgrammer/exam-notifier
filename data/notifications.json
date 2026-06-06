@@ -1,5 +1,38 @@
 [
   {
+    "title": "Notice – Addition of PUW Subcategory in JAC-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "72b5ce0150437449102836ae85f3bb05",
+    "fetched_at": "2026-06-06T09:33:03.690738+00:00"
+  },
+  {
+    "title": "Notice – Addition of PUW Subcategory in JAC-2026",
+    "url": "https://jacchd.admissions.nic.in/document/notice-addition-of-puw-subcategory-in-jac-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "99a47ea0a1a07510752e596bfda044e1",
+    "fetched_at": "2026-06-06T09:33:01.787469+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260606142500.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "66db07d8b9a04c613064728e0e97a8c9",
+    "fetched_at": "2026-06-06T09:28:49.433308+00:00"
+  },
+  {
     "title": "DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF SEAT ON ACCOUNT OF NON VALIDATION OF CLAT PG 2026 RANK MASTER OF LAW (LLM) 1YEAR (CODE 112).",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606051122027037.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "abfef0399db92ed4a8f46b6baa8dcbb0",
     "fetched_at": "2026-04-12T18:05:51.076168+00:00"
-  },
-  {
-    "title": "Contact Us",
-    "url": "https://ojee.nic.in/contact-us/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "e353255d940df58134a38670e7400441",
-    "fetched_at": "2026-04-12T18:05:50.108396+00:00"
-  },
-  {
-    "title": "Schedule",
-    "url": "https://ojee.nic.in/schedule/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "2892bc1a2239998d7ee5f87453be8ad1",
-    "fetched_at": "2026-04-12T18:05:49.076968+00:00"
-  },
-  {
-    "title": "Institutes",
-    "url": "https://ojee.nic.in/institutes/",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "4933667150662e459bb5d9c7c5a48bad",
-    "fetched_at": "2026-04-12T18:05:48.190385+00:00"
   }
 ]
