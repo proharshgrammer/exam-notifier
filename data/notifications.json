@@ -1,5 +1,16 @@
 [
   {
+    "title": "Frequently Asked Questions (FAQs)",
+    "url": "https://www.comedk.org/uploads/FAQs_Registration_Document_Upload_2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "0933ec2f77c1b532bfb67c7b3266f391",
+    "fetched_at": "2026-06-07T13:09:53.315945+00:00"
+  },
+  {
     "title": "Advance Intimation of Examination City for the Applicants of NEET (UG)-2026 Scheduled on 21ST JUNE 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606071045836990.pdf",
     "exam": "NEET UG",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/",
     "id": "df753a3ee276a2b4b515341294fa4ebd",
     "fetched_at": "2026-04-12T18:05:58.237231+00:00"
-  },
-  {
-    "title": "Faculty & Staff",
-    "url": "https://www.srmist.edu.in/faculty-gateway",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "f9105839aea7974313d8f33b0d6f4381",
-    "fetched_at": "2026-04-12T18:05:57.369940+00:00"
   }
 ]
