@@ -1,5 +1,49 @@
 [
   {
+    "title": "Advance Intimation of Examination City for the Applicants of NEET (UG)-2026 Scheduled on 21ST JUNE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606071045836990.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "0c718e2701e1c7689fb0686b84e6b5ac",
+    "fetched_at": "2026-06-07T11:11:09.854025+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260607161730.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "0e99f8d74e1daf5fd3cd90af614cd476",
+    "fetched_at": "2026-06-07T11:11:05.803359+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260607163738.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "9f1b96ce4f948d0afd12265afb47aada",
+    "fetched_at": "2026-06-07T11:11:04.384686+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260607163759.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "df98370b79e703c48f9297d0f4b247f5",
+    "fetched_at": "2026-06-07T11:11:01.988904+00:00"
+  },
+  {
     "title": "Notice – Addition of PUW Subcategory in JAC-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf",
     "exam": "JAC CHD",
@@ -5454,49 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/",
     "id": "f9105839aea7974313d8f33b0d6f4381",
     "fetched_at": "2026-04-12T18:05:57.369940+00:00"
-  },
-  {
-    "title": "Students",
-    "url": "https://www.srmist.edu.in/students/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "5e87fdfaa63dd3082afbe229c2f1e518",
-    "fetched_at": "2026-04-12T18:05:56.441217+00:00"
-  },
-  {
-    "title": "Skip to content",
-    "url": "https://www.srmist.edu.in#main",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "5abab7ea4bbac0607c1f200b276b0902",
-    "fetched_at": "2026-04-12T18:05:55.508068+00:00"
-  },
-  {
-    "title": "INFORMATION",
-    "url": "https://ojee.nic.in#informations",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "50cca660d3ed998fb59e25ffe883e2b7",
-    "fetched_at": "2026-04-12T18:05:51.934685+00:00"
-  },
-  {
-    "title": "PUBLIC NOTICES",
-    "url": "https://ojee.nic.in#forms",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "abfef0399db92ed4a8f46b6baa8dcbb0",
-    "fetched_at": "2026-04-12T18:05:51.076168+00:00"
   }
 ]
