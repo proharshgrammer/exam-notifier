@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260607213828.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "7615faf94caf72dce534a4355a28bd18",
+    "fetched_at": "2026-06-07T16:53:26.402582+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260607213908.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "65f77f686485b2e27479b097416b4356",
+    "fetched_at": "2026-06-07T16:53:23.924949+00:00"
+  },
+  {
     "title": "Frequently Asked Questions (FAQs)",
     "url": "https://www.comedk.org/uploads/FAQs_Registration_Document_Upload_2026.pdf",
     "exam": "COMEDK",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/",
     "id": "05abe9edb3f07672b3e3104c58494f46",
     "fetched_at": "2026-04-12T18:05:59.961180+00:00"
-  },
-  {
-    "title": "Examinations",
-    "url": "https://www.srmist.edu.in/controller-of-examinations/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "2cffa648139ea15201eb6e89a674bf9a",
-    "fetched_at": "2026-04-12T18:05:59.087738+00:00"
-  },
-  {
-    "title": "Visitors",
-    "url": "https://www.srmist.edu.in/visitors/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "df753a3ee276a2b4b515341294fa4ebd",
-    "fetched_at": "2026-04-12T18:05:58.237231+00:00"
   }
 ]
