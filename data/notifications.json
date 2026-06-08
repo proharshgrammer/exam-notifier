@@ -1,5 +1,49 @@
 [
   {
+    "title": "Declaration of OBC class for availing Reservation under WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606081296703276.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "46a18a0633261f423a4f183a37d0f8b9",
+    "fetched_at": "2026-06-08T14:35:36.655867+00:00"
+  },
+  {
+    "title": "Gazette Notifications regarding OBC Reservation",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/2026060888964775.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "df4b3a6c684d5f556a9acbb1e5dbfcbf",
+    "fetched_at": "2026-06-08T14:35:35.390939+00:00"
+  },
+  {
+    "title": "Applicability of OBC Reservation and Non-Creamy Layer (NCL) status in admission and recruitment processes-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/2026060823119396.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "c6efb094642c5380865cea2d774e101d",
+    "fetched_at": "2026-06-08T14:35:33.959499+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260608170953.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "8fcb28eb900a68beb90a370ae8fb6593",
+    "fetched_at": "2026-06-08T14:35:13.917791+00:00"
+  },
+  {
     "title": "REGARDING ENROLMENT FOR CENTRALISED ONLINE COUNSELLING (for the Programmes for which Online Counselling will be carried out) Academic Session 2026.27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606081521095133.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "9267e5576bdad4528f744f005de595b8",
     "fetched_at": "2026-04-12T18:06:11.063968+00:00"
-  },
-  {
-    "title": "E-Office",
-    "url": "https://eoffice.cuh.ac.in/SSOComponent/gate.php",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "a761f171a5aa3fca79a26d6aa0c4143e",
-    "fetched_at": "2026-04-12T18:06:10.105089+00:00"
-  },
-  {
-    "title": "Virtual Tour 360°",
-    "url": "https://www.cuh.ac.in/virtual-tour-360.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "f39aca0337c29883cd603ec6b671ba0c",
-    "fetched_at": "2026-04-12T18:06:09.167996+00:00"
-  },
-  {
-    "title": "Recruitments",
-    "url": "https://www.cuh.ac.in/cuh-jobs.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "636474f32463ebd6573f32130e967e5a",
-    "fetched_at": "2026-04-12T18:06:08.225085+00:00"
-  },
-  {
-    "title": "Training & Placement",
-    "url": "https://tpo.cuh.ac.in",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "55e66306e785cc02f76fcabf95917767",
-    "fetched_at": "2026-04-12T18:06:07.196749+00:00"
   }
 ]
