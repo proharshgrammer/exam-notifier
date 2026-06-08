@@ -1,5 +1,38 @@
 [
   {
+    "title": "REGARDING ENROLMENT FOR CENTRALISED ONLINE COUNSELLING (for the Programmes for which Online Counselling will be carried out) Academic Session 2026.27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606081521095133.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8c4b084b08e62fe83ea2e4cb4bfbfc51",
+    "fetched_at": "2026-06-08T10:11:29.346983+00:00"
+  },
+  {
+    "title": "Regarding Extension of LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORM PARA MEDICAL/MEDICAL PROGRAMMES: ACADEMIC SESSION 2026_27_dated-08.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260608421807369.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8d79bfd9e0632763a10d8bb7c887532c",
+    "fetched_at": "2026-06-08T10:11:28.017162+00:00"
+  },
+  {
+    "title": "REGARDING ENROLMENT FOR CENTRALIZED ONLINE COUNSELLING (for the Programmes for which Online Counselling will be carried out) Academic Session 2026-27_dated-08.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606081795115774.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e47fcce25f5e641a4a8cfb2df2015013",
+    "fetched_at": "2026-06-08T10:11:25.770962+00:00"
+  },
+  {
     "title": "Successful Conduct of Common University Entrance Test (UG) – CUET (UG) 2026-reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260608323708178.pdf",
     "exam": "CUET UG",
@@ -5465,38 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "55e66306e785cc02f76fcabf95917767",
     "fetched_at": "2026-04-12T18:06:07.196749+00:00"
-  },
-  {
-    "title": "Baburayanpettai, Acharapakkam – Chengalpattu",
-    "url": "https://www.srmist.edu.in/baburayanpettai-campus/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "1cbb3a94b9a99fcd379e28cedc853300",
-    "fetched_at": "2026-04-12T18:06:03.570593+00:00"
-  },
-  {
-    "title": "Delhi – NCR",
-    "url": "https://www.srmimt.net/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "18065c46a1301d265771090e5c6cac1b",
-    "fetched_at": "2026-04-12T18:06:02.620588+00:00"
-  },
-  {
-    "title": "Tiruchirappalli",
-    "url": "https://srmtrichy.edu.in/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.srmist.edu.in/",
-    "id": "472ea0569dd4809abb18b3b6705962f6",
-    "fetched_at": "2026-04-12T18:06:01.740429+00:00"
   }
 ]
