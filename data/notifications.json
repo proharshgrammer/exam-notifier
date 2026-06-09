@@ -1,5 +1,38 @@
 [
   {
+    "title": "List of Required Documents",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606091058003015.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "90fe36e00792a40f196617ad55b51fee",
+    "fetched_at": "2026-06-09T11:30:25.355512+00:00"
+  },
+  {
+    "title": "Display of Provisional Answer Keys and Question Papers with Recorded Responses for Answer Key Challenge of Common University Entrance Test [CUET (UG)]-2026 -reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260609478040431.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "8e6c6a6a97dead540100a8fcf4be27c4",
+    "fetched_at": "2026-06-09T11:25:33.861863+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260609150917.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b2685c263f1dec1a653242e318d93321",
+    "fetched_at": "2026-06-09T11:25:23.856441+00:00"
+  },
+  {
     "title": "Frequently Asked Questions (FAQs)",
     "url": "https://www.comedk.org/uploads/FAQs_Registration_&_Document_Upload_2026_notified_on_09_June_2026.pdf",
     "exam": "COMEDK",
@@ -5465,38 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "5f0f0e49ce2fc7c108c78351f35bbdb5",
     "fetched_at": "2026-04-12T18:06:15.272132+00:00"
-  },
-  {
-    "title": "हकेवि के बारे मेंInformation about CUH",
-    "url": "https://www.cuh.ac.in/information-about-cuh.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "8c694ec534ad12b48252258f1fa3ee02",
-    "fetched_at": "2026-04-12T18:06:14.311142+00:00"
-  },
-  {
-    "title": "Admissions 2026-27",
-    "url": "https://www.cuh.ac.in/admission.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "059529761915c40222705769ba8dcda9",
-    "fetched_at": "2026-04-12T18:06:13.454747+00:00"
-  },
-  {
-    "title": "हरियाणा केंद्रीय विश्वविद्यालय CENTRAL UNIVERSITY OF HARYANA NAAC ACCREDITED 'A' GRADE UNIVERSITY",
-    "url": "https://www.cuh.ac.in/default.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "219776372ff69051e475ec1526554325",
-    "fetched_at": "2026-04-12T18:06:12.302611+00:00"
   }
 ]
