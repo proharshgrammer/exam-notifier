@@ -1,5 +1,27 @@
 [
   {
+    "title": "Portal for Submitting Scribe Details by the PwD/PwBD Candidates of NEET (UG)-2026, Scheduled on 21 June 2026-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260609246210889.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "490111cd9d480b3108d7da2b53c9df29",
+    "fetched_at": "2026-06-09T17:08:41.165578+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260609205313.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "bc1b1c966e4cf757773ef4aee86e7934",
+    "fetched_at": "2026-06-09T17:08:34.785047+00:00"
+  },
+  {
     "title": "List of Required Documents",
     "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606091058003015.pdf",
     "exam": "JAC CHD",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "7885745f1553269b6456afd6cfa58a1d",
     "fetched_at": "2026-04-12T18:06:20.042302+00:00"
-  },
-  {
-    "title": "संकल्पना एवं उद्देश्यVision & Mission",
-    "url": "https://www.cuh.ac.in/vision-mission.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "e022017a233e76c0521d9e0dfe40c3fc",
-    "fetched_at": "2026-04-12T18:06:16.121333+00:00"
-  },
-  {
-    "title": "विश्वविद्यालय कुलगीतUniversity KULGEET",
-    "url": "https://www.cuh.ac.in/admin/uploads\\2020\\misc20/CUH-Kulgeet.mp3",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "5f0f0e49ce2fc7c108c78351f35bbdb5",
-    "fetched_at": "2026-04-12T18:06:15.272132+00:00"
   }
 ]
