@@ -1,5 +1,16 @@
 [
   {
+    "title": "Frequently Asked Questions (FAQs)",
+    "url": "https://www.comedk.org/uploads/FAQs_Registration_&_Document_Upload_2026_notified_on_09_June_2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "f9e2223c7c047e5139af2032b327f5c0",
+    "fetched_at": "2026-06-09T08:00:31.422458+00:00"
+  },
+  {
     "title": "Declaration of OBC class for availing Reservation under WBJEE-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606081296703276.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "219776372ff69051e475ec1526554325",
     "fetched_at": "2026-04-12T18:06:12.302611+00:00"
-  },
-  {
-    "title": "Site-Map",
-    "url": "https://cuh.ac.in/site-map.aspx",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "9267e5576bdad4528f744f005de595b8",
-    "fetched_at": "2026-04-12T18:06:11.063968+00:00"
   }
 ]
