@@ -1,5 +1,38 @@
 [
   {
+    "title": "SCHEDULE OF 1ST COUNSELLING FOR THE PROGRAMME B.Sc (Environmental Science, Code:135).",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260610877769972.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "962801642f361386504a4e5601a3fffb",
+    "fetched_at": "2026-06-10T06:40:01.623938+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1ST COUNSELLING FOR THE PROGRAMME M.Sc (Microbiology), Code:414) Offline Counselling.A.S.2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606101803208705.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "bc1bf8c76f0be47c22c73c33f03fdf4e",
+    "fetched_at": "2026-06-10T06:40:00.208122+00:00"
+  },
+  {
+    "title": "Counselling Schedule JAC Delhi 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202606101248642407.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "be2ceb029930f7fd1eee55fcc819a542",
+    "fetched_at": "2026-06-10T06:39:38.494499+00:00"
+  },
+  {
     "title": "Portal for Submitting Scribe Details by the PwD/PwBD Candidates of NEET (UG)-2026, Scheduled on 21 June 2026-reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260609246210889.pdf",
     "exam": "NEET UG",
@@ -5465,38 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "60a41259a1dc8b28ff825cd3a9f40e78",
     "fetched_at": "2026-04-12T18:06:22.730523+00:00"
-  },
-  {
-    "title": "उच्च शिक्षा विभाग / Department of Higher Education",
-    "url": "http://dhe.chd.gov.in/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "687052cb549b7d8d3b67298217c83333",
-    "fetched_at": "2026-04-12T18:06:21.873093+00:00"
-  },
-  {
-    "title": "चंडीगढ़ प्रशासन / Chandigarh Administration",
-    "url": "https://chandigarh.gov.in/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "02e9353824c953313ea99d318b3bcff6",
-    "fetched_at": "2026-04-12T18:06:21.007063+00:00"
-  },
-  {
-    "title": "Hide Images",
-    "url": "https://jacchd.admissions.nic.in/help/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "7885745f1553269b6456afd6cfa58a1d",
-    "fetched_at": "2026-04-12T18:06:20.042302+00:00"
   }
 ]
