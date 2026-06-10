@@ -1,5 +1,38 @@
 [
   {
+    "title": "Round 1 Commencement of process – Enrollment for Centralized Online Counselling viz. Opening of Edit / Correction Window, mandatory uploading of requisite documents and Choice Filling.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606101924812726.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8a282af22ca05b570e1672c826e5800f",
+    "fetched_at": "2026-06-10T11:03:24.282323+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260610152201.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "54dba103e27e6a3d38b8e4fdfae42d94",
+    "fetched_at": "2026-06-10T10:58:20.045763+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260610160319.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "621410ccb4897f993e10378ece6d6205",
+    "fetched_at": "2026-06-10T10:58:16.801728+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1ST COUNSELLING FOR THE PROGRAMME B.Sc (Environmental Science, Code:135).",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260610877769972.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "73c827006d86471d808d5231bc0d21c0",
     "fetched_at": "2026-04-12T18:06:25.508861+00:00"
-  },
-  {
-    "title": "Seat Matrix",
-    "url": "https://jacchd.admissions.nic.in/seat-matrix/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "4b7e6e9ac8643acacb4229f59cc3a13e",
-    "fetched_at": "2026-04-12T18:06:24.518140+00:00"
-  },
-  {
-    "title": "Eligibility Conditions",
-    "url": "https://jacchd.admissions.nic.in/eligibility-status/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "107b5f5959974f42e38083d7dccd285f",
-    "fetched_at": "2026-04-12T18:06:23.576063+00:00"
-  },
-  {
-    "title": "Institutes",
-    "url": "https://jacchd.admissions.nic.in/institutes/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "60a41259a1dc8b28ff825cd3a9f40e78",
-    "fetched_at": "2026-04-12T18:06:22.730523+00:00"
   }
 ]
