@@ -1,5 +1,49 @@
 [
   {
+    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION M.Pharm (CODE-189) OFFLINE COUNSELLING A.S. 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606111015453510.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "93e4c30b8d296f2bc2184fb6daee4ec5",
+    "fetched_at": "2026-06-11T09:56:49.608183+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION D.PHARM (CODE-190) OFFLINE COUNSELLING A.S. 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606111595269639.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8880be2f612218e08c72c08e7ae94178",
+    "fetched_at": "2026-06-11T09:56:48.031854+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION M.PLAN(URP) (CODE-368) OFFLINE COUNSELLING A.S. 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606112113558136.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "17e869db1674ba74b6a4056f7851d0f0",
+    "fetched_at": "2026-06-11T09:56:46.677137+00:00"
+  },
+  {
+    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS_dated-11.06.2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606111737540067.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "2ea722dc655a832a62a791f7cd0ff29c",
+    "fetched_at": "2026-06-11T09:56:44.216621+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260610212927.pdf",
     "exam": "JEE Mains",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nest.lpu.in/",
     "id": "550e488aa6caa83fe2f8ae4e0edc6361",
     "fetched_at": "2026-04-12T18:06:32.846495+00:00"
-  },
-  {
-    "title": "INTERNATIONAL ADMISSIONS",
-    "url": "https://www.lpu.in/international/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "10a888635996be27f54136c839e826c9",
-    "fetched_at": "2026-04-12T18:06:31.918353+00:00"
-  },
-  {
-    "title": "STUDY ABROAD",
-    "url": "https://www.lpu.in/international-relations/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "c8237b0931599807773286b67d4cf32f",
-    "fetched_at": "2026-04-12T18:06:31.055015+00:00"
-  },
-  {
-    "title": "CONFERENCES",
-    "url": "https://www.lpu.in/conferences/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "3143375844a1f632cb61eb3aea9f8923",
-    "fetched_at": "2026-04-12T18:06:30.126600+00:00"
-  },
-  {
-    "title": "HAPPENINGS",
-    "url": "https://happenings.lpu.in/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "2a4f560cc2c3df48598430920506e3cc",
-    "fetched_at": "2026-04-12T18:06:29.142149+00:00"
   }
 ]
