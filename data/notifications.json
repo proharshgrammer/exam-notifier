@@ -1,5 +1,60 @@
 [
   {
+    "title": "Documents Required at the Time of Physical Reporting for Document Verification",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260612451028637.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "c92bce46593bd11f9712c725628abd65",
+    "fetched_at": "2026-06-12T13:01:25.715382+00:00"
+  },
+  {
+    "title": "Notice regarding OMR Response Challenge of WBJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606121087476526.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "293db47378b87590de921203022a9df5",
+    "fetched_at": "2026-06-12T12:56:57.830382+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260612162320.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "ece103d1b59a669f3c911d929244bfce",
+    "fetched_at": "2026-06-12T12:56:42.678733+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260612162332.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "99b3c5dfc13cbb14ac4f5cb29639196c",
+    "fetched_at": "2026-06-12T12:56:41.506298+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260612174824.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "804d66bd29eb75dbc63a77627753849f",
+    "fetched_at": "2026-06-12T12:56:39.399306+00:00"
+  },
+  {
     "title": "NOTICE REGARDING CONSENT ON THE PORTAL OF CONSORTIUM OF NLUs FOR CLAT UG 2026 AND CLAT PG 2026 FOR ADMISSION IN INTEGRATED BA-LLB, BBA-LLB, (CODE-121), LLM (CODE-112).",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260612832681679.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5443,60 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "efcdd1de7e77d179ced97fbc94de75ca",
     "fetched_at": "2026-04-12T18:06:44.075719+00:00"
-  },
-  {
-    "title": "उच्च शिक्षा विभाग / Department of Higher Education",
-    "url": "https://higheredn.delhi.gov.in/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "8e9556ff0ce3971d5572f7be1ba668f0",
-    "fetched_at": "2026-04-12T18:06:43.184409+00:00"
-  },
-  {
-    "title": "दिल्ली सरकार / Government of Delhi",
-    "url": "https://delhi.gov.in/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "d3df6ebeff2c855b9b04d705c25a6934",
-    "fetched_at": "2026-04-12T18:06:42.269203+00:00"
-  },
-  {
-    "title": "Hide Images",
-    "url": "https://jacdelhi.admissions.nic.in/help/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "11b383c5134c8e6d7cd8ef709ac960ef",
-    "fetched_at": "2026-04-12T18:06:41.319153+00:00"
-  },
-  {
-    "title": "Overview",
-    "url": "https://www.lpu.in/about-lpu/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "69e31fc9babcbdb0396fcf524be373d5",
-    "fetched_at": "2026-04-12T18:06:37.475758+00:00"
-  },
-  {
-    "title": "EXPLORE PROGRAMMES",
-    "url": "https://www.lpu.in/programmes/all/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "7fb23d31b6f7cd936ef56a886e00b27a",
-    "fetched_at": "2026-04-12T18:06:36.559850+00:00"
   }
 ]
