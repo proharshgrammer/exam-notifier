@@ -1,5 +1,49 @@
 [
   {
+    "title": "NOTICE REGARDING CONSENT ON THE PORTAL OF CONSORTIUM OF NLUs FOR CLAT UG 2026 AND CLAT PG 2026 FOR ADMISSION IN INTEGRATED BA-LLB, BBA-LLB, (CODE-121), LLM (CODE-112).",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260612832681679.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "5a6ac4908f170a08ca3060989ad57034",
+    "fetched_at": "2026-06-12T09:50:50.749959+00:00"
+  },
+  {
+    "title": "Schedule for BS-MS Program 2026",
+    "url": "https://hbtu.admissions.nic.in/document/schedule-for-bs-ms-program-2026/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "5386a9c565ad873f9aee4eeb7775e5ec",
+    "fetched_at": "2026-06-12T09:49:17.711176+00:00"
+  },
+  {
+    "title": "Student-Friendly Measures Introduced for NEET (UG)-2026 Examination-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606121235115637.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "bdabce5d9d67f852edfa8be1a7e3314a",
+    "fetched_at": "2026-06-12T09:44:02.733365+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260612114428.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "e439712b95e60ca91e9379ab014b36fa",
+    "fetched_at": "2026-06-12T09:43:56.709090+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION M.Pharm (CODE-189) OFFLINE COUNSELLING A.S. 2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606111015453510.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nest.lpu.in/",
     "id": "7fb23d31b6f7cd936ef56a886e00b27a",
     "fetched_at": "2026-04-12T18:06:36.559850+00:00"
-  },
-  {
-    "title": "PLACEMENTS",
-    "url": "https://www.lpu.in/placements.php",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "9c7772904ac27a21482d5b69000a3fea",
-    "fetched_at": "2026-04-12T18:06:35.620597+00:00"
-  },
-  {
-    "title": "ADMISSIONS",
-    "url": "https://www.lpu.in/admission/admissions.php",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "c83aa39e4f8f21b94a287a3e6f90e914",
-    "fetched_at": "2026-04-12T18:06:34.677065+00:00"
-  },
-  {
-    "title": "DISTANCE EDUCATION",
-    "url": "https://www.lpude.in/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "e34d314d3f8462c9ad33fc57bb409a21",
-    "fetched_at": "2026-04-12T18:06:33.794669+00:00"
-  },
-  {
-    "title": "ONLINE EDUCATION",
-    "url": "https://www.lpuonline.com/",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://nest.lpu.in/",
-    "id": "550e488aa6caa83fe2f8ae4e0edc6361",
-    "fetched_at": "2026-04-12T18:06:32.846495+00:00"
   }
 ]
