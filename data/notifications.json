@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extension Notice regarding Declaration of OBC class for availing Reservation Under WBJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606121583821460.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "50c183ea107be0886d408ebc22ad7e1f",
+    "fetched_at": "2026-06-12T16:25:18.189491+00:00"
+  },
+  {
     "title": "Documents Required at the Time of Physical Reporting for Document Verification",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260612451028637.pdf",
     "exam": "JAC Delhi",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "0885d25648374280bdfe3f12fc8ab4bd",
     "fetched_at": "2026-04-12T18:06:44.930075+00:00"
-  },
-  {
-    "title": "Programs",
-    "url": "https://jacdelhi.admissions.nic.in/programs/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "efcdd1de7e77d179ced97fbc94de75ca",
-    "fetched_at": "2026-04-12T18:06:44.075719+00:00"
   }
 ]
