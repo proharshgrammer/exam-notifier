@@ -1,5 +1,38 @@
 [
   {
+    "title": "Chd Adm Institutes Admission Details",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606131134421358.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "791e96a9fef7749b0baed1b27432749d",
+    "fetched_at": "2026-06-13T15:21:59.439074+00:00"
+  },
+  {
+    "title": "PU Institutes Admission Details",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606131144800394.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "b21541b1e806ab5d261a4a9c6beb9b61",
+    "fetched_at": "2026-06-13T15:21:58.140502+00:00"
+  },
+  {
+    "title": "List of Required Documents",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/2026061365349988.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "28b0c2bad5f87c1f02d3ddb71a0a645d",
+    "fetched_at": "2026-06-13T15:21:55.907361+00:00"
+  },
+  {
     "title": "Information Brochure",
     "url": "https://jacchd.admissions.nic.in/document/information-brochure-4/",
     "exam": "JAC CHD",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "a98607cf27ebbf70be1f6d82e8fafdc0",
     "fetched_at": "2026-04-12T19:22:26.482016+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260413003710.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "5f2343b345af6761265c02643006a2eb",
-    "fetched_at": "2026-04-12T19:22:24.602673+00:00"
-  },
-  {
-    "title": "Schedule",
-    "url": "https://jacdelhi.admissions.nic.in/schedule/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "2b26e774ad9a0495ddff221ad3842435",
-    "fetched_at": "2026-04-12T18:06:48.448253+00:00"
-  },
-  {
-    "title": "Procedures",
-    "url": "https://jacdelhi.admissions.nic.in/procedures/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "d2511d80b3ea8e41fc2c7ef0f85c826b",
-    "fetched_at": "2026-04-12T18:06:47.575559+00:00"
   }
 ]
