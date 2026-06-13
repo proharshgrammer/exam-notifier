@@ -1,5 +1,27 @@
 [
   {
+    "title": "Information Brochure",
+    "url": "https://jacchd.admissions.nic.in/document/information-brochure-4/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "da0d3264d1b71e1b8ac85a8b45770acb",
+    "fetched_at": "2026-06-13T13:10:59.590438+00:00"
+  },
+  {
+    "title": "NTA launches ‘Pariksha Karmayogi: Capacity-Building Programme for Examination Officials’ on the iGOT Karmayogi Bharat platform to strengthen supervision and invigilation for NTA examinations",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606131957554708.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "7d2b3e0744389ca850997783392d2950",
+    "fetched_at": "2026-06-13T13:06:16.763911+00:00"
+  },
+  {
     "title": "PwD Status Verification Schedule",
     "url": "https://josaa.nic.in/document/pwd-status-verification-schedule/",
     "exam": "JoSAA",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "d2511d80b3ea8e41fc2c7ef0f85c826b",
     "fetched_at": "2026-04-12T18:06:47.575559+00:00"
-  },
-  {
-    "title": "Information Bulletin",
-    "url": "https://jacdelhi.admissions.nic.in/information-bulletin/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "64b1ec7202dc7c3b51be0adb1dcba444",
-    "fetched_at": "2026-04-12T18:06:46.693314+00:00"
-  },
-  {
-    "title": "Institutes",
-    "url": "https://jacdelhi.admissions.nic.in/institutes/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "fcf6f2a345ec8c9f5f5a1a974fb3e4b3",
-    "fetched_at": "2026-04-12T18:06:45.795776+00:00"
   }
 ]
