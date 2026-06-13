@@ -1,5 +1,16 @@
 [
   {
+    "title": "PwD Status Verification Schedule",
+    "url": "https://josaa.nic.in/document/pwd-status-verification-schedule/",
+    "exam": "JoSAA",
+    "exam_id": "josaa",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://josaa.nic.in/",
+    "id": "468e49b515413acd352c0aa07469752d",
+    "fetched_at": "2026-06-13T05:08:24.631377+00:00"
+  },
+  {
     "title": "Extension Notice regarding Declaration of OBC class for availing Reservation Under WBJEE 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606121583821460.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "fcf6f2a345ec8c9f5f5a1a974fb3e4b3",
     "fetched_at": "2026-04-12T18:06:45.795776+00:00"
-  },
-  {
-    "title": "JAC Delhi",
-    "url": "https://jacdelhi.admissions.nic.in/about-jac-delhi/",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "0885d25648374280bdfe3f12fc8ab4bd",
-    "fetched_at": "2026-04-12T18:06:44.930075+00:00"
   }
 ]
