@@ -1,6 +1,17 @@
 [
   {
     "title": "Chd Adm Institutes Admission Details",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606141377157873.pdf",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "4c989c1c62dd0f608552001034b46bfd",
+    "fetched_at": "2026-06-14T06:51:09.272315+00:00"
+  },
+  {
+    "title": "Chd Adm Institutes Admission Details",
     "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606131134421358.pdf",
     "exam": "JAC CHD",
     "exam_id": "jac_chd",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "76d3828a4df6f88e3a653f5f7a81fd0d",
     "fetched_at": "2026-04-12T19:22:27.619560+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260411211342.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "a98607cf27ebbf70be1f6d82e8fafdc0",
-    "fetched_at": "2026-04-12T19:22:26.482016+00:00"
   }
 ]
