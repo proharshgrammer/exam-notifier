@@ -1,5 +1,60 @@
 [
   {
+    "title": "Clarification Regarding Conduct of Rescheduled CUET (PG) 2026 Examination and Methodology Adopted for Preparation of Results",
+    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/06/202606141399769113.pdf",
+    "exam": "CUET PG",
+    "exam_id": "cuet_pg",
+    "category": "Central University PG Entrance",
+    "source_label": "CUET PG Official",
+    "source_url": "https://exams.nta.nic.in/cuet-pg/",
+    "id": "ebcf537dee2533fa3911ef523e77e864",
+    "fetched_at": "2026-06-14T14:42:51.581397+00:00"
+  },
+  {
+    "title": "Opening of Bank Account Re-confirmation/Correction Window for Refund of NEET (UG) 2026 Examination Fee (Examination held on 03 May 2026) – OTP-Based Two-Factor Authentication Mandatory",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260614362415118.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "7fd3ffb0ff00a6609ed32bdfc0136cee",
+    "fetched_at": "2026-06-14T14:42:42.188309+00:00"
+  },
+  {
+    "title": "Release of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606142028683090.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "fbcf92d6a3a61c8eced0b5b11220c94f",
+    "fetched_at": "2026-06-14T14:42:40.698051+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260614184440.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "92fc7ed4e19a13b5d8d296dc64364092",
+    "fetched_at": "2026-06-14T14:42:36.339002+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260614190141.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "7d4fb870aca071937878c070226f88d3",
+    "fetched_at": "2026-06-14T14:42:33.857350+00:00"
+  },
+  {
     "title": "Advance Intimation for Allotment of Examination City of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 11, 12 & 13 March 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/2026030591926314.pdf",
     "exam": "CUET PG",
@@ -5443,60 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "4d02f02d2ed3b80351d051f5ddc0ad3a",
     "fetched_at": "2026-04-12T19:22:37.524627+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260407133038.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "a990c80bbad0304b58d365d060829a00",
-    "fetched_at": "2026-04-12T19:22:36.467955+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260408124553.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "08a3aea7dfab474b692a14cd76a58ebe",
-    "fetched_at": "2026-04-12T19:22:35.429665+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260408213108.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "1b2b9875966f033e85e8c04cc2922764",
-    "fetched_at": "2026-04-12T19:22:34.348671+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260409173405.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "101d6a8f3ca4090a0ac3a6b5bb229529",
-    "fetched_at": "2026-04-12T19:22:33.317569+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260410174401.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "1e3e27483387985b335ca56d8701ef30",
-    "fetched_at": "2026-04-12T19:22:32.250386+00:00"
   }
 ]
