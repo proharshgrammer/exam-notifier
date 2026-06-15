@@ -1,5 +1,16 @@
 [
   {
+    "title": "Registration Portal Date Extension for M.Tech./M.Sc (Except CS/IT)",
+    "url": "https://www.mmmut.ac.in/pdf/RegPortalDateExtensionforMsc-M.TechCS-IT.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "7869908dfd1861e0933086410176c324",
+    "fetched_at": "2026-06-15T23:22:16.524210+00:00"
+  },
+  {
     "title": "NOTIFICATION- ADMISSION FOR “ORPHANED CHILDREN” IN UNDERGRADUATE AND POSTGRADUATE PROGRAMME OFFERED AT UNIVERSITY SCHOOLS OF STUDIES / CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S. 2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606151790185925.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "81bb1642ab766b25dc8b301ba5e7dd1a",
     "fetched_at": "2026-04-12T19:22:51.602221+00:00"
-  },
-  {
-    "title": "Inviting online Application Form for National Eligibility-Cum-Entrance Test [NEET (UG)-2026] – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/20260208399987696.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "e70cdb37894283fdbcd86581ae2d330b",
-    "fetched_at": "2026-04-12T19:22:50.577094+00:00"
   }
 ]
