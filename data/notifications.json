@@ -1,5 +1,38 @@
 [
   {
+    "title": "INFORMATION AND INSTRUCTIONS FOR WEB-BASED COUNSELLING",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606161699106493.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "03620d744843bf42efa2939cc73984ba",
+    "fetched_at": "2026-06-16T18:21:21.465835+00:00"
+  },
+  {
+    "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "dd2d4aa97bbf3fd5283cffad40924d1b",
+    "fetched_at": "2026-06-16T18:21:16.768606+00:00"
+  },
+  {
+    "title": "Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606162035283978.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "a27b152e5a3caceda9764d1952bc0bd5",
+    "fetched_at": "2026-06-16T18:21:14.041538+00:00"
+  },
+  {
     "title": "Tentative Schedule for B Tech Admissions UPTAC 2026",
     "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/129ef55176fb13a06ed77c5356778ada70864fdc07c676f19ce868a2503e3d5517815090609_admission_docs.pdf/9",
     "exam": "UPTAC (UPTU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://cuet.nta.nic.in/",
     "id": "d8ebb6245d153fa2ec9057143554faba",
     "fetched_at": "2026-04-12T19:23:04.651098+00:00"
-  },
-  {
-    "title": "Reminder for Common University Entrance Test [CUET (UG)] – 2026 Registration.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601271705365070.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "c3bd5577e92aac8d0a743ce9da58d168",
-    "fetched_at": "2026-04-12T19:23:03.627714+00:00"
-  },
-  {
-    "title": "Extension of last date for submission of Online Application for Common University Entrance Test [CUET (UG)] – 2026 Examination – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601301542882180.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "699275730699ce87297e912173d470fc",
-    "fetched_at": "2026-04-12T19:23:02.591291+00:00"
-  },
-  {
-    "title": "Correction in the particulars of the online Application Form of Common University Entrance Test [CUET (UG)] – 2026 – Reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/02/202602091678087825.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "7996ec1c19226c108353f6de6d87c383",
-    "fetched_at": "2026-04-12T19:23:01.583930+00:00"
   }
 ]
