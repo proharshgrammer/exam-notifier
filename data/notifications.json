@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tentative Schedule for B Tech Admissions UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/129ef55176fb13a06ed77c5356778ada70864fdc07c676f19ce868a2503e3d5517815090609_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "e43d724fcf41aa6209b0a7c3923a1c8b",
+    "fetched_at": "2026-06-16T13:18:46.469635+00:00"
+  },
+  {
     "title": "Instructions and Pattern of Examination for 2nd OJEE, 2026 (Basic_BSc.Nursing)",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616118009370.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://cuet.nta.nic.in/",
     "id": "7996ec1c19226c108353f6de6d87c383",
     "fetched_at": "2026-04-12T19:23:01.583930+00:00"
-  },
-  {
-    "title": "Re-opening of Online Application Portal for Common University Entrance Test (UG) – 2026 Examination – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/02/202602231004635159.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "f523c464cd6d2b5c3ac21c1c1aea9fde",
-    "fetched_at": "2026-04-12T19:23:00.451583+00:00"
   }
 ]
