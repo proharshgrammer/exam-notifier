@@ -1,5 +1,16 @@
 [
   {
+    "title": "Regarding Online Counselling Extended Schedule of Round 1 for the programmes notified Vide University’s Notification No. 34/2026 dated 10.06.2026 (except Code 128 LE B.Tech Diploma Holders).dated-17.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606171974419428.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "500899bf0e105ea6cc50280d182acc03",
+    "fetched_at": "2026-06-17T12:24:59.147174+00:00"
+  },
+  {
     "title": "IIITD Round 1 Cut Off 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260617929808660.pdf",
     "exam": "JAC Delhi",
@@ -5487,16 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "dd104a4095404c5e69240c395d5494ff",
     "fetched_at": "2026-04-12T19:23:25.630757+00:00"
-  },
-  {
-    "title": "Notice: Tentative Schedule of CETs 2026",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/Tentative-Schedule-CET-2026-.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "46bd55a2b4d4b4a443d145e3fa0d3987",
-    "fetched_at": "2026-04-12T19:23:24.590321+00:00"
   }
 ]
