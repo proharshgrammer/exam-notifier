@@ -1,5 +1,49 @@
 [
   {
+    "title": "Advisory for Candidates Regarding Dress Code and Permissible Items at Examination Centres for NEET (UG) 2026 Re-Examination – reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260618310811791.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "8ed12d2a1ba9360d6c9bb768fae7e64a",
+    "fetched_at": "2026-06-18T15:35:24.361225+00:00"
+  },
+  {
+    "title": "Advisory for Biometric Verification and Exception Protocol for NEET (UG)-2026 Re Examination- reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260618620515611.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "ed71c2fd364192e6910a58d45fe11636",
+    "fetched_at": "2026-06-18T15:35:22.911820+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260618184532.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "73627b0ef23bc16381ae825fe3a06647",
+    "fetched_at": "2026-06-18T15:35:18.628033+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260618201747.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "5fc01e1a4327605bc057bbc995467adb",
+    "fetched_at": "2026-06-18T15:35:15.673792+00:00"
+  },
+  {
     "title": "IGDTU Round 1 Cut Off 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/202606181840071240.pdf",
     "exam": "JAC Delhi",
@@ -5454,49 +5498,5 @@
     "source_url": "https://cets.apsche.ap.gov.in/",
     "id": "8f72533a50eea41d80ff0ad7c2381f39",
     "fetched_at": "2026-04-12T19:25:08.580169+00:00"
-  },
-  {
-    "title": "Click Here to Go",
-    "url": "https://lawcet-sche.aptonline.in/LAWCET",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "103eb2dea8260d594807ec21de542b30",
-    "fetched_at": "2026-04-12T19:25:07.534280+00:00"
-  },
-  {
-    "title": "Click Here to Go",
-    "url": "https://pgcet-sche.aptonline.in/APPGCET/",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "94433d8cdb0e275c9f4f851dba2133a6",
-    "fetched_at": "2026-04-12T19:25:06.522899+00:00"
-  },
-  {
-    "title": "Click Here to Go",
-    "url": "https://edcet-sche.aptonline.in",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "bdc6da3f4512186582399b9ac1a9a90e",
-    "fetched_at": "2026-04-12T19:25:05.501145+00:00"
-  },
-  {
-    "title": "Click Here to Go",
-    "url": "https://eapcet-sche.aptonline.in/EAPCETAGR/",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "3b05cb318163ba0b5959b8dc69c4da76",
-    "fetched_at": "2026-04-12T19:25:04.461761+00:00"
   }
 ]
