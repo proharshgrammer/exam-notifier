@@ -1,5 +1,16 @@
 [
   {
+    "title": "NRI and Kashmiri Migrants Counselling 2026 Notification",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/0ce9d84c9ae5e8206414b29a2456d237f68fe11da281243deb5c1ede5b80adea178186315910_admission_docs.pdf/10",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "65dc7ff8b35b708ca36576693ab153e2",
+    "fetched_at": "2026-06-19T15:52:49.251529+00:00"
+  },
+  {
     "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS M.PHARM (CODE-189) D.PHARM (CODE-190)_dated-19.06.2026.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606191039931123.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "fbc1619b06221f080f1fb5cf772356d7",
     "fetched_at": "2026-04-12T19:25:51.920142+00:00"
-  },
-  {
-    "title": "Seat Matrix",
-    "url": "https://josaa.nic.in/document/seat-matrix/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "0c59a1fa5a92d5a99eb53b0faf200202",
-    "fetched_at": "2026-04-12T19:25:47.686751+00:00"
   }
 ]
