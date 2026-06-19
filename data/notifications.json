@@ -1,5 +1,93 @@
 [
   {
+    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS M.PHARM (CODE-189) D.PHARM (CODE-190)_dated-19.06.2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606191039931123.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ef8861849ba0f880896b09b7fe57e37e",
+    "fetched_at": "2026-06-19T12:16:09.081811+00:00"
+  },
+  {
+    "title": "DISPLAY OF FIRST COUNSELLING SCHEDULE FOR VARIOUS PROGRAMMES (FOR WHICH OFFLINE COUNSELLING WILL BE CARRIED OUT) _dated-19.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619247440051.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0e0d5ea3004d16935d1b13f77d994de1",
+    "fetched_at": "2026-06-19T12:16:07.693670+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.DESIGN (CODE-600) B.DESIGN (CODE-613) M.DESIGN (CODE-611) A.S:2026-27 dated-19.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619441274871.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "fa5f38fe52ecc446feb46cf8e6682ec9",
+    "fetched_at": "2026-06-19T12:16:06.276352+00:00"
+  },
+  {
+    "title": "SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 PRG LE B.TECH DIPLOMA CODE-128 FOR A.S. 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619859958877.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7a9af3801bc808c0525cca17e6ca9a1a",
+    "fetched_at": "2026-06-19T12:16:04.616091+00:00"
+  },
+  {
+    "title": "National Testing Agency (NTA) – Official WhatsApp Updates for NEET (UG) 2026 Re- Examination",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619457888100.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "16f3bd14d4dea042df09cdfe434da48b",
+    "fetched_at": "2026-06-19T12:11:20.355333+00:00"
+  },
+  {
+    "title": "NTA Fully Prepared for Smooth and Secure Conduct of NEET (UG) 2026 Re-Examination on 21 June 2026-reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619440433404.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "9e3884741224d3e0c1ff8938d3eed8fb",
+    "fetched_at": "2026-06-19T12:11:18.911844+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260619163804.PDF",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "33f93bf2deca1a93ccdc62d743f0a804",
+    "fetched_at": "2026-06-19T12:11:14.758134+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260619163856.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "6a8fb2ff97cb6c526eeef2d7dfce06a4",
+    "fetched_at": "2026-06-19T12:11:12.339904+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1st OFFLINE COUNSELLING MASTER OF PUBLIC HEALTH (Field Epidemiology) (CET CODE-412) A.S.2026-27 dated-19.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606191223269679.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5410,93 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "0c59a1fa5a92d5a99eb53b0faf200202",
     "fetched_at": "2026-04-12T19:25:47.686751+00:00"
-  },
-  {
-    "title": "State wise list of Help Centers (NIT+ System Only)",
-    "url": "https://josaa.nic.in/document/state-wise-list-of-help-centers-nit-system-only/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "1fbcaed8ffb5ad83ee2130aa362b1993",
-    "fetched_at": "2026-04-12T19:25:46.611165+00:00"
-  },
-  {
-    "title": "State wise List of Reporting Centers for Physical Verification of PwD Candidates (NIT+ System Only)",
-    "url": "https://josaa.nic.in/document/state-wise-list-of-reporting-centers-for-physical-verification-of-pwd-candidates-nit-system-only/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "a431f21cb21dd9aa51429fa49e50cb3e",
-    "fetched_at": "2026-04-12T19:25:45.560019+00:00"
-  },
-  {
-    "title": "State wise list of Verification Centers (NIT+ System Only)",
-    "url": "https://josaa.nic.in/document/state-wise-list-of-verification-centers-nit-system-only/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "3f739f88dee2c45edeec0277ee5eae0b",
-    "fetched_at": "2026-04-12T19:25:44.504064+00:00"
-  },
-  {
-    "title": "List of Verification Center (VC) for each Participating Institute (PI)",
-    "url": "https://josaa.nic.in/document/list-of-verification-center-vc-for-each-participating-institute-pi/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "da41b5d7af01d7e683db92d982910d90",
-    "fetched_at": "2026-04-12T19:25:43.447979+00:00"
-  },
-  {
-    "title": "Orientation and Class Commencement Schedule for IITs (Updated on 10.07.2025)",
-    "url": "https://josaa.nic.in/document/orientation-and-class-commencement-schedule-for-iits/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "ec5677e2c1ba32661b9c14765f8d39a5",
-    "fetched_at": "2026-04-12T19:25:42.392284+00:00"
-  },
-  {
-    "title": "Mathematics",
-    "url": "https://vit.ac.in/sites/default/files/VITEEE-2026/Maths_VITEEE2026.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "252c6822ec796023408efe4887721091",
-    "fetched_at": "2026-04-12T19:25:28.085038+00:00"
-  },
-  {
-    "title": "English & Aptitude",
-    "url": "https://vit.ac.in/sites/default/files/VITEEE-2026/English_and_Aptitude_VITEEE2026.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "3d1bbd7da652ca3156f8cc2ca2bff989",
-    "fetched_at": "2026-04-12T19:25:27.042124+00:00"
-  },
-  {
-    "title": "Chemistry",
-    "url": "https://vit.ac.in/sites/default/files/VITEEE-2026/Chemistry_VITEEE2026.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "238f3efe523fc38ab455b32232fd21af",
-    "fetched_at": "2026-04-12T19:25:26.036363+00:00"
   }
 ]
