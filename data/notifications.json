@@ -1,5 +1,49 @@
 [
   {
+    "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "8559ea535db7e1ef9474e8ba1e821eba",
+    "fetched_at": "2026-06-20T12:03:31.945879+00:00"
+  },
+  {
+    "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "02037c0fa5078347741611ea4a0aa68e",
+    "fetched_at": "2026-06-20T12:03:30.606510+00:00"
+  },
+  {
+    "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "dd18e8f969759c8397e522d1d5d499d5",
+    "fetched_at": "2026-06-20T12:03:29.146983+00:00"
+  },
+  {
+    "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "67cbddcd80cccfc2cbecd0516d294172",
+    "fetched_at": "2026-06-20T12:03:26.631444+00:00"
+  },
+  {
     "title": "NRI and Kashmiri Migrants Counselling 2026 Notification",
     "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/0ce9d84c9ae5e8206414b29a2456d237f68fe11da281243deb5c1ede5b80adea178186315910_admission_docs.pdf/10",
     "exam": "UPTAC (UPTU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "3967adcd8631a20310a4d0b5474075d2",
     "fetched_at": "2026-04-12T19:25:56.142818+00:00"
-  },
-  {
-    "title": "Tentative Seat Vacancy for CSAB Special Rounds 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/2025073028.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "d4b7ae5f4ace08db89c3fb4b830d16d5",
-    "fetched_at": "2026-04-12T19:25:55.080523+00:00"
-  },
-  {
-    "title": "Seat Matrix for DASA 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/2025073086.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "4f987fa6473fec9547aa4a4450287841",
-    "fetched_at": "2026-04-12T19:25:54.020223+00:00"
-  },
-  {
-    "title": "Notice for the Candidature Restoration.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/08/2025080584.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "6262f52910ab195bd1f7089946d1f71a",
-    "fetched_at": "2026-04-12T19:25:52.996087+00:00"
-  },
-  {
-    "title": "Notice : Information related to Physical Reporting Admission through CSAB Special and DASA 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/08/2025081060.pdf ",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "fbc1619b06221f080f1fb5cf772356d7",
-    "fetched_at": "2026-04-12T19:25:51.920142+00:00"
   }
 ]
