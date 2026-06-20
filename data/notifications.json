@@ -1,5 +1,27 @@
 [
   {
+    "title": "NEET (UG) 2026- Examination on 21st June 2026- Download of Admit cards",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260620280669824.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "6a77415b88b96a735eeeda98c9530174",
+    "fetched_at": "2026-06-20T15:59:43.141594+00:00"
+  },
+  {
+    "title": "Advisory for candidates, regarding availing the facility of Compensatory Time during NEET (UG) 2026 Examination, scheduled on 21 June 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260620235002385.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "691993ba01783f264ab89910d13fc9fe",
+    "fetched_at": "2026-06-20T15:59:40.122412+00:00"
+  },
+  {
     "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
     "exam": "OJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "f6787e5b318fd1236cf53e79b65da7aa",
     "fetched_at": "2026-04-12T19:25:58.297727+00:00"
-  },
-  {
-    "title": "Special Eligibility Criteria / Restrictions in various Institutions/Academic Programs of NIT+ System for CSAB Special",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/20250718100.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "ac5aaaaf462f4931de26aa52a60b08da",
-    "fetched_at": "2026-04-12T19:25:57.298946+00:00"
-  },
-  {
-    "title": "Schedule of DASA and CSAB Special Counselling 2025 (Updated on 18 August 2025)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/202508181612513744.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "3967adcd8631a20310a4d0b5474075d2",
-    "fetched_at": "2026-04-12T19:25:56.142818+00:00"
   }
 ]
