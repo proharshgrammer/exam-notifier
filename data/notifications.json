@@ -1,5 +1,38 @@
 [
   {
+    "title": "Final Answer Keys for CUET (UG) – 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/202606211155292375.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "69fc8de81e2e443af09b1792a7d6f4c7",
+    "fetched_at": "2026-06-21T14:29:15.088779+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260621191633.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "69ca7f1fa8ba659212971693cca3662d",
+    "fetched_at": "2026-06-21T14:29:06.686297+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260621193322.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "0930f1b9b44b1636ec796ab0e5d300b9",
+    "fetched_at": "2026-06-21T14:29:04.194099+00:00"
+  },
+  {
     "title": "NEET (UG) 2026- Examination on 21st June 2026- Download of Admit cards",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260620280669824.pdf",
     "exam": "NEET UG",
@@ -5465,38 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "357eb93a0d37d1aa2159b7452d3223ab",
     "fetched_at": "2026-04-12T19:26:01.505233+00:00"
-  },
-  {
-    "title": "List of Verification Center (VC) for each Participating Institute (PI)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/06/2025061874.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "930b10b574724b0f9d87f9cd2f87b666",
-    "fetched_at": "2026-04-12T19:26:00.415200+00:00"
-  },
-  {
-    "title": "Special Eligibility Criteria / Restrictions in various Institutions/Academic Programs of NIT+ System for DASA UG",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/2025071794.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "a481c365046a76f2cbd4f4ed1a9b2ff3",
-    "fetched_at": "2026-04-12T19:25:59.361829+00:00"
-  },
-  {
-    "title": "Public Notice for Restoration of Category",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/07/2025071893.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "f6787e5b318fd1236cf53e79b65da7aa",
-    "fetched_at": "2026-04-12T19:25:58.297727+00:00"
   }
 ]
