@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for the Architecture notification",
+    "url": "https://comedk.org/uploads/NOTIFICATION-ARCHITECTURE-2026-COUNSELLING-PROCESS-NOTIFIED-ON-22-JUNE-2026%20final.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "93ea0ce0b4755bfb21763b3a08ef5e3c",
+    "fetched_at": "2026-06-22T08:43:53.694839+00:00"
+  },
+  {
     "title": "Final Answer Keys for CUET (UG) – 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/202606211155292375.pdf",
     "exam": "CUET UG",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "74d12eb85b902e035302abffad578987",
     "fetched_at": "2026-04-12T19:26:05.517698+00:00"
-  },
-  {
-    "title": "FAQs for students applying for DASA-UG 2025 (Updated on 18.07.2025 )",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2025/06/2025071841.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "357eb93a0d37d1aa2159b7452d3223ab",
-    "fetched_at": "2026-04-12T19:26:01.505233+00:00"
   }
 ]
