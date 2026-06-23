@@ -1,5 +1,16 @@
 [
   {
+    "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "968fef8831cfe5fc8233616e7c3547d4",
+    "fetched_at": "2026-06-23T06:15:26.063327+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING M.Sc.(YOGA) (CET CODE-187) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606221060227714.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.admissions.nic.in/",
     "id": "6f3e4b082890eaf81d4e184c417247d1",
     "fetched_at": "2026-04-12T19:26:12.969108+00:00"
-  },
-  {
-    "title": "Shortlisted Candidates for KM Quota Counselling 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s32d969e2cee8cfa07ce7ca0bb13c7a36d/uploads/2025/07/2025071647.pdf",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "27b54b3bd9a2b893ca97a16606944766",
-    "fetched_at": "2026-04-12T19:26:11.908828+00:00"
   }
 ]
