@@ -1,5 +1,71 @@
 [
   {
+    "title": "EXTENSION OF SCHEDULE OF ROUND 1 FOR THE PROGRAMMES NOTIFIED VIDE UNIVERSITY’S NOTIFICATION NO. 40/2026 dated 17.06.2026 (except Code 128 LE B.TECH. Diploma Holders)_dated-23.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606231420678533.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "43fa95a88bb85a6abcb6d10685885038",
+    "fetched_at": "2026-06-23T10:17:43.678448+00:00"
+  },
+  {
+    "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "3e50a868554be0331971d61eee376017",
+    "fetched_at": "2026-06-23T10:15:44.355972+00:00"
+  },
+  {
+    "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "6776544fcaeb51c79c8755af6a6dd377",
+    "fetched_at": "2026-06-23T10:15:42.884807+00:00"
+  },
+  {
+    "title": "Final Answer Keys for CUET(UG) – 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/202606231857909583.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "e04225199982d560a6a4b432623db6fa",
+    "fetched_at": "2026-06-23T10:11:14.182787+00:00"
+  },
+  {
+    "title": "NTA Declares the Result/NTA Scores of Common University Entrance Test (UG) – 2026 – reg.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260623716111016.pdf",
+    "exam": "CUET UG",
+    "exam_id": "cuet_ug",
+    "category": "Central University Entrance",
+    "source_label": "CUET UG Official",
+    "source_url": "https://cuet.nta.nic.in/",
+    "id": "172ae73c6494ad2d2f19835928c9ab6a",
+    "fetched_at": "2026-06-23T10:11:12.780095+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260623135541.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "868efa3a51381108a4fe92de46fa2511",
+    "fetched_at": "2026-06-23T10:11:02.912819+00:00"
+  },
+  {
     "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
     "exam": "OJEE",
@@ -5432,71 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "8bd1fe0f087287ca7ca08936405dbd89",
     "fetched_at": "2026-04-12T19:26:21.760638+00:00"
-  },
-  {
-    "title": "Notification UG Entrance Test",
-    "url": "https://www.comedk.org/uploads/01-Notification-of-UG-Entrance-Test-Date.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "16428b355e8bd5877d29f5841e467aba",
-    "fetched_at": "2026-04-12T19:26:20.691900+00:00"
-  },
-  {
-    "title": "COMEDK Quick Guide",
-    "url": "https://www.comedk.org/uploads/comedk-quick-guide-2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "779f5659e573e21d10156e12d03ff09e",
-    "fetched_at": "2026-04-12T19:26:19.659969+00:00"
-  },
-  {
-    "title": "COMEDK UGET Exam Brochure-2026",
-    "url": "https://www.comedk.org/uploads/Information-brochure-2026-version-1.0.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "d744f2f9073bf9d563b937b72a101931",
-    "fetched_at": "2026-04-12T19:26:18.609045+00:00"
-  },
-  {
-    "title": "CRL After Tie-Break UPTAC 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s32d969e2cee8cfa07ce7ca0bb13c7a36d/uploads/2025/08/2025080732.pdf",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "b70f0247a4b84c61851f903767644db1",
-    "fetched_at": "2026-04-12T19:26:15.036024+00:00"
-  },
-  {
-    "title": "Tentative Schedule for UPTAC-2025 – B Des, BHMCT, BFAD, BFA, MBA (Integrated), MCA (Integrated), BBA/BMS, BCA, B Tech Lateral, B Pharmacy Lateral, MBA, MCA, MBA/MCA Lateral",
-    "url": "https://cdnbbsr.s3waas.gov.in/s32d969e2cee8cfa07ce7ca0bb13c7a36d/uploads/2025/08/20250909795870979.pdf",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "5c29665632871d89c030146031306061",
-    "fetched_at": "2026-04-12T19:26:13.994293+00:00"
-  },
-  {
-    "title": "Shortlisted Candidates for NRI Quota Counselling 2025",
-    "url": "https://cdnbbsr.s3waas.gov.in/s32d969e2cee8cfa07ce7ca0bb13c7a36d/uploads/2025/07/2025071644.pdf",
-    "exam": "UPTU",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.admissions.nic.in/",
-    "id": "6f3e4b082890eaf81d4e184c417247d1",
-    "fetched_at": "2026-04-12T19:26:12.969108+00:00"
   }
 ]
