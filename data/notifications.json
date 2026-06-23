@@ -1,5 +1,16 @@
 [
   {
+    "title": "SCHEDULE OF 1st COUNSELLING B.Sc.(MIT) (CET CODE-134) REVISED NOMENCLATURE B.MRIT-(BACHELOR OF MEDICAL RADIOLOGY & IMAGING TECHNOLOGY)_dated-23.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260623593545583.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6ec5f6a26b103349cbc5f07f9698c153",
+    "fetched_at": "2026-06-23T13:28:47.933048+00:00"
+  },
+  {
     "title": "EXTENSION OF SCHEDULE OF ROUND 1 FOR THE PROGRAMMES NOTIFIED VIDE UNIVERSITY’S NOTIFICATION NO. 40/2026 dated 17.06.2026 (except Code 128 LE B.TECH. Diploma Holders)_dated-23.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606231420678533.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "fbdcb1537ce83d3f31b22444fb06bf56",
     "fetched_at": "2026-04-12T19:26:25.977814+00:00"
-  },
-  {
-    "title": "Privacy Policy",
-    "url": "https://www.comedk.org/uploads/privacy-policy.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "8bd1fe0f087287ca7ca08936405dbd89",
-    "fetched_at": "2026-04-12T19:26:21.760638+00:00"
   }
 ]
