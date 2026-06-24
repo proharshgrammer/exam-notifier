@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tentative Schedule for B Tech Admissions UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/71c3750e3d57c15c5926f4e82ac718a09e70db57acff3fb1cb55f346a7c8a1c417822921029_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "4b873c5776c888ee481a8aeffe7c0e6e",
+    "fetched_at": "2026-06-24T20:04:04.785065+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260624220615.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/admission/",
     "id": "7d7278592534dc8a5699ce7adafd612c",
     "fetched_at": "2026-04-12T19:26:39.139864+00:00"
-  },
-  {
-    "title": "SYLLABUS FOR OJEE – 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/01/202601281979424955.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "73aa318c7bcc8a2e5b136f8488d029de",
-    "fetched_at": "2026-04-12T19:26:33.923411+00:00"
   }
 ]
