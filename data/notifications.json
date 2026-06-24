@@ -1,5 +1,27 @@
 [
   {
+    "title": "NOTIFICATION FOR PROG. CODE121 (CLAT UG 2026) INT.BA-LL.B/INT.BA-LL.B(HONS.)& INT.BBA-LL.B/INT. BBA-LL.B(HONS) DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF NO",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606241138720715.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "177fd7289aa639b65ca24030260ba0a1",
+    "fetched_at": "2026-06-24T13:30:12.684673+00:00"
+  },
+  {
+    "title": "NOTIFICATION FOR PROG. CODE 112(CLAT PG 2026) MASTER OF LAW (LL.M) 1 YEAR DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF NON VALIDATION OF CLAT PG 2026 RANK.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606241571181797.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f24064a8f70a35368b15e7351707b436",
+    "fetched_at": "2026-06-24T13:30:10.380121+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-II-scholarships-2026-final.pdf",
     "exam": "SRMJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "3f602b28040c8d6bbe2c1a4e226b76b1",
     "fetched_at": "2026-04-12T19:26:32.647747+00:00"
-  },
-  {
-    "title": "INFORMATION BROCHURE FOR OJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/01/202601281538483605.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "e875242e20bf820fa7089d30d3b09c65",
-    "fetched_at": "2026-04-12T19:26:31.579398+00:00"
-  },
-  {
-    "title": "NOTICE FOR ONLINE APPLICATION FOR OJEE – 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/01/20260127107775430.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "3ec166fba073c425c84a31cdf059b3ae",
-    "fetched_at": "2026-04-12T19:26:30.465720+00:00"
   }
 ]
