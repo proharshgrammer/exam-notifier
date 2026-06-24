@@ -1,5 +1,27 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-II-scholarships-2026-final.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "de375bfc7dfad02d87710244bc0b0257",
+    "fetched_at": "2026-06-24T07:55:32.056095+00:00"
+  },
+  {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-2026-phase-ii-choice-filling-mannual.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "f0148fccbdb64de42431e64392968de4",
+    "fetched_at": "2026-06-24T07:55:29.856621+00:00"
+  },
+  {
     "title": "List of toppers of CUET (UG) – 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260623268704934.pdf",
     "exam": "CUET UG",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "3ec166fba073c425c84a31cdf059b3ae",
     "fetched_at": "2026-04-12T19:26:30.465720+00:00"
-  },
-  {
-    "title": "Notice regarding modification to Table-8 of Information brochure",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/03/20260320367786451.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "c2d8c4ac1c690d3d3588bfa3846ce104",
-    "fetched_at": "2026-04-12T19:26:29.428280+00:00"
-  },
-  {
-    "title": "Notice for extension of the last date for online application for OJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/03/202603221158916543.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "fa8a6b25ec883854111055bd1b8ceffb",
-    "fetched_at": "2026-04-12T19:26:28.349790+00:00"
   }
 ]
