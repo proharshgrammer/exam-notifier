@@ -1,5 +1,60 @@
 [
   {
+    "title": "Tentative Key dates of Diploma Courses for the session 2026-27",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Keydates for Diploma Courses for the session 2026-27 as on 25.06.2026.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "b483c50328e4cc7942cdb3e5d49fd161",
+    "fetched_at": "2026-06-25T09:57:19.206063+00:00"
+  },
+  {
+    "title": "MERIT LIST OF M.SC (NURSING) PROGRAMME (CODE-198) ACADEMIC SESSION 2026-27. DATED 25-06-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625850872170.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0bb9e5bfa958667bd1c15e70049abc70",
+    "fetched_at": "2026-06-25T09:57:11.862269+00:00"
+  },
+  {
+    "title": "REGARDING DECLARATION OF RESULT OF ROUND 01 FOR VARIOUS COURSES: ACADEMIC SESSION: 2026-27 _dated- 25.06.2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625701973770.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7336479429fafd75a7a9ef5da2e350b4",
+    "fetched_at": "2026-06-25T09:57:10.399378+00:00"
+  },
+  {
+    "title": "MERIT LIST FOR POST BASIC B.SC (NURSING) (CODE-188) ACADEMIC SESSION:2026-27 _dated-25.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625117350291.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1fbc7077716a6810ffd7505c22296ef2",
+    "fetched_at": "2026-06-25T09:57:08.886802+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING MPO(CET CODE-109) ADMISSION SESSION:2026-27 dated-25.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606251902717507.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9484063971816c1f7cf252c8cce50095",
+    "fetched_at": "2026-06-25T09:57:06.269229+00:00"
+  },
+  {
     "title": "Tentative Schedule for B Tech Admissions UPTAC 2026",
     "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/71c3750e3d57c15c5926f4e82ac718a09e70db57acff3fb1cb55f346a7c8a1c417822921029_admission_docs.pdf/9",
     "exam": "UPTAC (UPTU)",
@@ -5443,60 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/admission/",
     "id": "a646ed8185e1dfa2234caef7d9ea2a35",
     "fetched_at": "2026-04-12T19:26:44.449761+00:00"
-  },
-  {
-    "title": "Health Science UG Instruction Manual",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2024/srmjeeh-health-science-ug-srmjeel-law-ug-entrance-exam-manual-phase-2.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "b384ff756315bd120259e6ae094c3f60",
-    "fetched_at": "2026-04-12T19:26:43.393176+00:00"
-  },
-  {
-    "title": "Download Prospectus",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2025/engineering-and-technology-2025-26-prospectus.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "d6033c4eda8e2325f3a85205cd2aedc3",
-    "fetched_at": "2026-04-12T19:26:42.335245+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-srmjeee-2026-phase-i.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "9b7a2f825e82d7de7d0bc816f343fa49",
-    "fetched_at": "2026-04-12T19:26:41.301726+00:00"
-  },
-  {
-    "title": "Announcements",
-    "url": "https://www.srmist.edu.in/announcements/",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "4cfa8b6c1a083dac99fd84bb865562ad",
-    "fetched_at": "2026-04-12T19:26:40.217040+00:00"
-  },
-  {
-    "title": "Thrust area",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2023/thrust-area-of-research.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "7d7278592534dc8a5699ce7adafd612c",
-    "fetched_at": "2026-04-12T19:26:39.139864+00:00"
   }
 ]
