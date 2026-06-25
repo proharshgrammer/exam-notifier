@@ -1,5 +1,27 @@
 [
   {
+    "title": ": NRI and Kashmiri Migrants Counselling 2026 Notification",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/030cbc22bf0ccb8af364e83f7d7240f80c4b800b120ff3b36bf000d7e6c4d07217823895979_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "d140a2037ef2c5b92e8935ddf7fb337d",
+    "fetched_at": "2026-06-25T12:29:09.124698+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260625162829.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "f6a07e73959f1971d4f8323dbd76405e",
+    "fetched_at": "2026-06-25T12:24:41.574307+00:00"
+  },
+  {
     "title": "Tentative Key dates of Diploma Courses for the session 2026-27",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Keydates for Diploma Courses for the session 2026-27 as on 25.06.2026.pdf",
     "exam": "HSTES",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/admission/",
     "id": "33a358320905150020c820dd860d329d",
     "fetched_at": "2026-04-12T19:26:46.621549+00:00"
-  },
-  {
-    "title": "Download Prospectus",
-    "url": "http://webstor.srmist.edu.in/web_assets/downloads/2021/medicine-info.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "d8f69b556b8aabd36c9bc426321fc9c8",
-    "fetched_at": "2026-04-12T19:26:45.512707+00:00"
-  },
-  {
-    "title": "Health Science PG Instruction Manual",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2024/srmjeeh-health-science-pg-entrance-exam-manual.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "a646ed8185e1dfa2234caef7d9ea2a35",
-    "fetched_at": "2026-04-12T19:26:44.449761+00:00"
   }
 ]
