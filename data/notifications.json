@@ -1,5 +1,16 @@
 [
   {
+    "title": "Provisional Eligibility Status of Sports Category Applicants 2026",
+    "url": "https://jacchd.admissions.nic.in/document/provisional-eligibility-status-of-sports-category-applicants-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "e2b84b081c6f8de852807faac8133b2d",
+    "fetched_at": "2026-06-26T13:35:14.584149+00:00"
+  },
+  {
     "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "754e329ef1c84250038512260d79614b",
     "fetched_at": "2026-04-12T19:26:58.251213+00:00"
-  },
-  {
-    "title": "Notification regarding extension of last date to submit Examination Forms for TEE May-June 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0extension of last date  Examination June 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "20a73dece085b045365f4abaf38d844e",
-    "fetched_at": "2026-04-12T19:26:57.138238+00:00"
   }
 ]
