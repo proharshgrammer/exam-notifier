@@ -1,5 +1,16 @@
 [
   {
+    "title": "Provisional Eligibility Status of PU Sports Category Applicants 2026",
+    "url": "https://jacchd.admissions.nic.in/document/provisional-eligibility-status-of-sports-category-applicants-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "42ccad11a721341aaf5c95113f172161",
+    "fetched_at": "2026-06-26T16:24:30.110532+00:00"
+  },
+  {
     "title": "Provisional Eligibility Status of Sports Category Applicants 2026",
     "url": "https://jacchd.admissions.nic.in/document/provisional-eligibility-status-of-sports-category-applicants-2026/",
     "exam": "JAC CHD",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "4516791beea39d551cbc629681d26d70",
     "fetched_at": "2026-04-12T19:26:59.351913+00:00"
-  },
-  {
-    "title": "Extension in Date of Admission for ODL(Open and Distance Learning) Programmes upto 10th April 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Copy of cuh (34).pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "754e329ef1c84250038512260d79614b",
-    "fetched_at": "2026-04-12T19:26:58.251213+00:00"
   }
 ]
