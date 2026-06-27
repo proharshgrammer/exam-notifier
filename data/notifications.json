@@ -1,5 +1,16 @@
 [
   {
+    "title": "REGARDING DECLARATION OF RESULT OF ROUND 01 FOR B.Ed,BA(JMC),B.COM,BA(ENG),BA(ECO),BA-LLB/BBA-LLB _dated- 25.06.2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625701973770.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e1631dc6fbfd2d025333f51eb8afbb7e",
+    "fetched_at": "2026-06-27T08:47:35.462271+00:00"
+  },
+  {
     "title": "Provisional Eligibility Status of PU Sports Category Applicants 2026",
     "url": "https://jacchd.admissions.nic.in/document/provisional-eligibility-status-of-sports-category-applicants-2026/",
     "exam": "JAC CHD",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "e9fc2213de732d90e2a7c3eb7229b84d",
     "fetched_at": "2026-04-12T19:27:00.391106+00:00"
-  },
-  {
-    "title": "Notification regarding Submission of Examination Forms TEE May-June 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Notification Examination Forms TEE May-June 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "4516791beea39d551cbc629681d26d70",
-    "fetched_at": "2026-04-12T19:26:59.351913+00:00"
   }
 ]
