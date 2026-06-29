@@ -1,5 +1,49 @@
 [
   {
+    "title": "SCHEDULE FOR 1ST COUNSELLING BMS (PRG. CODE-142) ACADEMIC SESSION: 2026-27_dated-29.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606291762689946.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f7522396ed6823ce90212cdb3df88494",
+    "fetched_at": "2026-06-29T10:14:26.040665+00:00"
+  },
+  {
+    "title": "Notice: Regarding Submission of Semester Fees July 2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Fees_Notice_1069.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "6f4e9af2664bc79e025a02978c3e77e8",
+    "fetched_at": "2026-06-29T10:13:06.561772+00:00"
+  },
+  {
+    "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "23bda95c487a1dce1fc04abf8cb27b33",
+    "fetched_at": "2026-06-29T10:12:58.358143+00:00"
+  },
+  {
+    "title": "Click here for Engineering Provisional Seat Availability and Fee",
+    "url": "https://comedk.org/uploads/Engineering-Provisional_Seat_Availability&Fee_before_start_of_Round_1. Notified_on_29.06.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "37d949b7fe6b31d194538ec8ed42f91a",
+    "fetched_at": "2026-06-29T10:12:52.766969+00:00"
+  },
+  {
     "title": "REGARDING DECLARATION OF RESULT OF ROUND 01 FOR B.Ed,BA(JMC),B.COM,BA(ENG),BA(ECO),BA-LLB/BBA-LLB _dated- 25.06.2026.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625701973770.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "8eb1b696066fcc80564ac1941159ae9b",
     "fetched_at": "2026-04-12T19:27:07.844118+00:00"
-  },
-  {
-    "title": "Notice for newly admitted candidate for physical verification CCA, Chd",
-    "url": "https://jacchd.admissions.nic.in/document/notice-for-newly-admitted-candidate-for-physical-verification/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "c686a27aae80dd2caebab3553beb6dfc",
-    "fetched_at": "2026-04-12T19:27:06.729843+00:00"
-  },
-  {
-    "title": "Instructions regarding Security Arrangements and Entry on 14 March 2026 for 12th Convocation",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0R_2049.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "944a8ee27d7b06146413d2b2f8f2a81e",
-    "fetched_at": "2026-04-12T19:27:02.541796+00:00"
-  },
-  {
-    "title": "Traffic and Entry Regulations for Convocation Ceremony to be held on 14.03.2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0order regarding spandan.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "27fa5f466869defb735ea39ce1b1db73",
-    "fetched_at": "2026-04-12T19:27:01.497424+00:00"
-  },
-  {
-    "title": "Notice: Regarding reorganization of parking arrangements due to construction work behind the academic buildings",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0SHIFTING OF PARKING.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "e9fc2213de732d90e2a7c3eb7229b84d",
-    "fetched_at": "2026-04-12T19:27:00.391106+00:00"
   }
 ]
