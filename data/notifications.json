@@ -1,5 +1,27 @@
 [
   {
+    "title": "Schedule of WBJEE 2026 Counselling",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606291700903463.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "ca7fd9ecca620b500c0714dd8b00f963",
+    "fetched_at": "2026-06-29T17:41:57.228149+00:00"
+  },
+  {
+    "title": "Counselling Notification of WBJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/20260629604113331.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "f846db940ba7fc7d9e7ebac1d3900993",
+    "fetched_at": "2026-06-29T17:41:18.270781+00:00"
+  },
+  {
     "title": "Notice for choice editing",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260629302066625.pdf",
     "exam": "JAC Delhi",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "c68a8dc882f4e8fac0eaa2c6cd12c2b7",
     "fetched_at": "2026-04-12T19:27:12.078543+00:00"
-  },
-  {
-    "title": "Tentative Vacancy for Second SPOT Round Counselling",
-    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-second-spot-round-counselling/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "d1cf98a985969231ed1c3128d83deb6c",
-    "fetched_at": "2026-04-12T19:27:11.017149+00:00"
-  },
-  {
-    "title": "CCET Physical Reporting Schedule after Spot Round 2",
-    "url": "https://jacchd.admissions.nic.in/document/ccet-physical-reporting-schedule-after-spot-round-2/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "b7c4ce53e94aa2148cd0a50681ab885f",
-    "fetched_at": "2026-04-12T19:27:09.992174+00:00"
   }
 ]
