@@ -1,5 +1,27 @@
 [
   {
+    "title": "Notice for choice editing",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260629302066625.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "c3069406e00064953970047b225f8040",
+    "fetched_at": "2026-06-29T14:38:46.643266+00:00"
+  },
+  {
+    "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606291667087799.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "2a49fad7408272b62bf4d6c85bf5fd00",
+    "fetched_at": "2026-06-29T14:38:28.468195+00:00"
+  },
+  {
     "title": "SCHEDULE FOR 1ST COUNSELLING BMS (PRG. CODE-142) ACADEMIC SESSION: 2026-27_dated-29.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606291762689946.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "b7c4ce53e94aa2148cd0a50681ab885f",
     "fetched_at": "2026-04-12T19:27:09.992174+00:00"
-  },
-  {
-    "title": "Notice for Newly Admitted B.E. Students Regarding PHYSICAL REPORTING at UIET (PUSSGRC) Hoshiarpur on 25 August 2025",
-    "url": "https://jacchd.admissions.nic.in/document/notice-for-newly-admitted-b-e-students-regarding-physical-reporting-at-uiet-pussgrc-hoshiarpur-on-25-august-2025/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "83077fb2687c2d460533506e5211c653",
-    "fetched_at": "2026-04-12T19:27:08.931841+00:00"
-  },
-  {
-    "title": "Notice for Newly Admitted Students for Physical Reporting Dr. SSB UICET, Chandigarh",
-    "url": "https://jacchd.admissions.nic.in/document/counselling-schedule-for-ug-admission/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "8eb1b696066fcc80564ac1941159ae9b",
-    "fetched_at": "2026-04-12T19:27:07.844118+00:00"
   }
 ]
