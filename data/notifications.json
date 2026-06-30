@@ -1,5 +1,49 @@
 [
   {
+    "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING M.SC NURSING (CODE-198)/POST BASIC B.SC NURSING (CODE-188) A.S: 2026-27_DATED-29.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606301788545827.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1a1280ab4ba703d12cf4f5fd115e1bc9",
+    "fetched_at": "2026-06-30T10:13:25.771432+00:00"
+  },
+  {
+    "title": "REFUND POLICY FOR ALL PROGRAMMES 2026",
+    "url": "https://hbtu.admissions.nic.in/document/refund-policy-for-all-programmes-2026/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "cf47e13b1c7f8c19d1458683903835c1",
+    "fetched_at": "2026-06-30T10:11:52.838314+00:00"
+  },
+  {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-ii-2026-e-counselling-manual.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "ddaa54cc771bc82ee163378f547e0624",
+    "fetched_at": "2026-06-30T10:11:36.376594+00:00"
+  },
+  {
+    "title": "Detailed Advertisement",
+    "url": "https://exams.nta.nic.in/document/cuet-pg-information-bulletin/",
+    "exam": "CUET PG",
+    "exam_id": "cuet_pg",
+    "category": "Central University PG Entrance",
+    "source_label": "CUET PG Official",
+    "source_url": "https://exams.nta.nic.in/cuet-pg/",
+    "id": "d9d1ebfe4c29108b139266b41634f969",
+    "fetched_at": "2026-06-30T10:07:44.369360+00:00"
+  },
+  {
     "title": "Schedule of WBJEE 2026 Counselling",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606291700903463.pdf",
     "exam": "WBJEE",
@@ -5454,49 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "2ea68b77da2ae694e1ccd85bdfa015c7",
     "fetched_at": "2026-04-12T19:27:16.362317+00:00"
-  },
-  {
-    "title": "Tentative Vacancy for SPOT Round Counselling",
-    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-spot-round-counselling/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "e43c27dd282de74c982c3ee50f6a67bc",
-    "fetched_at": "2026-04-12T19:27:15.337814+00:00"
-  },
-  {
-    "title": "Tentative Vacancy for SPOT Round Counselling (Updated on 5 PM, 13-08-2025)",
-    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-spot-round-counselling-updated-on-5-pm-13-08-2025/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "d5a7df20a0a723aa029601bf7e87731c",
-    "fetched_at": "2026-04-12T19:27:14.300644+00:00"
-  },
-  {
-    "title": "Revised Counselling Schedule with an additional Spot Round (Updated on 14-08-2025)",
-    "url": "https://jacchd.admissions.nic.in/document/revised-counselling-schedule-with-an-additional-spot-round-updated-on-14-08-2025/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "0365059d367d3c41078874de65e51ed9",
-    "fetched_at": "2026-04-12T19:27:13.102120+00:00"
-  },
-  {
-    "title": "Notice for Newly Admitted Students for Physical Reporting UIET, Chandigarh",
-    "url": "https://jacchd.admissions.nic.in/document/notice-for-newly-admitted-students-for-physical-reporting-uiet-chandigarh/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "c68a8dc882f4e8fac0eaa2c6cd12c2b7",
-    "fetched_at": "2026-04-12T19:27:12.078543+00:00"
   }
 ]
