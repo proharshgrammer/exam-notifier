@@ -1,5 +1,27 @@
 [
   {
+    "title": "Institute Level Manual Counseling for admissions in Diploma Engg. and Diploma Engg. Lateral Entry Courses only in Govt./ Govt. Aided/ Self Financing Polytechnics against leftover/ vacant seats for the Session 2026-27",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level manual counselling 26-27.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "f7da10567ab00831aa9c6f6a5c56d78e",
+    "fetched_at": "2026-06-30T12:35:07.925596+00:00"
+  },
+  {
+    "title": "Appointment of Ombudsperson in terms of the University Grants Commission (Redressal of Grievances of Students) Regulations, 2023",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/545.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "abb79e0f076e703735d5bef1a42925f4",
+    "fetched_at": "2026-06-30T12:33:16.481704+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING M.SC NURSING (CODE-198)/POST BASIC B.SC NURSING (CODE-188) A.S: 2026-27_DATED-29.06.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606301788545827.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.lpu.in/admission/admissions.php",
     "id": "ce7f55dc055668ef887d8c17b4dc3cdf",
     "fetched_at": "2026-04-12T19:27:20.756781+00:00"
-  },
-  {
-    "title": "Interview Guidelines",
-    "url": "https://lpu.in/downloads/program/Interview%20Guidelines%20and%20Requirements.pdf",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "LPU NEST Updates",
-    "source_url": "https://www.lpu.in/admission/admissions.php",
-    "id": "5c3f229313503266b77a6d2ffa36180b",
-    "fetched_at": "2026-04-12T19:27:19.638972+00:00"
-  },
-  {
-    "title": "DEFENCE MERIT LIST for PU institutes (Special Round)",
-    "url": "https://jacchd.admissions.nic.in/document/defence-merit-list-for-pu-institutes-special-round/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "2ea68b77da2ae694e1ccd85bdfa015c7",
-    "fetched_at": "2026-04-12T19:27:16.362317+00:00"
   }
 ]
