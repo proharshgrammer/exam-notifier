@@ -1,5 +1,16 @@
 [
   {
+    "title": "Schedule of Activities after Round -1 : LLB, B.Ed., BA (JMC), BA English, BA Economics and B.Com. dated-30.06.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260630580876469.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "27d2b0a6b83cab8013238f0674f347ec",
+    "fetched_at": "2026-06-30T15:19:16.524189+00:00"
+  },
+  {
     "title": "Institute Level Manual Counseling for admissions in Diploma Engg. and Diploma Engg. Lateral Entry Courses only in Govt./ Govt. Aided/ Self Financing Polytechnics against leftover/ vacant seats for the Session 2026-27",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level manual counselling 26-27.pdf",
     "exam": "HSTES",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.lpu.in/admission/admissions.php",
     "id": "40b77b63937dcf10e2ff7b5ec31daf77",
     "fetched_at": "2026-04-12T19:27:21.874482+00:00"
-  },
-  {
-    "title": "Report of NIRF Data Capturing System: Management",
-    "url": "https://www.lpu.in/downloads/nirf/2026/Management.pdf",
-    "exam": "LPU Punjab",
-    "exam_id": "lpu_punjab",
-    "category": "Counselling",
-    "source_label": "LPU NEST Updates",
-    "source_url": "https://www.lpu.in/admission/admissions.php",
-    "id": "ce7f55dc055668ef887d8c17b4dc3cdf",
-    "fetched_at": "2026-04-12T19:27:20.756781+00:00"
   }
 ]
