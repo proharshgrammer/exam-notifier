@@ -1,5 +1,49 @@
 [
   {
+    "title": "IGDTUW Round 1 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/202606181840071240.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "4b9b2f18df5f03eeaee370194a2e62e8",
+    "fetched_at": "2026-07-02T08:17:44.055801+00:00"
+  },
+  {
+    "title": "IGDTUW Round 2 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021225577462.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "e7ca73a18780f6ae54d1cdd1a4e69834",
+    "fetched_at": "2026-07-02T08:17:42.743717+00:00"
+  },
+  {
+    "title": "DSEU Round 2 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021801581511.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "d5ae116c7a1d81e3afb225536b80091e",
+    "fetched_at": "2026-07-02T08:17:41.448366+00:00"
+  },
+  {
+    "title": "NSUT Round 2 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021272551822.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "dad1c59d9d75470fbcd014a008042bd8",
+    "fetched_at": "2026-07-02T08:17:39.080082+00:00"
+  },
+  {
     "title": "MHT-CET 2026 (PCM )",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/06/Press-Note-MHT-CET-PCM-Group-2nd-Attempt_2026.pdf",
     "exam": "MHT-CET",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "daa474cbcbda93069e5409b4a2f3bce2",
     "fetched_at": "2026-04-16T07:55:37.094573+00:00"
-  },
-  {
-    "title": "Notification regarding Third extension of last date to submit Examination Forms for TEE May-June 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Third extension of submit Examination Forms 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "494f5a03ebc1beb6d4c445bde4b46cd9",
-    "fetched_at": "2026-04-16T05:44:43.090017+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260415185330.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "ca1fcd093d34b67e95a297f40356d00d",
-    "fetched_at": "2026-04-15T13:58:35.134015+00:00"
-  },
-  {
-    "title": "Notice regarding Non-Submission of Fees by UG and PG Students",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Notice 940 Finance.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "54923120997deb501a6671db570ae418",
-    "fetched_at": "2026-04-15T07:12:20.147411+00:00"
-  },
-  {
-    "title": "Extension of Last Date for Submission of Photo Verification Certificate for Common University Entrance Test [CUET (UG)] – 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/20260414841689472.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "b4fbd4e5aa11bef15208d5665991d965",
-    "fetched_at": "2026-04-14T12:40:13.993102+00:00"
   }
 ]
