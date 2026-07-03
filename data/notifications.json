@@ -1,5 +1,27 @@
 [
   {
+    "title": "NO COUNSELLING FOR BA (LIBERAL ARTS) ON 03.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607031472098962.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ff7e6378b28672e0058697e0fb3fafff",
+    "fetched_at": "2026-07-03T07:53:21.962789+00:00"
+  },
+  {
+    "title": "NOTICE FOR REGISTRATION AND PHYSICAL REPORTING FOR NEWLY ADMITTED CANDIDAETS 2026-27",
+    "url": "https://hbtu.admissions.nic.in/document/notice-for-registration-and-physical-reporting-for-newly-admitted-candidaets-2026-27/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "dbf49e3c8218b4be944feafafc851dd4",
+    "fetched_at": "2026-07-03T07:51:47.656641+00:00"
+  },
+  {
     "title": "Schedule of activities after round-1: LLM/BCA/BBA & 5 YEAR BBA MBA(INTEGRATED)/B.TECH A.S. 2026-27 DATED- 02.07.2026.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260702853989357.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "719f6a906754ecc364a6e8cef49926ae",
     "fetched_at": "2026-04-20T08:34:30.602786+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260418120309.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "ecddf5d44ae2e5676ab878b22ad017cc",
-    "fetched_at": "2026-04-18T07:15:37.775532+00:00"
-  },
-  {
-    "title": "Updation of earlier opted subjects for the fee paid candidates for CUET (UG)- 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/202604171043356395.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "6cf755ccb2cd182a0bf5bdc90468e64b",
-    "fetched_at": "2026-04-17T16:58:14.589860+00:00"
   }
 ]
