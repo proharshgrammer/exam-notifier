@@ -1,5 +1,16 @@
 [
   {
+    "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "5ec73388803684c212f4dd4e6d18f71b",
+    "fetched_at": "2026-07-04T11:39:39.539284+00:00"
+  },
+  {
     "title": "PU Defence Merit List",
     "url": "https://jacchd.admissions.nic.in/document/pu-defence-merit-list/",
     "exam": "JAC CHD",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "9655b2de125287f169dccd36b53567b7",
     "fetched_at": "2026-04-23T10:12:40.866648+00:00"
-  },
-  {
-    "title": "Notice Exam Schedule-OJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/20260423667843586.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "b915d876ba829de43ac6d15c21176154",
-    "fetched_at": "2026-04-23T10:12:31.074592+00:00"
   }
 ]
