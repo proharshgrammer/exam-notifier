@@ -1,5 +1,16 @@
 [
   {
+    "title": "PU Sports Merit List",
+    "url": "https://jacchd.admissions.nic.in/document/pu-sports-merit-list/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "2d5b0ec5ab482cab539344cb81a7ec5f",
+    "fetched_at": "2026-07-04T16:36:30.157110+00:00"
+  },
+  {
     "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "ee2ed26f70e622dd6e2721918c84b8e6",
     "fetched_at": "2026-04-23T13:56:23.127776+00:00"
-  },
-  {
-    "title": "Notification regarding Fifth extension of last date to submit Examination Forms for TEE May-June 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Fifth extension TEE May-June 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "9655b2de125287f169dccd36b53567b7",
-    "fetched_at": "2026-04-23T10:12:40.866648+00:00"
   }
 ]
