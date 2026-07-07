@@ -1,5 +1,27 @@
 [
   {
+    "title": "Click here for Revised Engineering Provisional Seat Availability&Fee",
+    "url": "https://comedk.org/uploads/Engineering-Revised-Provisional-Seat-Availability&Fee-before-start-of-Round-1.Notified-on-07.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "2cc8d7e5f5e2b709d2bd409ce400c6b5",
+    "fetched_at": "2026-07-07T07:47:29.091026+00:00"
+  },
+  {
+    "title": "Click here for 2025-Engineering Cut-off Ranks After All Rounds",
+    "url": "https://comedk.org/uploads/2025-Engineering Cut-Off Ranks-After-All-Rounds. Notified-on-07.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "08e1e452cb8194ecbd48d70e9975d578",
+    "fetched_at": "2026-07-07T07:47:27.059801+00:00"
+  },
+  {
     "title": "All Courses Under Technical Education Courses",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/07/4.-Not-to-take-admission-in-unauthorized-institute-Public-Notice.pdf",
     "exam": "MHT-CET",
@@ -5476,27 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "643276a9396b70617f85d02cf305955b",
     "fetched_at": "2026-04-27T14:05:40.649533+00:00"
-  },
-  {
-    "title": "Notification regarding Submission of ReAppear Examination Forms for Pre-Ph.D. Course Work TEE June 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0Notification Submission of ReAppear Pre-Ph.D. TEE June 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "f16eb406a9fbb1ff2acda420ab4cbc0c",
-    "fetched_at": "2026-04-27T11:50:42.604394+00:00"
-  },
-  {
-    "title": "Release of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026- reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/202604262116105512.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "bc4e916a4e183320a42f8590f093046b",
-    "fetched_at": "2026-04-26T16:51:51.112398+00:00"
   }
 ]
