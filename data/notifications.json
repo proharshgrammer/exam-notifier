@@ -1,5 +1,27 @@
 [
   {
+    "title": "Extension of Last Date for submission of Part Academic Fee for the Programme LLM/BCA/B.TECH/BBA & ALLIED PROG/5 YEAR BBA MBA (Integrated) prog Round 1: A.S:2026-27_07.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260707160616221.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "acfb635fd07bc1030af68c632165befd",
+    "fetched_at": "2026-07-07T11:16:23.088687+00:00"
+  },
+  {
+    "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "ee8fd34da6bb695bc68c00ed26fb6178",
+    "fetched_at": "2026-07-07T11:15:56.858431+00:00"
+  },
+  {
     "title": "Click here for Revised Engineering Provisional Seat Availability&Fee",
     "url": "https://comedk.org/uploads/Engineering-Revised-Provisional-Seat-Availability&Fee-before-start-of-Round-1.Notified-on-07.07.2026.pdf",
     "exam": "COMEDK",
@@ -5476,27 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "1a1df11c20cfddc91afbda35064aab06",
     "fetched_at": "2026-04-27T14:05:43.372051+00:00"
-  },
-  {
-    "title": "Applications invited for DNB Final Examination June 2026.",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=dnR6bnU3ejF6MnhTcmhtRm5palFsdz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "a9ee2b0e63bfa08ad188ecfa5eb603fc",
-    "fetched_at": "2026-04-27T14:05:42.485643+00:00"
-  },
-  {
-    "title": "DNB/DrNB Recognition Gazette notification",
-    "url": "https://natboard.edu.in/viewNotice?NBE=NHdZUHFmMFFsNDRZS0g1N0p4by9DZz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "643276a9396b70617f85d02cf305955b",
-    "fetched_at": "2026-04-27T14:05:40.649533+00:00"
   }
 ]
