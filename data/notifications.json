@@ -1,5 +1,27 @@
 [
   {
+    "title": "Revised list of candidates who applied for admission under the SINGLE GIRL CHILD QUOTA for the A.S: 2026-27, With the stipulated last dated, i.e., 25.06.2026_dated-08.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081596296897.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "66da17f7518ee5139aabb613014ea1d0",
+    "fetched_at": "2026-07-08T11:28:39.536854+00:00"
+  },
+  {
+    "title": "Schedule of 1st Offline Counselling MA (Mass Communication) (Code-106) Academic Session:2026-27_dated-08.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081629068560.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "72cf425508467d6ec52dd57c574dc92d",
+    "fetched_at": "2026-07-08T11:28:37.617074+00:00"
+  },
+  {
     "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS FOR PREPARATION OF RANK/MERIT FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S: 2026-27_dated-08.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708628252788.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "0ce93cd38df45726b87d96530aa8cd7e",
     "fetched_at": "2026-04-27T14:05:49.925598+00:00"
-  },
-  {
-    "title": "Result cum Merit list of selected candidates - for the post of Research Associate-I [Medical] and Research Associate-II [Finance and Accounts] [on contract basis]",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=S0J6cU5vT2tNQTJ4eHFEVmtxbGF3QT09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "b239b974b48e4b8212a35f1502ce8552",
-    "fetched_at": "2026-04-27T14:05:48.973797+00:00"
-  },
-  {
-    "title": "Announcement of 23rd Convocation of NBEMS",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=cHpTS2hyc0FPOEdXU0Y3VFhLaU45QT09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "483a06a27bb0f5a4b2c22d1661fb6aa9",
-    "fetched_at": "2026-04-27T14:05:48.079524+00:00"
   }
 ]
