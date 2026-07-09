@@ -1,5 +1,27 @@
 [
   {
+    "title": "Tentative Schedule for B Tech, M.Tech Integrated, B. Des Admissions UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/9c4c0beff9712c8232f2d28274f779ef0e1eef86ad0d67b60736d4e405ef13a017836015469_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "db024d416c7333ac963ee442df5656de",
+    "fetched_at": "2026-07-09T15:45:23.525829+00:00"
+  },
+  {
+    "title": "Tentative Schedule for B Arch, BHMCT, BFAD, BFA, MBA (Integrated), MCA (Integrated), BBA, BCA, B. Voc, MBA, MC A& Lateral Entry of B.Tech, B.Pharm, MBA, MCA Admissions - UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/96dc2d92b18b978ce7304165e7c15ad94660a999765ad6c7a798661ab0c4294917836089659_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "2ac789a521303f059b9453a4ef1a4f7d",
+    "fetched_at": "2026-07-09T15:45:20.722465+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-3-ecounselling-2026.pdf",
     "exam": "SRMJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "903eb626a3f2207d513b9fac756a73a6",
     "fetched_at": "2026-04-30T13:07:34.510270+00:00"
-  },
-  {
-    "title": "Seeking Scribe details for availing the facility of Scribe by PwD/ PwBD candidates in CUET (UG)- 2026-regarding.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/202604301825745464.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "fd44359b5e03c2422b5abe9a9fe56b27",
-    "fetched_at": "2026-04-30T13:07:19.425610+00:00"
-  },
-  {
-    "title": "Advisory for Candidates Regarding Dress Code and Permissible Items",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/04/20260430667364505.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "d87f3bd984180731397bcbeb6c83174f",
-    "fetched_at": "2026-04-30T13:07:12.801653+00:00"
   }
 ]
