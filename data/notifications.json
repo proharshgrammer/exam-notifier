@@ -1,5 +1,16 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-3-ecounselling-2026.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "79d824b1d88ee72af844529b6a791c17",
+    "fetched_at": "2026-07-09T12:17:59.905469+00:00"
+  },
+  {
     "title": "Guidelines of MCA Programme 2026-27",
     "url": "https://hbtu.admissions.nic.in/document/guidelines-of-mca-programme-2026-27/",
     "exam": "HBTU Counselling",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "d87f3bd984180731397bcbeb6c83174f",
     "fetched_at": "2026-04-30T13:07:12.801653+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260430172700.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "01bdf3de907655b1120d7bb5e91ab34d",
-    "fetched_at": "2026-04-30T13:07:09.148013+00:00"
   }
 ]
