@@ -1,5 +1,60 @@
 [
   {
+    "title": "DSEU Round 3 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091346327747.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "5eb821a79cd5a54bf5d5c4833fecbcfe",
+    "fetched_at": "2026-07-09T04:36:11.855139+00:00"
+  },
+  {
+    "title": "IGDTUW Round 3 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091316184882.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "d489282f7e0bb8ae00dc2ffceeeb9bb3",
+    "fetched_at": "2026-07-09T04:36:10.296739+00:00"
+  },
+  {
+    "title": "IIITD Round 3 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091962797998.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "6fff5ffa11bd1589165a8ce5dfce20a9",
+    "fetched_at": "2026-07-09T04:36:08.705410+00:00"
+  },
+  {
+    "title": "DTU Round 3 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091707226292.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "4178f2d2ab1b5d26439f849e5ac51942",
+    "fetched_at": "2026-07-09T04:36:07.104099+00:00"
+  },
+  {
+    "title": "NSUT Round 3 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091516947066.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "8f156fc44644dd798170b2081ca162f3",
+    "fetched_at": "2026-07-09T04:36:04.641492+00:00"
+  },
+  {
     "title": "विद्यार्थी सहाय्यता केंद्रांची यादी",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/07/List-of-operative-centres-08072026.pdf",
     "exam": "MHT-CET",
@@ -5443,60 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "45cf3adb75241aab7b117c337bafe6ae",
     "fetched_at": "2026-04-29T16:14:49.229363+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260429210357.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "ca42fce6fdd43474a19ef7cff09ca96e",
-    "fetched_at": "2026-04-29T16:14:45.033626+00:00"
-  },
-  {
-    "title": "Advance Intimation for Allotment of Examination City to the candidate of the Common University Entrance Test [CUET (UG)] 2026- Reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/04/202604291825114087.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "973371b032ee2cab179fc56311f2eb44",
-    "fetched_at": "2026-04-29T14:10:05.721899+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260429185542.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "30b6cb03dba43ed356e9b4e73464b1b6",
-    "fetched_at": "2026-04-29T14:09:55.724977+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260429170513.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "b88eb5f11fa42b85c9d60a4928c1190a",
-    "fetched_at": "2026-04-29T11:42:02.808574+00:00"
-  },
-  {
-    "title": "tentative schedule (including NEET-SS 2026) of forthcoming NBEMS Examinations.",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=dkU5K0VnZjY0ellZSTh2dlF4UnNUdz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "18383babc9a2bac55064b4dc53e84751",
-    "fetched_at": "2026-04-29T09:35:16.181031+00:00"
   }
 ]
