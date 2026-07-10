@@ -1,5 +1,93 @@
 [
   {
+    "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN PG COURSES INCLUDING B.ED. (CODE-122) AND B.ED. (SPECIAL EDUCATION) (CODE-159) A.S:2026-27_dated-10.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607102025494401.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "58bcb541690718d290602b71f66032e6",
+    "fetched_at": "2026-07-10T09:46:22.780295+00:00"
+  },
+  {
+    "title": "Guidelines for the Spot Round",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607101122161731.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "d025fc40de0e40db692efb7f92062710",
+    "fetched_at": "2026-07-10T09:46:11.651939+00:00"
+  },
+  {
+    "title": "CBT Schedule for 2nd/Special OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260710417903752.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "7b142b2e73c636f32791eb261bd299f9",
+    "fetched_at": "2026-07-10T09:45:53.299768+00:00"
+  },
+  {
+    "title": "Tentative Schedule for B Tech, M.Tech Integrated, B. Des Admissions UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/2d0eadbc16f4d5b76bcc0072281d92f46e3fc756a871cf3ec4d2d437868c4e7617836612849_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "47797fe34e4790855b9fb081b32d4329",
+    "fetched_at": "2026-07-10T09:45:45.680867+00:00"
+  },
+  {
+    "title": "Tentative Schedule for B Arch, BHMCT, BFAD, BFA, MBA (Integrated), MCA (Integrated), BBA, BCA, B. Voc, MBA, MC A& Lateral Entry of B.Tech, B.Pharm, MBA, MCA Admissions - UPTAC 2026",
+    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/e8fad875fcdffe0a9d616719874dab4510f4b803034c6b6a13717192155b69ab17836612279_admission_docs.pdf/9",
+    "exam": "UPTAC (UPTU)",
+    "exam_id": "uptu",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
+    "id": "718812c569e6c39d00e4ee7afa29ad14",
+    "fetched_at": "2026-07-10T09:45:44.232914+00:00"
+  },
+  {
+    "title": "विद्यार्थी सहाय्यता केंद्रांची यादी",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/06/List-of-operative-centres-08072026.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "2a7f169f9122f811e0694a8d72b09dd7",
+    "fetched_at": "2026-07-10T09:42:21.177404+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260710141047.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "2921604f5c75b9ec06be723c5f22fc50",
+    "fetched_at": "2026-07-10T09:42:02.064188+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260710141109.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "dcd7b2e933d5ef87c0c1495211558af8",
+    "fetched_at": "2026-07-10T09:41:59.760112+00:00"
+  },
+  {
     "title": "Know more",
     "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-3-scholarships-2026.pdf",
     "exam": "SRMJEE",
@@ -5410,93 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "ddbdce0b93ce2594759b2a56dae47833",
     "fetched_at": "2026-05-05T16:27:35.361187+00:00"
-  },
-  {
-    "title": "Release of Admit Card for the candidates of Common University Entrance Test [CUET (UG)] – 2026 reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/20260505818657360.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "9a736db8e70de4e7880b6cfe2855454a",
-    "fetched_at": "2026-05-05T10:49:43.704537+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260505150644.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "862f25ab4b982c8dd51e364f09be0e78",
-    "fetched_at": "2026-05-05T10:49:33.055728+00:00"
-  },
-  {
-    "title": "Applications invited for Formative Assessment Test 2026 - DNB Post Diploma Courses.",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=RnlLWHVqWjVlVWZDNFhOM1cxbzJ5UT09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "542f5936af4c373d36e87f209dafd06f",
-    "fetched_at": "2026-05-04T11:23:11.859990+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260504155839.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9d24903c5e678dd621f5d175e5c3d37d",
-    "fetched_at": "2026-05-04T11:23:04.686205+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-srmjeee-ug-phase-i-round-i-e-counselling-2026.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "76b39c27c3e2ed60616b72a12c23c087",
-    "fetched_at": "2026-05-04T06:46:25.084003+00:00"
-  },
-  {
-    "title": "NTA Fully Prepared for Smooth and Secure Conduct of NEET (UG) – 2026 on 3rd May 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260502723960769.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "90f6aa96e2fe5b57c90e37990ff02651",
-    "fetched_at": "2026-05-02T16:55:29.466121+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260502215114.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "8d2705de01e153230b23c368f719b79a",
-    "fetched_at": "2026-05-02T16:55:24.512225+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260501163531.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "170bbfbe616ebf330a33de8412696802",
-    "fetched_at": "2026-05-01T12:01:39.447250+00:00"
   }
 ]
