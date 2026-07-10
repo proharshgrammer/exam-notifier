@@ -1,5 +1,16 @@
 [
   {
+    "title": "Know more",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-3-scholarships-2026.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "6e96b04986b3c49f2f7b66d4692c92d2",
+    "fetched_at": "2026-07-10T05:43:00.850210+00:00"
+  },
+  {
     "title": "Tentative Schedule for B Tech, M.Tech Integrated, B. Des Admissions UPTAC 2026",
     "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/9c4c0beff9712c8232f2d28274f779ef0e1eef86ad0d67b60736d4e405ef13a017836015469_admission_docs.pdf/9",
     "exam": "UPTAC (UPTU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "170bbfbe616ebf330a33de8412696802",
     "fetched_at": "2026-05-01T12:01:39.447250+00:00"
-  },
-  {
-    "title": "Assistant Law Officer",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/law_officer_ARA.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "903eb626a3f2207d513b9fac756a73a6",
-    "fetched_at": "2026-04-30T13:07:34.510270+00:00"
   }
 ]
