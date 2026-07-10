@@ -1,5 +1,27 @@
 [
   {
+    "title": "MBA (CODE-101) ROUND 01_ ACTIVITIES AFTER DECLARATION OF RESULT A.S: 2026-27_dated-10.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607101223656253.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "5b7c8300535811d10118037996f6fbf7",
+    "fetched_at": "2026-07-10T12:31:52.121584+00:00"
+  },
+  {
+    "title": "NOTICE FOR WORKING PROFESSIONALS",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607101541931856.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "351a24cac80ccb6056384dc76b6cdb8b",
+    "fetched_at": "2026-07-10T12:31:27.416281+00:00"
+  },
+  {
     "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN PG COURSES INCLUDING B.ED. (CODE-122) AND B.ED. (SPECIAL EDUCATION) (CODE-159) A.S:2026-27_dated-10.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607102025494401.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://cuet.nta.nic.in/",
     "id": "9844217500d98ff35dca4def1e342583",
     "fetched_at": "2026-05-05T19:57:45.227054+00:00"
-  },
-  {
-    "title": "Public Notice regarding facility for selection of Examination State / City / Date / Shift in CUET (UG) 2026 – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/20260505939900199.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "b17b0108be345bcd9cdee812a94c8c11",
-    "fetched_at": "2026-05-05T19:57:43.354110+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260505200408.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "ddbdce0b93ce2594759b2a56dae47833",
-    "fetched_at": "2026-05-05T16:27:35.361187+00:00"
   }
 ]
