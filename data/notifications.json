@@ -1,5 +1,27 @@
 [
   {
+    "title": "Click here for Engineering Final Seat Availability & Fee",
+    "url": "https://www.comedk.org/uploads/Engineering_-Final_Seat_Availability_Fee_before_start_of_Round_1__Notified_on_11_07_2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "a8148721327f794eede763b53afd6553",
+    "fetched_at": "2026-07-11T05:50:04.103951+00:00"
+  },
+  {
+    "title": "Notice: JEE Main Score Fetching for B.E./B.Tech CAP 2026–27 Candidates",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/07/JEE-Notice.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "cf89cc5510bc9fd4dab8dbf770e7d4a1",
+    "fetched_at": "2026-07-11T05:46:38.731738+00:00"
+  },
+  {
     "title": "MBA (CODE-101) ROUND 01_ ACTIVITIES AFTER DECLARATION OF RESULT A.S: 2026-27_dated-10.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607101223656253.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "0e46b6977cb60886d7b8e5f7a2af5a39",
     "fetched_at": "2026-05-05T21:11:07.412415+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260506020002.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "60cc3619ecec63210a9e6b99405c1808",
-    "fetched_at": "2026-05-05T21:11:05.871995+00:00"
-  },
-  {
-    "title": "Press Release CUET-UG 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/202605052035974154.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "9844217500d98ff35dca4def1e342583",
-    "fetched_at": "2026-05-05T19:57:45.227054+00:00"
   }
 ]
