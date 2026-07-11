@@ -1,5 +1,49 @@
 [
   {
+    "title": "MA(ECONOMICS)_162 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711333423263.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "641597c8e963c7c74377858017d8df10",
+    "fetched_at": "2026-07-11T10:04:11.560082+00:00"
+  },
+  {
+    "title": "BHMCT_127 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711429636215.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "415e1e28321b3866fde8663fd4311375",
+    "fetched_at": "2026-07-11T10:04:10.342792+00:00"
+  },
+  {
+    "title": "BA(LIBERAL ARTS)_451 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112004132551.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "dd9292066d799ef22bd4214bb2e895ae",
+    "fetched_at": "2026-07-11T10:04:08.975809+00:00"
+  },
+  {
+    "title": "B.Sc(MRIT)_134 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112038162165.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d4398dbdcd09b953bc183f238ef67f2d",
+    "fetched_at": "2026-07-11T10:04:06.933214+00:00"
+  },
+  {
     "title": "Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), B.Ed (SPL EDU), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27_dated-11.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111540352304.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://cuet.nta.nic.in/",
     "id": "226736f7b414747fe5b396df65e6f380",
     "fetched_at": "2026-05-06T13:16:08.490281+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260506173154.PDF",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "17ef2e73f1994d0d14bad4a357c50e9b",
-    "fetched_at": "2026-05-06T13:15:58.427757+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260506175909.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "b93cfed51466d8f1cf73eb467b7728b2",
-    "fetched_at": "2026-05-06T13:15:56.151183+00:00"
-  },
-  {
-    "title": "Press Released dated 05 May 2026: 96.6% of Candidates Allotted Preferred City; Re-allocation Window Opens for Remaining Candidates",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/2026050559482061.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "d047d75b7d6d3cb1f4bfef0935933a24",
-    "fetched_at": "2026-05-06T03:36:13.269672+00:00"
-  },
-  {
-    "title": "Facility for selecting of Examination State/City/Date/Shift in CUET (UG) 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/20260505605243980.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "b738518cb69207e60f974548fc803336",
-    "fetched_at": "2026-05-05T21:11:18.280635+00:00"
   }
 ]
