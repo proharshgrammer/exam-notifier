@@ -1,5 +1,16 @@
 [
   {
+    "title": "NOTICE FOR EXTENSION OF LAST DATE FOR WITHDRAWAL OF SEATS / EXIT FROM SEAT ALLOCATION PROCESS FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.TECH./B.ARCH./B.PLAN./INT.M.SC. PROGRAMMES",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607121544268647.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "6eb1eb3787b28410884cb8a53430231f",
+    "fetched_at": "2026-07-12T14:09:44.831690+00:00"
+  },
+  {
     "title": "Frequently Asked Questions (FAQs)",
     "url": "https://www.comedk.org/uploads/FREQUENTLY_ASKED_QUESTIONS_CHOICE_FILLING.pdf",
     "exam": "COMEDK",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "09a43c620a878a34f75c74e9f9bc124f",
     "fetched_at": "2026-05-07T10:31:25.629395+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-1-scholarships-2026.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "da0e42c65d0a1554600e8f6e68119add",
-    "fetched_at": "2026-05-07T07:51:36.344852+00:00"
   }
 ]
