@@ -1,5 +1,38 @@
 [
   {
+    "title": "Guidelines of B.Tech , B.Tech Bio-Tcch . & B. Pharm. (Lateral Entry)",
+    "url": "https://hbtu.admissions.nic.in/document/updated-guidelines-of-b-tech-b-tech-bio-tcch-b-pharm-lateral-entry/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "7ceba2ea349a68979cf772db38635123",
+    "fetched_at": "2026-07-13T03:54:54.658523+00:00"
+  },
+  {
+    "title": "Guidelines of B.Tech Biotech & B.Pharma",
+    "url": "https://hbtu.admissions.nic.in/document/updated-guidelines-of-b-tech-biotech-b-pharma/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "c8e6751ae006643d236399c4400b4467",
+    "fetched_at": "2026-07-13T03:54:53.227738+00:00"
+  },
+  {
+    "title": "Guidelines of BBA",
+    "url": "https://hbtu.admissions.nic.in/document/updated-guidelines-of-bba/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "91ce2c9e42c199b41d7a9564c5bf043a",
+    "fetched_at": "2026-07-13T03:54:50.965603+00:00"
+  },
+  {
     "title": "NOTICE FOR EXTENSION OF LAST DATE FOR WITHDRAWAL OF SEATS / EXIT FROM SEAT ALLOCATION PROCESS FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.TECH./B.ARCH./B.PLAN./INT.M.SC. PROGRAMMES",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607121544268647.pdf",
     "exam": "OJEE",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "bd4dcfdb26a739e0f283d06ece4a9b6e",
     "fetched_at": "2026-05-07T15:14:51.362816+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260507191825.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9103c9c61c247ee3ac9055a186aba230",
-    "fetched_at": "2026-05-07T15:14:49.372626+00:00"
-  },
-  {
-    "title": "Process/Business Rule",
-    "url": "https://jacchd.admissions.nic.in/document/business-rules/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "0b5c7d002e8e5f3fd9c6e4bb9e2f9a45",
-    "fetched_at": "2026-05-07T10:31:27.454889+00:00"
-  },
-  {
-    "title": "EWS Certificate for Panjab University",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2025/05/2025052970.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "09a43c620a878a34f75c74e9f9bc124f",
-    "fetched_at": "2026-05-07T10:31:25.629395+00:00"
   }
 ]
