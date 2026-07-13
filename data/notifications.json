@@ -1,5 +1,16 @@
 [
   {
+    "title": "Frequently Asked Questions (FAQs)Choice Filling",
+    "url": "https://www.comedk.org/uploads/FREQUENTLY_ASKED_QUESTIONS_CHOICE_FILLING.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "7c4d6e05dbaae979ab9316b001aa55cf",
+    "fetched_at": "2026-07-13T10:43:37.898139+00:00"
+  },
+  {
     "title": "Schedule of 2nd Offline Counselling ADCGC (CET CODE-175) Admission Session:2026-27_dated-13.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131169075618.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "1073c1244f33c5dc559f6551ae97b69e",
     "fetched_at": "2026-05-10T10:46:27.173841+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260509132922.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "2ffef79c9d23524f06ae26391e433100",
-    "fetched_at": "2026-05-09T09:00:08.536433+00:00"
   }
 ]
