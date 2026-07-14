@@ -1,5 +1,16 @@
 [
   {
+    "title": "Regarding Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607141430274592.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "0e218a93f655fd2a55e680ae7c178c03",
+    "fetched_at": "2026-07-14T16:20:28.962246+00:00"
+  },
+  {
     "title": "BBA INSTITUTES AVAILABLE FOR ROUND 02 FOR THE ACADEMIC SESSION 2026-27. DATED 14.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607141882638612.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "4fce9de4b870ebd3eb9a1ca16e5beceb",
     "fetched_at": "2026-05-14T05:27:36.178434+00:00"
-  },
-  {
-    "title": "एनबीईएमएस डिप्लोमा और पोस्ट एमबीबीएस डीएनबी प्रशिक्षुओं के रूप में पंजीकरण के लिए ओपीजेआर में ज्वाइनिंग रिपोर्ट और स्व-मूल्यांकन प्रस्तुत करने का अंतिम अवसर (2025 प्रवेश सत्र) - संदर्भ। One Final Opportunity for submission of Joining Report and Self-Appraisal at OPJR for Registration as NBEMS Diploma and Post MBBS DNB trainees (2025 Admission Session)-reg",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=bE43N1BtNTJlUWkyYWtCK25XNW04dz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "c6d6d1e7cae9d8428001578461e28c57",
-    "fetched_at": "2026-05-13T13:18:33.844092+00:00"
   }
 ]
