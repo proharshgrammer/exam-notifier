@@ -1,5 +1,27 @@
 [
   {
+    "title": "Click here for Engineering Final Seat Availability & Fee",
+    "url": "https://www.comedk.org/uploads/Engineering_Mock_Round_Cut_off_Ranks.Notified_on_14.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "61b6d6b64e167cc8df290bd73ed02683",
+    "fetched_at": "2026-07-14T11:12:08.571355+00:00"
+  },
+  {
+    "title": "Click here for 2025-Engineering Cut-off Ranks After All Rounds",
+    "url": "https://comedk.org/uploads/Engineering_Mock_Round_Cut_off_Ranks.Notified_on_14.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "61db388f5d3ad42bd0fec9392afdbd18",
+    "fetched_at": "2026-07-14T11:12:05.900267+00:00"
+  },
+  {
     "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "6439947750f007d484e6849a47c92e01",
     "fetched_at": "2026-05-12T12:28:29.731906+00:00"
-  },
-  {
-    "title": "Guidelines for Key challenge of OJEE Answer key",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/202605121282335995.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "deca4ddcaa4c28ce70c68f99ca1f1449",
-    "fetched_at": "2026-05-12T12:28:27.527972+00:00"
-  },
-  {
-    "title": "Press Release for NEET (UG) – 2026 dated 12 May 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605122066418251.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "0ce27402ca76e9bcb203859bc6f20510",
-    "fetched_at": "2026-05-12T07:23:38.168934+00:00"
   }
 ]
