@@ -1,5 +1,16 @@
 [
   {
+    "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e5002c575d3193630fe9272323d5b571",
+    "fetched_at": "2026-07-14T09:11:15.548593+00:00"
+  },
+  {
     "title": "Display of Scanned Images of OMR Answer Sheet and Recorded Response for National Eligibility cum Entrance Test (UG)-2026-reg.",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260713497007800.pdf",
     "exam": "NEET UG",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "0ce27402ca76e9bcb203859bc6f20510",
     "fetched_at": "2026-05-12T07:23:38.168934+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260511161837.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "fe1a77d9deac4c3e3802365d3a42fa60",
-    "fetched_at": "2026-05-11T12:41:44.208662+00:00"
   }
 ]
