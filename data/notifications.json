@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extend Schedule of Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260715230387130.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "24440f28b0a73bcf221e973eda9e1f61",
+    "fetched_at": "2026-07-15T06:41:05.747502+00:00"
+  },
+  {
     "title": "Regarding Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026)",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607141430274592.pdf",
     "exam": "NEET UG",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "32c89a7603a69b6945e0e0e319ddea35",
     "fetched_at": "2026-05-14T05:30:01.599175+00:00"
-  },
-  {
-    "title": "Result of DNB-PDCET 2026 declared",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=aXppUTVRYVN5L1ZhZ3JnR2JEbjU1dz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "4fce9de4b870ebd3eb9a1ca16e5beceb",
-    "fetched_at": "2026-05-14T05:27:36.178434+00:00"
   }
 ]
