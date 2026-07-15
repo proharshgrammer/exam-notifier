@@ -1,5 +1,16 @@
 [
   {
+    "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR LLM, (Int) BA/BBA LLB, B.Design, B.Tech.(BT), B.Com(H), BBA, LLB(3 year). merit list of B.Arch, MBA and M.Arch will prepare at counselling venue A.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607151833804603.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b84ccbfc4527698a9366fec8d3c5771a",
+    "fetched_at": "2026-07-15T12:57:00.136668+00:00"
+  },
+  {
     "title": "DSEU Round 4 Cut Off 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260715819491161.pdf",
     "exam": "JAC Delhi",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "2fbfed7e6b0a05fc63770c70f8406b6d",
     "fetched_at": "2026-05-15T13:14:05.968342+00:00"
-  },
-  {
-    "title": "Academic calendar for the semester of the ODL courses commencing from April-August 2026 for the academic year 2025-26",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0146 Academic Calendar March 2026 (1).pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "55da6a7a988d40406cad7668207911be",
-    "fetched_at": "2026-05-15T11:26:38.266462+00:00"
   }
 ]
