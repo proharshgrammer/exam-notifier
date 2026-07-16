@@ -1,5 +1,16 @@
 [
   {
+    "title": "Final Answer Keys for NEET (UG) – 2026 Re-Examination",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716131467523.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "1e675942ec82db056345c5f109a45633",
+    "fetched_at": "2026-07-16T16:19:37.569450+00:00"
+  },
+  {
     "title": "Schedule of 2nd Counselling B.Sc(Yoga) Code-117, M.Sc(Yoga) Code-187 Followed by Open House Counselling A.S:2026-27_dated-16.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716517829194.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "65f27dc19b241d06584b98da744fcfd3",
     "fetched_at": "2026-05-18T12:40:25.236062+00:00"
-  },
-  {
-    "title": "Business Rules",
-    "url": "https://jacchd.admissions.nic.in/document/business-rules-2/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "1031485064abecb061c2007d1b3c5ed1",
-    "fetched_at": "2026-05-18T08:34:32.480556+00:00"
   }
 ]
