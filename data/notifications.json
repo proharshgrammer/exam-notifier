@@ -1,5 +1,49 @@
 [
   {
+    "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716797381880.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "68f4d24e4e9148f686b1fea9adeb094c",
+    "fetched_at": "2026-07-16T19:22:16.370694+00:00"
+  },
+  {
+    "title": "Press Release for NEET (UG) – 2026 Results (21st June 2026)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716477215762.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "7f7ba2f33c1fbedafdebec20a2a2d8a4",
+    "fetched_at": "2026-07-16T19:18:12.812093+00:00"
+  },
+  {
+    "title": "List of Toppers of NEET(UG) – 2026 (Held on 21st June, 2026)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716180970800.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "c27f6614adf4bf394f8a6eb6a4023b4c",
+    "fetched_at": "2026-07-16T19:18:11.644476+00:00"
+  },
+  {
+    "title": "KEY DATA POINTS OF NEET (UG) OVER YEARS",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607161539405935.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "7dffec014a8e3be169f3dcdad94b628a",
+    "fetched_at": "2026-07-16T19:18:09.487132+00:00"
+  },
+  {
     "title": "Final Answer Keys for NEET (UG) – 2026 Re-Examination",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716131467523.pdf",
     "exam": "NEET UG",
@@ -5454,49 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "8416b0ba2f16e7ecfb7d6dde151d3973",
     "fetched_at": "2026-05-21T11:50:57.881064+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "56d3fc0b64f49834a5d26268dbe5db58",
-    "fetched_at": "2026-05-20T15:33:17.664905+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "e1605710f2e5d71ec550535e8d5ee696",
-    "fetched_at": "2026-05-19T13:41:22.496225+00:00"
-  },
-  {
-    "title": "Counselling Schedule (Tentative) JAC-2026 (Updated on 19-05-2026)",
-    "url": "https://jacchd.admissions.nic.in/document/counselling-schedule-tentative-jac-2026/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "472d45561d1a3dfbf6d978cb575b8ac6",
-    "fetched_at": "2026-05-19T06:16:20.393392+00:00"
-  },
-  {
-    "title": "Date Extension for Answer Key Challenge",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "65f27dc19b241d06584b98da744fcfd3",
-    "fetched_at": "2026-05-18T12:40:25.236062+00:00"
   }
 ]
