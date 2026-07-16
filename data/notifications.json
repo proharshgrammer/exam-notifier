@@ -1,5 +1,27 @@
 [
   {
+    "title": "IIITD Round 4 Cut Off 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607161964653245.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "246712f9563c35b8e5387fda101e67dc",
+    "fetched_at": "2026-07-16T05:48:59.651747+00:00"
+  },
+  {
+    "title": "Beware of Fake E-mails, Calls, Touts and Agents",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260716328592684.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "ef4de5a3e21665c70556b97fb12a8f6d",
+    "fetched_at": "2026-07-16T05:47:57.560784+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260715203759.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "7ee4c1b4d188544920ba2927ceae8679",
     "fetched_at": "2026-05-16T09:58:05.168093+00:00"
-  },
-  {
-    "title": "Conduct of Re-examination for National Eligibility-cum-Entrance Test [NEET (UG)] 2026 – Reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "d178070b734cf98d48167b99dac8295a",
-    "fetched_at": "2026-05-15T15:37:20.064933+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260515181731.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "c649e7ad035c50e9b4eb95972a92088e",
-    "fetched_at": "2026-05-15T13:14:07.950399+00:00"
   }
 ]
