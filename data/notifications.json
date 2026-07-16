@@ -1,5 +1,27 @@
 [
   {
+    "title": "Extended Schedule for Choice Filling B.Tech, LLB (5Year), BBA & Allied Programmes/ 5 Year BBA MBA (Integrated) for the Session 2026-27_dated-16.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161469594490.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a2709dfc30fd1d3d653b618d71090d55",
+    "fetched_at": "2026-07-16T08:24:33.841266+00:00"
+  },
+  {
+    "title": "Schedule of 2nd Offline Counselling MA (Economics) (Code-162) A.S: 2026-27_dated-16.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716633506132.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "08f59e9e9f4dc8f84b6c7e3f8d734fae",
+    "fetched_at": "2026-07-16T08:24:31.660729+00:00"
+  },
+  {
     "title": "IIITD Round 4 Cut Off 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607161964653245.pdf",
     "exam": "JAC Delhi",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "03c283ad3889f2ff88f578aef8fba17b",
     "fetched_at": "2026-05-16T11:12:53.858237+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260516152301.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "39d910a2a042a89da50d3f7d19def033",
-    "fetched_at": "2026-05-16T09:58:06.885413+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260516152513.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "7ee4c1b4d188544920ba2927ceae8679",
-    "fetched_at": "2026-05-16T09:58:05.168093+00:00"
   }
 ]
