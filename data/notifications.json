@@ -1,5 +1,38 @@
 [
   {
+    "title": "Declaration Of Result of Round 01 for the Programme MCA (NIMCET/CET) (Code-105) A.S: 2026-27_dated-17.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607171654634562.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7b54047123734490fd665b10e35cabec",
+    "fetched_at": "2026-07-17T11:11:25.718601+00:00"
+  },
+  {
+    "title": "Tentative Merit/Rank List for B.Arch Programme (Code 100) A.S: 2026-27_dated-17.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717998335412.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "185025716591d56dafe1c0defdf25879",
+    "fetched_at": "2026-07-17T11:11:24.316280+00:00"
+  },
+  {
+    "title": "Date Sheet – Open and Distance Learning (ODL) Examinations (July–August 2026)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Updated Date Sheet ODL July-August 2026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "aa964e3496267f540d71518bddd7c9ba",
+    "fetched_at": "2026-07-17T11:11:04.865371+00:00"
+  },
+  {
     "title": "Schedule of 2nd Offline Counselling BA (Liberal Arts) (Code-451) A.S: 2026-27_dated-17.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717112542273.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "fcc3a0583b89a046792df14e89aa90e2",
     "fetched_at": "2026-05-24T12:42:04.389415+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260523100239.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "66ed5e0149559c31b781a67810907950",
-    "fetched_at": "2026-05-23T05:05:45.547760+00:00"
-  },
-  {
-    "title": "Public Notice dated 12.05.2026 regarding refund of examination fee for NEET (UG)-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605222022919758.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "3678da35ae855d2429109435ce805537",
-    "fetched_at": "2026-05-22T17:56:55.323450+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222328.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "a601d3f994bf23cce04df043141b00a3",
-    "fetched_at": "2026-05-22T17:56:51.167865+00:00"
   }
 ]
