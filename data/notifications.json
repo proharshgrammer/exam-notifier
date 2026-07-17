@@ -1,5 +1,38 @@
 [
   {
+    "title": "Schedule of 2nd Offline Counselling BA (Liberal Arts) (Code-451) A.S: 2026-27_dated-17.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717112542273.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0a891f4d23c176445c43804b0972a3f7",
+    "fetched_at": "2026-07-17T09:31:18.000780+00:00"
+  },
+  {
+    "title": "Tentative Vacancy for Round 2 Counselling",
+    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-round-2-counselling-2/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "36620f027277a471b5aa53efa82d1921",
+    "fetched_at": "2026-07-17T09:31:02.562722+00:00"
+  },
+  {
+    "title": "Dates for B.Tech & M.Tech (Integrated) Enrollment & Inauguration 2026-2027",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-btech-and-mtech-integrated-enrollment-and-inauguration-2026-2027.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "cc0880f40937c22ee535c6cef0824a52",
+    "fetched_at": "2026-07-17T09:30:53.493059+00:00"
+  },
+  {
     "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716797381880.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "a601d3f994bf23cce04df043141b00a3",
     "fetched_at": "2026-05-22T17:56:51.167865+00:00"
-  },
-  {
-    "title": "Read More",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222657.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "6bf44b14f33492150322e103657ff5e9",
-    "fetched_at": "2026-05-22T17:56:49.248723+00:00"
-  },
-  {
-    "title": "Guidelines and Counselling Process",
-    "url": "https://jacchd.admissions.nic.in/document/business-rules-2/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "a41bf90e89fc98d6143d264d59807802",
-    "fetched_at": "2026-05-21T11:50:59.961131+00:00"
-  },
-  {
-    "title": "PU Institutes Admission Details",
-    "url": "https://jacchd.admissions.nic.in/document/pu-institutes-admission-details/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "8416b0ba2f16e7ecfb7d6dde151d3973",
-    "fetched_at": "2026-05-21T11:50:57.881064+00:00"
   }
 ]
