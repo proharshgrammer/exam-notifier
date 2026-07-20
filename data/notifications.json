@@ -1,5 +1,27 @@
 [
   {
+    "title": "Claims regarding OMR answer sheets of NEET (UG) 2026 being circulated on social media.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260720623209264.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "f933cc15eb115df6f6e2a4b2cc92a427",
+    "fetched_at": "2026-07-20T08:24:50.615690+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260720132441.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "d4627179e31fb118c599daf26d1b7262",
+    "fetched_at": "2026-07-20T08:24:45.506780+00:00"
+  },
+  {
     "title": "Notice on Fake, Altered, or AI-Generated NEET (UG) 2026 Documents",
     "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607201141028453.pdf",
     "exam": "NEET UG",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "d8eaf422033a60b0bb11c439d19a4fa7",
     "fetched_at": "2026-05-24T17:07:55.432139+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "bbefd0d9b86629a057d74c0cb0c8edf5",
-    "fetched_at": "2026-05-24T17:07:54.499688+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "7a839899ec519547d3e05aa0f72e3339",
-    "fetched_at": "2026-05-24T17:07:53.513613+00:00"
   }
 ]
