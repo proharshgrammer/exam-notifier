@@ -1,5 +1,27 @@
 [
   {
+    "title": "Notice on Fake, Altered, or AI-Generated NEET (UG) 2026 Documents",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607201141028453.pdf",
+    "exam": "NEET UG",
+    "exam_id": "neet_ug",
+    "category": "Medical Entrance",
+    "source_label": "NTA NEET Website",
+    "source_url": "https://neet.nta.nic.in/",
+    "id": "be8d3577d0b1abf4fff26fdce7757778",
+    "fetched_at": "2026-07-20T05:07:20.040361+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260720093135.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "7d782065a0af735afdab10130001983a",
+    "fetched_at": "2026-07-20T05:07:14.900200+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260718195817.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "7a839899ec519547d3e05aa0f72e3339",
     "fetched_at": "2026-05-24T17:07:53.513613+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222328.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "f58612af9a8a61ae3c56e2279ae682f8",
-    "fetched_at": "2026-05-24T17:07:47.031312+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260522222657.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "15af8b2807aeab05424c980e0afe55bb",
-    "fetched_at": "2026-05-24T17:07:46.079170+00:00"
   }
 ]
