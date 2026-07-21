@@ -1,5 +1,38 @@
 [
   {
+    "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN UNDER GRADUATE COURSES A.S.2026-27_dated-21.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607212086262139.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9df120beb0259b8c2d348ec759fdd128",
+    "fetched_at": "2026-07-21T11:28:19.343130+00:00"
+  },
+  {
+    "title": "WARNING AGAINST UPLOADING OF AI GENERATED CERTIFICATES ACADEMIC SESSION 2026-27_dated-21.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260721781089944.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "145a47fb0a4122b17cb5fb7c1e608ef7",
+    "fetched_at": "2026-07-21T11:28:17.925556+00:00"
+  },
+  {
+    "title": "REGARDING VALIDITY OF SUBMITTED DOCUMENTS VIZ-A-VIZ MARKSHEET(S)/CATEGORY CERTIFICATES SUCH AS SC/ST/OBC/DEFENCE/EWS/PWD ETC. A.S: 2026-27_dated-21.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607211721439468.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "09ff33208549f9f5b52f511751157342",
+    "fetched_at": "2026-07-21T11:28:15.498779+00:00"
+  },
+  {
     "title": "Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account). Regarding the deposition of the security amount by Institutes to the HSTES",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Public notice B.Pharmacy 21-07-2026.pdf",
     "exam": "HSTES",
@@ -5465,38 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "3cd3f10747007e7ecbe8499d113b7beb",
     "fetched_at": "2026-05-24T17:10:50.985097+00:00"
-  },
-  {
-    "title": "Admission Process",
-    "url": "https://vit.ac.in/sites/default/files/VITEEE-2026/Biology_VITEEE2026.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "da1f850c68b9c58ef29b4bbda44a3733",
-    "fetched_at": "2026-05-24T17:10:33.759591+00:00"
-  },
-  {
-    "title": "Admission Process",
-    "url": "https://vit.ac.in/sites/default/files/VITEEE-2026/Physics_VITEEE2026.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "d4d1c97cd4e0548c796fa7c61f2eccbc",
-    "fetched_at": "2026-05-24T17:10:32.827516+00:00"
-  },
-  {
-    "title": "VITEEE 2026",
-    "url": "https://vit.ac.in/files/prospectus/Awarness-Circular.pdf",
-    "exam": "VITEEE (VIT)",
-    "exam_id": "viteee",
-    "category": "Private University Entrance",
-    "source_label": "VIT University Official",
-    "source_url": "https://viteee.vit.ac.in/",
-    "id": "780110de9c4b24c81b41db27eb38fd90",
-    "fetched_at": "2026-05-24T17:10:31.912876+00:00"
   }
 ]
