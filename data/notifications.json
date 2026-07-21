@@ -1,5 +1,16 @@
 [
   {
+    "title": "विद्यार्थी सहाय्यता केंद्रांची यादी",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/06/List-of-operative-centres-21072026.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "2d160a7e8e85a3ddc889b36fe43dfef0",
+    "fetched_at": "2026-07-21T15:06:25.538560+00:00"
+  },
+  {
     "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN UNDER GRADUATE COURSES A.S.2026-27_dated-21.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607212086262139.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
     "id": "5d4e4277e5989c75e89b64e40627fc69",
     "fetched_at": "2026-05-24T17:10:54.108729+00:00"
-  },
-  {
-    "title": "LATEST NEWS",
-    "url": "https://csab.nic.in/notices/",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "3cd3f10747007e7ecbe8499d113b7beb",
-    "fetched_at": "2026-05-24T17:10:50.985097+00:00"
   }
 ]
