@@ -1,5 +1,27 @@
 [
   {
+    "title": "Notice: Instructions Regarding Availing of Mess Facilities in Designated Hostels",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Provost-113.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "ad8005f9d9f89f7bfbe3f38bc0d40cde",
+    "fetched_at": "2026-07-21T06:15:46.945234+00:00"
+  },
+  {
+    "title": "Public Notice for PAF",
+    "url": "https://josaa.nic.in/document/important-notice/",
+    "exam": "JoSAA",
+    "exam_id": "josaa",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://josaa.nic.in/",
+    "id": "59dd23d43fabf4d6377ab640c9a591d4",
+    "fetched_at": "2026-07-21T06:15:25.462181+00:00"
+  },
+  {
     "title": "SCHEDULE FOR VERIFICATION BA B.ED. (CODE-161 DOCUMENT FOR PREPARATION OF MERIT FOR ADMISSION SESSION 2026-27_dated-20.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201268193523.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://cets.apsche.ap.gov.in/",
     "id": "65b3a86302e3b5b2205b696f6ca3925d",
     "fetched_at": "2026-05-24T17:10:19.321419+00:00"
-  },
-  {
-    "title": "AP EAPCET - 2025",
-    "url": "https://eapcet-sche.aptonline.in/EAPCETAGR/ ",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "f338b1b27b01421cbbf0485b27454b5c",
-    "fetched_at": "2026-05-24T17:10:18.388995+00:00"
-  },
-  {
-    "title": "AP PECET - 2025",
-    "url": "https://pecet-sche.aptonline.in/PECET ",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "5198e3836f867fd5e0fb2f007e134902",
-    "fetched_at": "2026-05-24T17:10:17.392028+00:00"
   }
 ]
