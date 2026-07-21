@@ -1,5 +1,38 @@
 [
   {
+    "title": "Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account). Regarding the deposition of the security amount by Institutes to the HSTES",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Public notice B.Pharmacy 21-07-2026.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "2495d3a87dfa0ccc26710eb00ab111c3",
+    "fetched_at": "2026-07-21T09:15:04.113730+00:00"
+  },
+  {
+    "title": "Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026 ) ROUND 02 Choice Filling A.S: 2026-27_Dated-21.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607211621352296.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b78cc6d6e364ab1b0b06e7748720ef64",
+    "fetched_at": "2026-07-21T09:14:56.165422+00:00"
+  },
+  {
+    "title": "Vacancies for Spot Round Admissions 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260721179065181.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "1ed3bc7a67ab44868bcbe306857a7ae8",
+    "fetched_at": "2026-07-21T09:14:45.323954+00:00"
+  },
+  {
     "title": "Notice: Instructions Regarding Availing of Mess Facilities in Designated Hostels",
     "url": "https://www.cuh.ac.in/admin/uploads/files/Provost-113.pdf",
     "exam": "CU Haryana",
@@ -5465,38 +5498,5 @@
     "source_url": "https://viteee.vit.ac.in/",
     "id": "780110de9c4b24c81b41db27eb38fd90",
     "fetched_at": "2026-05-24T17:10:31.912876+00:00"
-  },
-  {
-    "title": "AP LAWCET- 2025",
-    "url": "https://lawcet-sche.aptonline.in/LAWCET ",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "add4be30b91ae62d64666e3414731d01",
-    "fetched_at": "2026-05-24T17:10:21.151565+00:00"
-  },
-  {
-    "title": "AP PGCET - 2025",
-    "url": "https://pgcet-sche.aptonline.in/APPGCET/ ",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "e8c7c7e5cb0932e02f42d7b2a2a33350",
-    "fetched_at": "2026-05-24T17:10:20.256007+00:00"
-  },
-  {
-    "title": "AP EdCET -2025",
-    "url": "https://edcet-sche.aptonline.in ",
-    "exam": "AP EAMCET",
-    "exam_id": "ap_eamcet",
-    "category": "State Engineering – Andhra Pradesh",
-    "source_label": "APSCHE Official",
-    "source_url": "https://cets.apsche.ap.gov.in/",
-    "id": "65b3a86302e3b5b2205b696f6ca3925d",
-    "fetched_at": "2026-05-24T17:10:19.321419+00:00"
   }
 ]
