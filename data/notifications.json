@@ -1,5 +1,60 @@
 [
   {
+    "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221674368846.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b8f1a46a940db9df410559661bbba67a",
+    "fetched_at": "2026-07-22T10:04:58.630154+00:00"
+  },
+  {
+    "title": "Preponement of Schedule Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026) ROUND 2 Choice Filling A.S: 2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221516002588.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d4abab6d4cb8b515939871db582437af",
+    "fetched_at": "2026-07-22T10:04:57.181689+00:00"
+  },
+  {
+    "title": "Schedule Of 1st Offline Counselling B.Arch (Code-100) Display of Final Rank/ Merit list of Candidate Admission Session 2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221955613706.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1a71a419b0aca0b601116cc9f5949657",
+    "fetched_at": "2026-07-22T10:04:55.586795+00:00"
+  },
+  {
+    "title": "Tentative Vacancy for Round 3 Counselling",
+    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-round-3-counselling-2/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "64edfa19e623cb30fb67637f1006429d",
+    "fetched_at": "2026-07-22T10:04:33.190488+00:00"
+  },
+  {
+    "title": "MCC_NRI NOTICE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607222018283248.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "4be5d2faae690b3cd33b3934f476e3c4",
+    "fetched_at": "2026-07-22T10:04:20.742945+00:00"
+  },
+  {
     "title": "Spot Round Counselling Schedule 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607221251392055.pdf",
     "exam": "JAC Delhi",
@@ -5443,60 +5498,5 @@
     "source_url": "https://www.srmist.edu.in/admission/",
     "id": "fa0f53f24d488f0581710f8807837f1f",
     "fetched_at": "2026-05-24T17:11:10.590796+00:00"
-  },
-  {
-    "title": "CUET PG 2026 Paper Mappings for UPTAC 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2025/12/202512151756932345.pdf",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "de7536b1fba94dab30dee914419384e3",
-    "fetched_at": "2026-05-24T17:10:59.805238+00:00"
-  },
-  {
-    "title": "CUET UG 2026 Paper Mappings for UPTAC 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2025/12/202512281648977632.pdf",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "7b7a9ef0a7e4a1e87e795f3eb4fe9f06",
-    "fetched_at": "2026-05-24T17:10:58.925029+00:00"
-  },
-  {
-    "title": "Admission Notification for Academic Session 2026-27",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/79412368f0ef6d39fbc51e97def2a84d87cd2d69abdc1cb063fb25cdd582736c17791701731_admission_docs.pdf/1",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "ccecf19ef9c803aefaf1d66b9d287af2",
-    "fetched_at": "2026-05-24T17:10:58.047315+00:00"
-  },
-  {
-    "title": "APPENDIX - B Information Brochure 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/24586d02a6e76b291861a0ebb2b37dcfe2d8d870de6ddfe3592e0515ef98308817791700791_admission_docs.pdf/1",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "c1c8e8fb74b65377d9f335061c389602",
-    "fetched_at": "2026-05-24T17:10:56.880308+00:00"
-  },
-  {
-    "title": "Certificate Formats UPTAC 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/ac5fbf0dff0b2a9866addd463385aefea8d55aad78b91dffa4c8a6b9e7cf35a617791699761_admission_docs.pdf/1",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "88e24710f57740c379a6c55773a1484a",
-    "fetched_at": "2026-05-24T17:10:55.966265+00:00"
   }
 ]
