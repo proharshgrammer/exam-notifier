@@ -1,5 +1,16 @@
 [
   {
+    "title": "EXTENSION LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260722155224409.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9793adb3ede00b817b247a52eeaaa08a",
+    "fetched_at": "2026-07-22T14:21:12.681511+00:00"
+  },
+  {
     "title": "EXTENSION OF LAST DATE OF M.Pharm (Code-189) D.Pharm (Code-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072276444880.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.mmmut.ac.in/",
     "id": "68253b2d6f883904098acf63bc94bcd7",
     "fetched_at": "2026-05-24T17:11:40.427382+00:00"
-  },
-  {
-    "title": "Online Learning, UGC",
-    "url": "https://www.mmmut.ac.in/News_content/33202news_07092025095432.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "93dd54799cfc77bd4525d7046685be90",
-    "fetched_at": "2026-05-24T17:11:38.123499+00:00"
   }
 ]
