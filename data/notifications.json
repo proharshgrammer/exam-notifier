@@ -1,5 +1,49 @@
 [
   {
+    "title": "EXTENSION OF LAST DATE OF M.Pharm (Code-189) D.Pharm (Code-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072276444880.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e74a8ee2c66ff2fc8e26c1a2f7e128f2",
+    "fetched_at": "2026-07-22T12:03:11.072884+00:00"
+  },
+  {
+    "title": "LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260722155224409.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e0f38c5792e5f29ebd072948ba9eed1d",
+    "fetched_at": "2026-07-22T12:03:09.387221+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260722163036.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "8843809bb30ab6179f2d66f4e8024585",
+    "fetched_at": "2026-07-22T11:58:41.083426+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260722163054.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b0aa814e13e495bf1dfc2c8b691fa56b",
+    "fetched_at": "2026-07-22T11:58:38.482425+00:00"
+  },
+  {
     "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221674368846.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://www.mmmut.ac.in/",
     "id": "93dd54799cfc77bd4525d7046685be90",
     "fetched_at": "2026-05-24T17:11:38.123499+00:00"
-  },
-  {
-    "title": "Guidelines of B.Tech. Programme 2026-27",
-    "url": "https://hbtu.admissions.nic.in/document/guidelines-of-b-tech-programme-2026-27/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "5c5d86fe64e9c0d1bd5088d3fd987ea5",
-    "fetched_at": "2026-05-24T17:11:27.399430+00:00"
-  },
-  {
-    "title": "Guidelines of BS-MS Programme 2026-27",
-    "url": "https://hbtu.admissions.nic.in/document/guidelines-of-bs-ms-programme-2026-27/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "becef0851605921f11edb44ae848bb84",
-    "fetched_at": "2026-05-24T17:11:26.430691+00:00"
-  },
-  {
-    "title": "Admissions 2026-27",
-    "url": "https://cuh.ac.in/admin/uploads/files/NAAC%20Certificate%20CUH%202nd%20Cycle.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "1e083a4261f55d62c16e6787b46fd22b",
-    "fetched_at": "2026-05-24T17:11:14.311564+00:00"
-  },
-  {
-    "title": "Call for Proposals",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2022/patents-research.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "fa0f53f24d488f0581710f8807837f1f",
-    "fetched_at": "2026-05-24T17:11:10.590796+00:00"
   }
 ]
