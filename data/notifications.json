@@ -1,5 +1,27 @@
 [
   {
+    "title": "Spot Round Counselling Schedule 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607221251392055.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "9592dc30d93be3ea0f427ab5a9d1e6ad",
+    "fetched_at": "2026-07-22T07:16:56.812079+00:00"
+  },
+  {
+    "title": "Notice for Newly Admitted Students for Physical Reporting",
+    "url": "https://jacchd.admissions.nic.in/document/notice-for-newly-admitted-students-for-physical-reporting-3/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "4eba40a46d98cd2ae2cb6f17c5518744",
+    "fetched_at": "2026-07-22T07:16:48.741111+00:00"
+  },
+  {
     "title": "विद्यार्थी सहाय्यता केंद्रांची यादी",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/06/List-of-operative-centres-21072026.pdf",
     "exam": "MHT-CET",
@@ -5476,27 +5498,5 @@
     "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
     "id": "88e24710f57740c379a6c55773a1484a",
     "fetched_at": "2026-05-24T17:10:55.966265+00:00"
-  },
-  {
-    "title": "Information Brochure 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/f07c19d93b32d0c74a7ca85f5a5ca2bb21cc878fa0a98bff1d646072ac7df05b17791698601_admission_docs.pdf/1",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "04d8f0bba08b3670a38dd673e6cb1ca8",
-    "fetched_at": "2026-05-24T17:10:55.002646+00:00"
-  },
-  {
-    "title": "UPTAC - 2026 Tentative Schedule for B Tech Admissions",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/5c64ad022d2e159dc15fc4f66a868687c3ed74bec0d5d657ba533c5d95a92f0617795450666_admission_docs.pdf/6",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "5d4e4277e5989c75e89b64e40627fc69",
-    "fetched_at": "2026-05-24T17:10:54.108729+00:00"
   }
 ]
