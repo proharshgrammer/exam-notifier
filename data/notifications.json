@@ -1,5 +1,27 @@
 [
   {
+    "title": "UIET Hoshiarpur Physical Reporting Schedule (After Third Round)",
+    "url": "https://jacchd.admissions.nic.in/document/uiet-hoshiarpur-physical-reporting-schedule-after-third-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "85e4fb100171bc25bc2e413616e22c4e",
+    "fetched_at": "2026-07-23T13:06:51.267568+00:00"
+  },
+  {
+    "title": "CCA Physical Reporting Schedule (After Third Round)",
+    "url": "https://jacchd.admissions.nic.in/document/cca-physical-reporting-schedule-after-third-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "841b404c309b4425f467d08501fbb88a",
+    "fetched_at": "2026-07-23T13:06:49.084524+00:00"
+  },
+  {
     "title": "Schedule of 2nd Offline Counselling MA(MC) (CODE-106) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231676103298.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "be9f73e23971d80faedb7aebe31f816f",
     "fetched_at": "2026-05-24T17:11:53.800528+00:00"
-  },
-  {
-    "title": "NOTICE REGARDING CHANGE IN NOMENCLATURE IN CERTAIN PARAMEDICAL COURSES IN ACCORDANCE WITH REHABILITATION COUNCIL OF INDIA DURING THE A.S.2026-27_dated-18.05.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/20260518378163034.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "a86c90baff1439e53be0e5279c78043f",
-    "fetched_at": "2026-05-24T17:11:52.854456+00:00"
-  },
-  {
-    "title": "WITHDRAWAL OF SUBMISSION OF ONLINE APPLICATION FORMS FOR THE PROGRAMME M.Sc. SPEECH LANGUAGE PATHOLOGY (M.Sc. SLP) (CODE 168)_dated-19.05.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/20260519443202794.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "be7fe734eb29a4b27ae4db3fcca36550",
-    "fetched_at": "2026-05-24T17:11:51.891822+00:00"
   }
 ]
