@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260723190146.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "995603831a1fbfd0c6f04182a007dc25",
+    "fetched_at": "2026-07-23T15:32:07.632042+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260723191910.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "4bd8a6d69e87813e3b154fdc6c797679",
+    "fetched_at": "2026-07-23T15:32:05.698078+00:00"
+  },
+  {
     "title": "UIET Hoshiarpur Physical Reporting Schedule (After Third Round)",
     "url": "https://jacchd.admissions.nic.in/document/uiet-hoshiarpur-physical-reporting-schedule-after-third-round/",
     "exam": "JAC CHD",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "1005c0c4f06098f62a67420ced654216",
     "fetched_at": "2026-05-24T17:11:55.596975+00:00"
-  },
-  {
-    "title": "Regarding Extension of Last Date for Submission of Online Application Form for the National Level Test/Merit Based Admission for the A.S. 2026-27_dated_15.05.2026_",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/202605151653011200.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "187889b3925bdfe64bb5c489cd7b75b8",
-    "fetched_at": "2026-05-24T17:11:54.702793+00:00"
-  },
-  {
-    "title": "Request to alert the students regarding verification of Higher Educational Institutions (HEIs) to avoid admission in the Fake Universities-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/202605151991311669.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "be9f73e23971d80faedb7aebe31f816f",
-    "fetched_at": "2026-05-24T17:11:53.800528+00:00"
   }
 ]
