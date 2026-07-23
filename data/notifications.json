@@ -1,5 +1,38 @@
 [
   {
+    "title": "Schedule of 2nd Offline Counselling MA(MC) (CODE-106) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231676103298.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d2849f39ef765d1239af73ddaee19479",
+    "fetched_at": "2026-07-23T11:29:47.444952+00:00"
+  },
+  {
+    "title": "Dr SSB UICET Chd Physical Reporting Schedule (After Third Round)",
+    "url": "https://jacchd.admissions.nic.in/document/dr-ssb-uicet-chd-physical-reporting-schedule-after-third-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "e44865c356a84641fb1b73a6e6985f3f",
+    "fetched_at": "2026-07-23T11:29:31.496833+00:00"
+  },
+  {
+    "title": "Notification – Standard Operating Procedure (SOP) for Direct Admission to the Second Year (Third Semester) of the Two-Year Postgraduate Programme",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/AC-D-710.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "14e47bac590a132316a7f4f11fdfecb4",
+    "fetched_at": "2026-07-23T11:29:25.711380+00:00"
+  },
+  {
     "title": "KEY POINTS FOR ROUND-3 FOLLOWED BY SLIDING ROUND LLM, BCA, LLB (5 Year), B.ED., BBA/ BBA-MBA INT., BA(JMC)., LE B.TECH., B.COM, BA (ENGLISH) & BA (ECO)",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231223071187.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "be7fe734eb29a4b27ae4db3fcca36550",
     "fetched_at": "2026-05-24T17:11:51.891822+00:00"
-  },
-  {
-    "title": "Degree/Migration",
-    "url": "https://www.mmmut.ac.in/pdf/Final_degree_migration_Rules.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "de2e32d6aa1857a20bc5a63adbed20c3",
-    "fetched_at": "2026-05-24T17:11:47.991789+00:00"
-  },
-  {
-    "title": "Examination Manual",
-    "url": "https://www.mmmut.ac.in/pdf/Examination Manual_MMMUT.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "564dc84f07534c26df63aad7984c5dfa",
-    "fetched_at": "2026-05-24T17:11:47.049227+00:00"
-  },
-  {
-    "title": "Employer Survey",
-    "url": "https://www.mmmut.ac.in/pdf/Employer-Survey.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "2a95326fbd3cf8f314dc6e4a655ebecb",
-    "fetched_at": "2026-05-24T17:11:46.144508+00:00"
   }
 ]
