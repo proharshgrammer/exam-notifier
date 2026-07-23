@@ -1,5 +1,16 @@
 [
   {
+    "title": "REGISTRATION NOTICE FOR 2nd/SPECIAL OJEE 2026 RANK HOLDERS FOR BTECH, Lateral Entry to BTECH, MBA and MCA COURSES IN THE COUNSELLING PROCESS",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607231296228251.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "97810eda08db52456e91995bd6f429a6",
+    "fetched_at": "2026-07-23T06:19:47.470840+00:00"
+  },
+  {
     "title": "EXTENSION LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260722155224409.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.mmmut.ac.in/",
     "id": "f3bb43cae953fb55228a3320acc93a90",
     "fetched_at": "2026-05-24T17:11:41.422662+00:00"
-  },
-  {
-    "title": "PhD Admission Notice for the Session 2026-2027 Odd Sem.",
-    "url": "https://www.mmmut.ac.in/News_content/50545news_04182026064508.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "68253b2d6f883904098acf63bc94bcd7",
-    "fetched_at": "2026-05-24T17:11:40.427382+00:00"
   }
 ]
