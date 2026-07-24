@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notice for All Candidates Who Have Participated in the OJEE Web-Based Counselling",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260724534861962.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "9e53fd32a3535ded5284b33f1f91a3b0",
+    "fetched_at": "2026-07-24T06:32:46.680176+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260723190146.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "dfc720fa824f5da579053d7f1ae2eeda",
     "fetched_at": "2026-05-24T17:11:56.531026+00:00"
-  },
-  {
-    "title": "UG Admission Brochure 2026-2027 New",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/UG.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1005c0c4f06098f62a67420ced654216",
-    "fetched_at": "2026-05-24T17:11:55.596975+00:00"
   }
 ]
