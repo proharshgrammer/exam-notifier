@@ -1,5 +1,60 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210230.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "397f515a9650e4d12efb7627f6b32c78",
+    "fetched_at": "2026-07-25T16:26:21.340317+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210507.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "4e384764117fada340c4431d840bc3c1",
+    "fetched_at": "2026-07-25T16:26:19.902139+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210603.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "9e5c94046edccdfc9dbdfcf0ee795f93",
+    "fetched_at": "2026-07-25T16:26:18.354465+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210637.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "04ae4ffa33742a655288dbe2b3f31366",
+    "fetched_at": "2026-07-25T16:26:16.587305+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210713.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "6b34592a7318fc8698d035dabd39b9d7",
+    "fetched_at": "2026-07-25T16:26:13.634684+00:00"
+  },
+  {
     "title": "NOTIFICATION REGARDING INVITING APPLICATIONS FOR ADMISSION UNDER “SPORTS QUOTA” IN VARIOUS UG/PG PROGRAMMES OFFERED AT UNIVERSITY’S SCHOOLS OF STUDIES AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FO",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607251133167503.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5443,60 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "9f19fd66b3b56ce87bb65a46b33a645f",
     "fetched_at": "2026-05-24T17:12:08.702616+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPHARM.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "2c9658038cc586f671299a8ea75d1e0b",
-    "fetched_at": "2026-05-24T17:12:07.807288+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/UGCM.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "6425a3f7e62c42cd5e4bc18675aa801d",
-    "fetched_at": "2026-05-24T17:12:06.929301+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BCA.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "6015149a53c07af38da6a86064696781",
-    "fetched_at": "2026-05-24T17:12:05.926211+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BE.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "ed0ad05aade9d17802d2c3fe30f95062",
-    "fetched_at": "2026-05-24T17:12:05.018650+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BARCH.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "96c92153029b187fd118b91a459c643c",
-    "fetched_at": "2026-05-24T17:12:04.105117+00:00"
   }
 ]
