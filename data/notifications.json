@@ -1,5 +1,16 @@
 [
   {
+    "title": "Revised Schedule for HBTU UG Counselling 2026",
+    "url": "https://hbtu.admissions.nic.in/document/revised-schedule-for-hbtu-ug-counselling-2026/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "bdf2a6fda87d27344d001058abf36584",
+    "fetched_at": "2026-07-27T08:07:24.170035+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260725210230.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "9ef3a291866e571797757f3e9930c39d",
     "fetched_at": "2026-05-24T17:12:09.621151+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/HMT.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "9f19fd66b3b56ce87bb65a46b33a645f",
-    "fetched_at": "2026-05-24T17:12:08.702616+00:00"
   }
 ]
