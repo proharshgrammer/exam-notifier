@@ -1,5 +1,49 @@
 [
   {
+    "title": "Notice Regarding Special Examination for Re-Appear Students",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Special Exam notification.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "eac2b61203c58ddc42d5eadbbdc260af",
+    "fetched_at": "2026-07-27T11:56:37.307046+00:00"
+  },
+  {
+    "title": "Revised Schedule of 3rd Round and Final Activity of LE-TECH(DIPLOMA)/ LE B.Sc./ Int. MBA and Working Professionals for Engineering Programme web based Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260727470733674.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "c893dfb2e53145fb3e58fe473ac8584b",
+    "fetched_at": "2026-07-27T11:56:29.201806+00:00"
+  },
+  {
+    "title": "Revised Schedule of Round 3 and Final Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607271294717159.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "4e51cb45d6927d0e031ae6ce2a25b316",
+    "fetched_at": "2026-07-27T11:56:27.809747+00:00"
+  },
+  {
+    "title": "Revised Schedule of 3rd Round and Final Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607272096545246.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "4ae5b91e34e6ad92bffd74347d5ab1dc",
+    "fetched_at": "2026-07-27T11:56:25.347340+00:00"
+  },
+  {
     "title": "Revised Schedule for HBTU UG Counselling 2026",
     "url": "https://hbtu.admissions.nic.in/document/revised-schedule-for-hbtu-ug-counselling-2026/",
     "exam": "HBTU Counselling",
@@ -5454,49 +5498,5 @@
     "source_url": "https://hstes.org.in/",
     "id": "947e38757e1be84a7e6b6b66842d13c5",
     "fetched_at": "2026-05-24T17:12:15.908621+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BDESIGN.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "03b0621cdce8bc471b0148871298d5b1",
-    "fetched_at": "2026-05-24T17:12:12.578308+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPLANNING.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "36cc77eef1957fb990a2e1934aa5c625",
-    "fetched_at": "2026-05-24T17:12:11.567896+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBPHARM.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "3d19ae39e598ee97ccc91191fa587409",
-    "fetched_at": "2026-05-24T17:12:10.581866+00:00"
-  },
-  {
-    "title": "नियम पुस्तिका",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBE.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "9ef3a291866e571797757f3e9930c39d",
-    "fetched_at": "2026-05-24T17:12:09.621151+00:00"
   }
 ]
