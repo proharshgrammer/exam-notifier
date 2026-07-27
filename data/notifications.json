@@ -1,5 +1,16 @@
 [
   {
+    "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607271283181656.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0a019438c122a1e80a545b1a9a164c66",
+    "fetched_at": "2026-07-27T17:06:11.485785+00:00"
+  },
+  {
     "title": "Revised Vacancy of Outside Delhi General and Girls category",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260727303387289.pdf",
     "exam": "JAC Delhi",
@@ -5487,16 +5498,5 @@
     "source_url": "https://hstes.org.in/",
     "id": "0a594346446a097e0442438cdc3676a2",
     "fetched_at": "2026-05-24T17:12:21.581940+00:00"
-  },
-  {
-    "title": "B.Pharma/B.Pharma (Lateral Entry) Prospectus",
-    "url": "https://hstes.org.in/Documents\\2026\\Prospectus/BPharma-BPharmaLE-Prospectus-2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "9914ec4ccc76334bddf0d33349e4d98f",
-    "fetched_at": "2026-05-24T17:12:20.692863+00:00"
   }
 ]
