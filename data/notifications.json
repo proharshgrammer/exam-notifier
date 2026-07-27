@@ -1,5 +1,60 @@
 [
   {
+    "title": "Revised Vacancy of Outside Delhi General and Girls category",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260727303387289.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "0ee9848b7c360db4df10e9cd7c0ac32a",
+    "fetched_at": "2026-07-27T14:49:33.462812+00:00"
+  },
+  {
+    "title": "Frequently Asked Questions (FAQs)Round 1 Allotment",
+    "url": "https://www.comedk.org/uploads/FREQUENTLY_ASKED_QUESTIONS_ROUND-1_ALLOTMENT.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "fa1e344be229b623a614e6610369a132",
+    "fetched_at": "2026-07-27T14:49:13.090571+00:00"
+  },
+  {
+    "title": "Click here for Engineering Vacant Seats After Round 1 Allotment",
+    "url": "https://www.comedk.org/uploads/Engineering_Vacant_Seats_After_Round-1_Allotment. Notified_on_27.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "66bb6c130450a78612241899a94d6369",
+    "fetched_at": "2026-07-27T14:49:11.819147+00:00"
+  },
+  {
+    "title": "Click here for Engineering Round 1 Cut-off Ranks",
+    "url": "https://comedk.org/uploads/Engineering_Round-1_Cutoff_Ranks. Notified_on_27.07.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "addfb59f54182563b18e25cf0fb4399a",
+    "fetched_at": "2026-07-27T14:49:10.067382+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260727182748.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "1ce1f17e9ddccbf631462f42b3f6f489",
+    "fetched_at": "2026-07-27T14:44:36.239860+00:00"
+  },
+  {
     "title": "Notice Regarding Special Examination for Re-Appear Students",
     "url": "https://www.cuh.ac.in/admin/uploads/files/Special Exam notification.pdf",
     "exam": "CU Haryana",
@@ -5443,60 +5498,5 @@
     "source_url": "https://hstes.org.in/",
     "id": "9914ec4ccc76334bddf0d33349e4d98f",
     "fetched_at": "2026-05-24T17:12:20.692863+00:00"
-  },
-  {
-    "title": "B.E/B.Tech/B.Arch Prospectus",
-    "url": "https://hstes.org.in/Documents\\2026\\Prospectus/BE-BTech-BArch-Prospectus-2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "91f8e84b67479dce586ab213c2e7f880",
-    "fetched_at": "2026-05-24T17:12:19.778427+00:00"
-  },
-  {
-    "title": "Diploma Prospectus",
-    "url": "https://hstes.org.in/Documents\\2026\\Prospectus/Diploma-Prospectus-2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "cc0afe5fa95b9c2823a5159e114ae17d",
-    "fetched_at": "2026-05-24T17:12:18.881805+00:00"
-  },
-  {
-    "title": "List of Participating Institutes in B.Pharmacy",
-    "url": "https://hstes.org.in/Documents/2026/Prospectus/BPharma-BPharmaLE-Prospectus-2026.pdf#page=92",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "b1b8d946c2208d0a0c2dcb5b60ab9631",
-    "fetched_at": "2026-05-24T17:12:17.932204+00:00"
-  },
-  {
-    "title": "List of Participating Institutes in B.Tech",
-    "url": "https://hstes.org.in/Documents/2026/Prospectus/BE-BTech-BArch-Prospectus-2026.pdf#page=109",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "ef75b739b442220bca4c53eeeceeb86b",
-    "fetched_at": "2026-05-24T17:12:17.026295+00:00"
-  },
-  {
-    "title": "List of Participating Institutes",
-    "url": "https://hstes.org.in/Documents/2026/Prospectus/Diploma-Prospectus-2026.pdf#page=57",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "947e38757e1be84a7e6b6b66842d13c5",
-    "fetched_at": "2026-05-24T17:12:15.908621+00:00"
   }
 ]
