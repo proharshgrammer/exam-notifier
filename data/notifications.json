@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extension Schedule of WBJEE-2026 Counselling",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/20260728877148334.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "f93002e6ec4d2f48b57c3ea4fe6bc6dc",
+    "fetched_at": "2026-07-28T16:59:49.851516+00:00"
+  },
+  {
     "title": "Notice regarding extension of date of 3rd Round Counselling of WBJEE-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607286463432.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "2c406325090dba83df14d0f64a9c7854",
     "fetched_at": "2026-05-24T18:40:05.887332+00:00"
-  },
-  {
-    "title": "Availability of Scorecard for Common University Entrance Test for Postgraduation programmes (CUET (PG)) 2026 Examination On Digi locker.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/04/202604291876235601.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "ee870995e9db78050f70506fa06d1789",
-    "fetched_at": "2026-05-24T18:40:04.437687+00:00"
   }
 ]
