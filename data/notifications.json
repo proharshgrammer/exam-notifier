@@ -1,5 +1,27 @@
 [
   {
+    "title": "INSTRUCTIONS REGARDING DOCUMENTS TO BE SUBMITTED AT THE TIME OF PHYSICAL REPORTING IN THE ALLOTTED COLLEGE (WHERE SEAT IN THE VARIOUS PROGRAMMES HAVE BEEN ALLOTTED THROUGH ONLINE COUNSELLING",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728206405047.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "5b532d99adc1335d2d7110c874121b54",
+    "fetched_at": "2026-07-28T12:26:07.618761+00:00"
+  },
+  {
+    "title": "Revised Vacancies of Outside Delhi General and Girl Category for 29.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260728689113567.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "6e35695c0edad356c88904998a5387fa",
+    "fetched_at": "2026-07-28T12:25:57.149390+00:00"
+  },
+  {
     "title": "NOTICE REGARDING SANCTIONED INTAKE OF PARAMEDICAL MASTER IN CLINICAL PSYCHOLOGY (PROGRAMME CODE 166) MANAGEMENT QUOTA SEATS FOR THE ACADEMIC SESSION 2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728234575737.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "aa2a48326b4d26f1dabc2cd7bd2c7c1a",
     "fetched_at": "2026-05-24T18:40:02.946660+00:00"
-  },
-  {
-    "title": "Information Bulletin",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2025/12/202512161583029269.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "06628d1e1601fde3b65ed55fe17c1538",
-    "fetched_at": "2026-05-24T18:39:59.603909+00:00"
-  },
-  {
-    "title": "Diploma Prospectus 2026-27",
-    "url": "https://hstes.org.in/Documents/2026/Prospectus/Diploma-Prospectus-2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "4605f5ec15ef3cb253a23010b74123cf",
-    "fetched_at": "2026-05-24T17:12:24.354883+00:00"
   }
 ]
