@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notice regarding extension of date of 3rd Round Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607286463432.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "145c3259c0b93143c8895c096fb4b453",
+    "fetched_at": "2026-07-28T15:00:38.777089+00:00"
+  },
+  {
     "title": "INSTRUCTIONS REGARDING DOCUMENTS TO BE SUBMITTED AT THE TIME OF PHYSICAL REPORTING IN THE ALLOTTED COLLEGE (WHERE SEAT IN THE VARIOUS PROGRAMMES HAVE BEEN ALLOTTED THROUGH ONLINE COUNSELLING",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728206405047.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "ee870995e9db78050f70506fa06d1789",
     "fetched_at": "2026-05-24T18:40:04.437687+00:00"
-  },
-  {
-    "title": "Home About Us ▾ About NTA About NIC Information ▾ Information Bulletin Syllabus Universities Final Answer Keys FAQ Contact Us ▾ Help Desk Payment Related",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2025/12/202512241753395117.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "aa2a48326b4d26f1dabc2cd7bd2c7c1a",
-    "fetched_at": "2026-05-24T18:40:02.946660+00:00"
   }
 ]
