@@ -1,5 +1,16 @@
 [
   {
+    "title": "NSUT Schedule of Activities for Newly Admitted Candidates",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607281769214598.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "10ff4fad57af879e93b5f6059708ae07",
+    "fetched_at": "2026-07-28T07:19:49.048835+00:00"
+  },
+  {
     "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607271283181656.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://hstes.org.in/",
     "id": "5b5484f2ba9ff99dc7a7dd39e0be5010",
     "fetched_at": "2026-05-24T17:12:22.521426+00:00"
-  },
-  {
-    "title": "B.Tech (Lateral Entry) Prospectus",
-    "url": "https://hstes.org.in/Documents\\2026\\Prospectus/BTechLE-Prospectus-2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "0a594346446a097e0442438cdc3676a2",
-    "fetched_at": "2026-05-24T17:12:21.581940+00:00"
   }
 ]
