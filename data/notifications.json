@@ -1,5 +1,27 @@
 [
   {
+    "title": "Schedule for Verification of Documents for Preparation of Revised Rank/ Merit List for 2nd Round of Offline Counselling for B.Arch (Code-100) A.S: 2026-27_dated-29.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607292138800537.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "57ecbdd07fa1f563be189ec8813e7436",
+    "fetched_at": "2026-07-29T12:34:38.333246+00:00"
+  },
+  {
+    "title": "Revised Vacancy for Delhi General and Girl Category for 30.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607291940215335.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "e84042a736ba3887df5aa6443d83b41c",
+    "fetched_at": "2026-07-29T12:34:26.146037+00:00"
+  },
+  {
     "title": "Round 3 Fresh Registration MBA (CAT 2025/ CMAT 2026) Choice Filling followed by SLIDING ROUND for A.S: 2026-27_dated-29.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260729472976370.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "28fe51aa85d6d8e4fc6ccb6444396ae7",
     "fetched_at": "2026-05-24T18:40:18.769735+00:00"
-  },
-  {
-    "title": "Display of provisional answer key(s) and question paper with recorded responses for inviting challenges to the provisional answer key(s) of CUET (PG) 2026 Examination.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/04/20260411324530399.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "73e0f9ea9047f8c2299b5c286a1873ed",
-    "fetched_at": "2026-05-24T18:40:17.248583+00:00"
-  },
-  {
-    "title": "Advisory on provisional answer key(s) and challenges process for CUET (PG) 2026 Examination – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/04/20260413645031166.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "1b2d26d54eb48d944c394488616eff64",
-    "fetched_at": "2026-05-24T18:40:15.810849+00:00"
   }
 ]
