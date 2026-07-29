@@ -1,5 +1,16 @@
 [
   {
+    "title": "Round 3 Fresh Registration MBA (CAT 2025/ CMAT 2026) Choice Filling followed by SLIDING ROUND for A.S: 2026-27_dated-29.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260729472976370.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9a104e627d97efc298738db319e53240",
+    "fetched_at": "2026-07-29T10:13:59.337821+00:00"
+  },
+  {
     "title": "Extension Schedule of WBJEE-2026 Counselling",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/20260728877148334.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "1b2d26d54eb48d944c394488616eff64",
     "fetched_at": "2026-05-24T18:40:15.810849+00:00"
-  },
-  {
-    "title": "Declaration of result for Common University Entrance Test for Postgraduate Programmes (CUET (PG))-2026 Examination – reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/04/202604241104483621.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "2c406325090dba83df14d0f64a9c7854",
-    "fetched_at": "2026-05-24T18:40:05.887332+00:00"
   }
 ]
