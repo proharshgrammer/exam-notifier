@@ -1,5 +1,16 @@
 [
   {
+    "title": "URGENT NOTICE FOR JEE (MAIN) CANDIDATES PARTICIPATING IN OJEE WEB BASED COUNSELLING FOR B.TECH. /B.ARCH. /B.PLAN. /INT. MSC. COURSES",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607292015618709.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "6688f5ba09d57df1c49351845a8d11a2",
+    "fetched_at": "2026-07-29T14:58:57.620846+00:00"
+  },
+  {
     "title": "Schedule for Verification of Documents for Preparation of Revised Rank/ Merit List for 2nd Round of Offline Counselling for B.Arch (Code-100) A.S: 2026-27_dated-29.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607292138800537.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "acdec65baf80bf83afd52762edbfffff",
     "fetched_at": "2026-05-24T18:40:20.208110+00:00"
-  },
-  {
-    "title": "Release of Admit Card of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 24, 25 and 27 March 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/202603181014449244.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "28fe51aa85d6d8e4fc6ccb6444396ae7",
-    "fetched_at": "2026-05-24T18:40:18.769735+00:00"
   }
 ]
