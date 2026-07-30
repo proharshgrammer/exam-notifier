@@ -1,5 +1,27 @@
 [
   {
+    "title": "Online Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607302038046717.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "8c8dcc3db812a959e86f08bce266d89a",
+    "fetched_at": "2026-07-30T17:39:35.735248+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260730211250.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "dc2b8559acbbeee9e9b0466c6bbce13e",
+    "fetched_at": "2026-07-30T17:39:20.952037+00:00"
+  },
+  {
     "title": "Revised Vacancies of Delhi General and Delhi Girl Category for 31.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730511564657.pdf",
     "exam": "JAC Delhi",
@@ -5476,27 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "792fb4bbcf96c122f371d3e369b6cd42",
     "fetched_at": "2026-05-24T18:40:33.470147+00:00"
-  },
-  {
-    "title": "FAQ of WBJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/20260318580247296.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "1d641ecbc39d9698985fd8d9f99c8b9f",
-    "fetched_at": "2026-05-24T18:40:31.978943+00:00"
-  },
-  {
-    "title": "Notice regarding Extension of online application of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/04/202604021622256174.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "5290d55f4981e7e6a24a87170827a722",
-    "fetched_at": "2026-05-24T18:40:30.480924+00:00"
   }
 ]
