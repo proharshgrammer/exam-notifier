@@ -1,5 +1,16 @@
 [
   {
+    "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607301885192911.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "56330533ec72877fd3cee599bdbda38b",
+    "fetched_at": "2026-07-30T08:37:22.994953+00:00"
+  },
+  {
     "title": "URGENT NOTICE FOR JEE (MAIN) CANDIDATES PARTICIPATING IN OJEE WEB BASED COUNSELLING FOR B.TECH. /B.ARCH. /B.PLAN. /INT. MSC. COURSES",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607292015618709.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "a40a9675168835d90a92290403365201",
     "fetched_at": "2026-05-24T18:40:21.663718+00:00"
-  },
-  {
-    "title": "Release of Admit Card of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 16, 17, 18 and 19 March 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/20260312465845102.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "acdec65baf80bf83afd52762edbfffff",
-    "fetched_at": "2026-05-24T18:40:20.208110+00:00"
   }
 ]
