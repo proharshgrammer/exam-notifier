@@ -1,5 +1,38 @@
 [
   {
+    "title": "Balance fee Notice IGDTUW",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607302009979714.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "74547fc9b442ee346d4ca7490595a3fe",
+    "fetched_at": "2026-07-30T11:14:18.811857+00:00"
+  },
+  {
+    "title": "Balance fee Notice DTU",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730940919088.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "2865cddff763c5aea9c9fdad28147dea",
+    "fetched_at": "2026-07-30T11:14:17.505699+00:00"
+  },
+  {
+    "title": "Notice: Nasha Mukt Yuva for Viksit Bharat – Pledge Campaign",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Notice-NMYVB.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "e3dec205001e42808a82b962a2b6b2f1",
+    "fetched_at": "2026-07-30T11:14:06.563373+00:00"
+  },
+  {
     "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607301885192911.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "2a6b07452028ac291bdad998984cc790",
     "fetched_at": "2026-05-24T18:40:29.067706+00:00"
-  },
-  {
-    "title": "Examination Venue Change of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/05/20260522844829753.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "971a1cf6e88be35d636f4d6002769b5d",
-    "fetched_at": "2026-05-24T18:40:27.595991+00:00"
-  },
-  {
-    "title": "Release of Admit Card of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 11, 12 & 13 March 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/20260307369967331.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "a21d5947fe84301f45759bfe65c21809",
-    "fetched_at": "2026-05-24T18:40:23.104086+00:00"
-  },
-  {
-    "title": "Advance Intimation for Allotment of Examination City of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 16, 17, 18, 19, 24, 25 & 27 March 2026.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/20260312375816655.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "a40a9675168835d90a92290403365201",
-    "fetched_at": "2026-05-24T18:40:21.663718+00:00"
   }
 ]
