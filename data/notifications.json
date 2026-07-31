@@ -1,5 +1,38 @@
 [
   {
+    "title": "Extension of date for Physical Reporting LLM/ BCA/ LLB/ B.ED/ BBA/ LE B.TECH/ B.TECH/ B.COM/ BA (ECO) A.S.2026-27_dated-31.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731704165715.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "022425a98ca5a86219fb18ecbfeb27e4",
+    "fetched_at": "2026-07-31T10:10:58.337094+00:00"
+  },
+  {
+    "title": "Tentative Vacancy for Special Round Counselling",
+    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-special-round-counselling-2/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "d1a5266c6b15dc93a4e688201bedf053",
+    "fetched_at": "2026-07-31T10:10:42.896151+00:00"
+  },
+  {
+    "title": "Notice regarding Allotment of Gurugram Examination Centre for ODL Term End Examinations – August 2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Gurugram Exam Centre August 2026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "99f259eff97d73b4b39e5a9402c2140d",
+    "fetched_at": "2026-07-31T10:10:37.410595+00:00"
+  },
+  {
     "title": "EXTENSION OF DATE OF SUBMISSION OF ONLINE APPLICATION FORM FOR CUET (UG) PROGRAMMES FOR A.S: 2026-27_dated-31.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731601136274.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://jeeadv.ac.in/",
     "id": "35cfbb8b5269d350c794f6be183e812f",
     "fetched_at": "2026-05-25T06:39:41.857879+00:00"
-  },
-  {
-    "title": "Rules of the Examination of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101034829476.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "c8d23179984a0494e9940ab712788329",
-    "fetched_at": "2026-05-24T18:40:40.485548+00:00"
-  },
-  {
-    "title": "List of Recognized Boards of 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/20260310836467812.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "88a4441ebb0a688d08016ecbf4781820",
-    "fetched_at": "2026-05-24T18:40:39.100593+00:00"
-  },
-  {
-    "title": "Information Bulletin of WBJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101506582412.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "278cc701365f134fed75ce3022db0e88",
-    "fetched_at": "2026-05-24T18:40:37.726874+00:00"
   }
 ]
