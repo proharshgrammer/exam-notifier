@@ -1,5 +1,38 @@
 [
   {
+    "title": "EXTENSION OF DATE OF SUBMISSION OF ONLINE APPLICATION FORM FOR CUET (UG) PROGRAMMES FOR A.S: 2026-27_dated-31.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731601136274.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "25e5ba9e1c26aa79197db5b727626ba6",
+    "fetched_at": "2026-07-31T07:26:59.928040+00:00"
+  },
+  {
+    "title": "NO PHYSICAL REPORTING IN BA (JMC) (CODE-126) AND BA (ENG) (CODE-184)._dated-31.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607311388113417.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "3fe1da3d53476fda1052000bda06548b",
+    "fetched_at": "2026-07-31T07:26:58.468548+00:00"
+  },
+  {
+    "title": "Schedule of activities pursuant to declaration of result of Round 03 followed by Sliding Round BA(JMC)/ BA(ENG) for the A.S:2026-27_dated-31.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731821485142.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1dcadd4dea82ffd33b109c7d778d202a",
+    "fetched_at": "2026-07-31T07:26:56.046285+00:00"
+  },
+  {
     "title": "Online Decentralized Counselling of WBJEE-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607302038046717.pdf",
     "exam": "WBJEE",
@@ -5465,38 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "278cc701365f134fed75ce3022db0e88",
     "fetched_at": "2026-05-24T18:40:37.726874+00:00"
-  },
-  {
-    "title": "Candidate Registration Manual of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101208242687.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "7669fe3cf5eebe0e37d18f55f99098ac",
-    "fetched_at": "2026-05-24T18:40:36.346454+00:00"
-  },
-  {
-    "title": "Tentative Schedules for Various Examinations 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/20260313216752680.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "19fc5bea5b91c7c02470f18459b2751c",
-    "fetched_at": "2026-05-24T18:40:34.874799+00:00"
-  },
-  {
-    "title": "Proformas for Certificates of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/20260318197904419.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "792fb4bbcf96c122f371d3e369b6cd42",
-    "fetched_at": "2026-05-24T18:40:33.470147+00:00"
   }
 ]
