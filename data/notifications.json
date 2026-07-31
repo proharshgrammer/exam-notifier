@@ -1,5 +1,16 @@
 [
   {
+    "title": "Admission Notice for CUET (PG for M.Ed.)_dated-31.07.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731760794917.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "29b223bf3ab8b9925a287a5f320d220c",
+    "fetched_at": "2026-07-31T12:31:45.073149+00:00"
+  },
+  {
     "title": "Extension of date for Physical Reporting LLM/ BCA/ LLB/ B.ED/ BBA/ LE B.TECH/ B.TECH/ B.COM/ BA (ECO) A.S.2026-27_dated-31.07.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731704165715.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jeeadv.ac.in/",
     "id": "913ae828fd4ed66b48131c14d33bc74f",
     "fetched_at": "2026-05-25T06:39:44.142285+00:00"
-  },
-  {
-    "title": "Provisional Answer Keys of JEE (Advanced) 2026 are now available: [Paper 1, Paper 2]",
-    "url": "https://jeeadv.ac.in/documents/p1_provisional_keys.pdf",
-    "exam": "JEE Advanced",
-    "exam_id": "jee_advanced",
-    "category": "Engineering Entrance",
-    "source_label": "Official Website",
-    "source_url": "https://jeeadv.ac.in/",
-    "id": "35cfbb8b5269d350c794f6be183e812f",
-    "fetched_at": "2026-05-25T06:39:41.857879+00:00"
   }
 ]
