@@ -1,5 +1,27 @@
 [
   {
+    "title": "URGENT NOTICE FOR CANDIDATES PARTCIPATED IN OJEE WEB COUNSELLING",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260802473102359.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "51a548be0733f5fd6317310b6acf75d9",
+    "fetched_at": "2026-08-02T10:47:01.184347+00:00"
+  },
+  {
+    "title": "CIRCULAR FOR ALL PARTICIPATING UNIVERSITY/COLLEGE/INSTITUTES",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/202608021697727381.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "b6ca3438a6aac85486ff000a35e1dcea",
+    "fetched_at": "2026-08-02T10:46:58.862943+00:00"
+  },
+  {
     "title": "ONLINE SPOT ROUND OF COUNSELLING- LLM/ BCA/ Int. BA-LLB, Int. BBA-LLB/ B.Ed./ BBA/ 5 year BBA MBA/ L.E B.TECH/ B.TECH/ B.COM (H)/ BA (ECO). A.S: 2026-27_dated-01.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608011164112748.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "eae86d37020892efbf83cb50b05653ec",
     "fetched_at": "2026-05-26T10:08:58.834501+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260526121738.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "f2436d915a56d83cb27d838be28b1b78",
-    "fetched_at": "2026-05-26T10:04:02.045412+00:00"
-  },
-  {
-    "title": "Prospectus",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/f07c19d93b32d0c74a7ca85f5a5ca2bb21cc878fa0a98bff1d646072ac7df05b17791698601_admission_docs.pdf/1",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "61b3d879b1d2795ce4dcfe8b36e47253",
-    "fetched_at": "2026-05-25T18:30:06.821285+00:00"
   }
 ]
