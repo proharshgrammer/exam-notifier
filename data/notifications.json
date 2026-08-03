@@ -1,5 +1,60 @@
 [
   {
+    "title": "Round 03 Fresh Registration MCA (NIMCET/ CET), Enrollment for Centralized Online Counselling, Choice Filling Followed by SLIDING ROUND for the A.S:2026-27_dated-03.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803178336857.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "afd965bc9d981100f5b727458e6ab5bb",
+    "fetched_at": "2026-08-03T10:50:49.878024+00:00"
+  },
+  {
+    "title": "ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting FOR THE A.S: 2026-27_dated-03.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031041552571.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "cf60ac077793f07b370064c297c7bcfd",
+    "fetched_at": "2026-08-03T10:50:48.605595+00:00"
+  },
+  {
+    "title": "Google Form for Collecting Score/Merit from the Registered and Fee Paid Candidates applying through CUET UG 2026._dated-03.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031981370474.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ae42c2bbe6dcfc46dc0bbfc97fb6fd19",
+    "fetched_at": "2026-08-03T10:50:47.199135+00:00"
+  },
+  {
+    "title": "Notice of UIET Hostel Allotment-2026",
+    "url": "https://jacchd.admissions.nic.in/document/notice-of-uiet-hostel-allotment-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "8194a6e99a903902469593ec9fb99b0c",
+    "fetched_at": "2026-08-03T10:50:30.117566+00:00"
+  },
+  {
+    "title": "Schedule of B.Pharm-2026 Counselling",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/20260803946351154.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "c2f133bf3dc0722ddc2684c0e4309e38",
+    "fetched_at": "2026-08-03T10:46:24.563202+00:00"
+  },
+  {
     "title": "List of Admitted Candidates",
     "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260803766352653.pdf",
     "exam": "JAC Delhi",
@@ -5443,60 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "3faa5ab9de6733ec07689145bfa8afaa",
     "fetched_at": "2026-05-27T12:23:51.738344+00:00"
-  },
-  {
-    "title": "MHT-CET 2026: Document on Normalization",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2023/12/MHT-CET-2026-Result-Processing-Methodology.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "bb5d92583ca2eaede0ca1f7f63aec729",
-    "fetched_at": "2026-05-27T12:23:48.922351+00:00"
-  },
-  {
-    "title": "Admission Notice for B.Tech. & B.Arch. Programmes 2026-2027",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261439374361.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "75698aeff28d62b742fcce8130bb6713",
-    "fetched_at": "2026-05-26T13:31:42.723247+00:00"
-  },
-  {
-    "title": "Notice regarding Provisional or Model Answer Keys of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/05/202605261597279141.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "ffdd3d95ac804ea628da9a555b6a2eec",
-    "fetched_at": "2026-05-26T13:27:36.340693+00:00"
-  },
-  {
-    "title": "Beware of Touts/Agents Promising Admissions",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261129471745.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "3c03226dd3fd12459a72193b48b50008",
-    "fetched_at": "2026-05-26T10:09:01.563633+00:00"
-  },
-  {
-    "title": "Admission Notice for B.Tech. & B.Arch. Programmes 2026-2027",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/20260526951419613.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "64b7eb2b6a2d840435501127646cfe42",
-    "fetched_at": "2026-05-26T10:09:00.270981+00:00"
   }
 ]
