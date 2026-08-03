@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260803192500.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "895ba1be6b6f244acde28eab9fcdc8e6",
+    "fetched_at": "2026-08-03T16:28:47.449703+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260803192542.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "2d998c7e40901682cafb1f0cfb51a86c",
+    "fetched_at": "2026-08-03T16:28:45.071021+00:00"
+  },
+  {
     "title": "LIST OF CANDIDATES WHO HAVE BEEN APLIED FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S: 2026-27_dated-03.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803490690330.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "af98c132c7bae4f28f8652ce257cf185",
     "fetched_at": "2026-05-27T16:24:02.326318+00:00"
-  },
-  {
-    "title": "Offline Counselling for the programme Lateral Entry to B.Tech. Programmes for B.SC. Graduates (prog. Code 129)_dated-27.05.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/20260527327560860.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "20c8d6d5dc4d637573ae757a63809521",
-    "fetched_at": "2026-05-27T12:29:38.319588+00:00"
-  },
-  {
-    "title": "BEWARE OF TOUTS PROMISING ADMISSIONS IN GGSIPU 2026-27_dated-27.05.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/05/202605271896348938.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "31641ed1f722dc473610c4e3796e53d3",
-    "fetched_at": "2026-05-27T12:29:36.189765+00:00"
   }
 ]
