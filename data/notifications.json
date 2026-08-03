@@ -1,5 +1,16 @@
 [
   {
+    "title": "List of Admitted Candidates",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260803766352653.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "4f746d679834d1bad84863dca0b9dcc2",
+    "fetched_at": "2026-08-03T06:48:40.091461+00:00"
+  },
+  {
     "title": "URGENT NOTICE FOR CANDIDATES PARTCIPATED IN OJEE WEB COUNSELLING",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260802473102359.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "64b7eb2b6a2d840435501127646cfe42",
     "fetched_at": "2026-05-26T10:09:00.270981+00:00"
-  },
-  {
-    "title": "ADMISSION BROCHURE – JAC Delhi 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202605261990309362.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "eae86d37020892efbf83cb50b05653ec",
-    "fetched_at": "2026-05-26T10:08:58.834501+00:00"
   }
 ]
