@@ -1,5 +1,16 @@
 [
   {
+    "title": "LIST OF CANDIDATES WHO HAVE BEEN APLIED FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S: 2026-27_dated-03.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803490690330.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "27841a06666d3d27673c1c277b2db0d0",
+    "fetched_at": "2026-08-03T13:47:00.539884+00:00"
+  },
+  {
     "title": "Round 03 Fresh Registration MCA (NIMCET/ CET), Enrollment for Centralized Online Counselling, Choice Filling Followed by SLIDING ROUND for the A.S:2026-27_dated-03.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803178336857.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "31641ed1f722dc473610c4e3796e53d3",
     "fetched_at": "2026-05-27T12:29:36.189765+00:00"
-  },
-  {
-    "title": "Public Notice: Submission of Candidates Grievances/ Objections Raising Schedule (MAH-MHT CET 2026) PCM Group Second Attempt",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/05/OT-NOTICE-MHT-CET-2026-PCM-Second-Attempt.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "3faa5ab9de6733ec07689145bfa8afaa",
-    "fetched_at": "2026-05-27T12:23:51.738344+00:00"
   }
 ]
