@@ -1,5 +1,16 @@
 [
   {
+    "title": "विश्वविद्यालय कुलगीतUniversity KULGEET",
+    "url": "https://www.cuh.ac.in/admin/uploads/2020/misc20/CUH-Kulgeet.mp3",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "2d000819ecabb42b062742d1cc9a05e0",
+    "fetched_at": "2026-08-04T17:58:03.931916+00:00"
+  },
+  {
     "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260804326097720.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "a77b82333e9341d1ca853f19ec30d483",
     "fetched_at": "2026-05-28T04:56:28.860227+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BE.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "2a2effd2775bd87311bbf9c9be67ed94",
-    "fetched_at": "2026-05-28T04:56:27.535896+00:00"
   }
 ]
