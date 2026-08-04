@@ -1,5 +1,16 @@
 [
   {
+    "title": "List of Multidisciplinary Courses (MDCs) offered durig Academic Session-2026-27 (Odd Semester)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/List of MDC-2026-27 (Odd Semester).pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "34a7148660e2be7949d8a5830cbc211b",
+    "fetched_at": "2026-08-04T04:48:19.445925+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260803192500.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "3b5f8c02389dbe6ce14f47dd419e9576",
     "fetched_at": "2026-05-27T16:24:05.112780+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260527195858.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "af98c132c7bae4f28f8652ce257cf185",
-    "fetched_at": "2026-05-27T16:24:02.326318+00:00"
   }
 ]
