@@ -1,5 +1,27 @@
 [
   {
+    "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260804326097720.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6493f376a4aa88e93ea86907e62a1828",
+    "fetched_at": "2026-08-04T16:01:24.378111+00:00"
+  },
+  {
+    "title": "Sports Counselling 5 August 2026 Discrepancy List",
+    "url": "https://jacchd.admissions.nic.in/document/information-of-the-sports-category-candidates-registered-for-the-special-round-for-sports-counselling-scheduled-on-5-august-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "d7fee8d02f0c8b38588b4b1061f52878",
+    "fetched_at": "2026-08-04T16:00:07.352338+00:00"
+  },
+  {
     "title": "Round 01 Commencement of process Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) B.Ed(SE) (Code-159) Choice Filling for the A.S: 2026-27_dated-04.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608041237876889.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "2a2effd2775bd87311bbf9c9be67ed94",
     "fetched_at": "2026-05-28T04:56:27.535896+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BARCH.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "15b6d7f8b01b0cbbcf6764a2834ec886",
-    "fetched_at": "2026-05-28T04:56:25.424429+00:00"
-  },
-  {
-    "title": "Extension of Facility for Submission of Bank Account Details for Refund of Examination Fee of NEET (UG)-2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/202605271711404199.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "535ab3dcda858d266db7d63e40dbf78d",
-    "fetched_at": "2026-05-27T18:38:56.844220+00:00"
   }
 ]
