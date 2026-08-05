@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for Engineering Vacant Seats Before start of Round 2",
+    "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-Before-Start-of-Round 2.Notified-on-05.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "7674d20d00c6b796c0a6ed80b6825c5b",
+    "fetched_at": "2026-08-05T06:35:05.489812+00:00"
+  },
+  {
     "title": "विश्वविद्यालय कुलगीतUniversity KULGEET",
     "url": "https://www.cuh.ac.in/admin/uploads/2020/misc20/CUH-Kulgeet.mp3",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "44ba87231700a2b11ee74f5114777656",
     "fetched_at": "2026-05-28T04:56:30.236671+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPHARM.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "a77b82333e9341d1ca853f19ec30d483",
-    "fetched_at": "2026-05-28T04:56:28.860227+00:00"
   }
 ]
