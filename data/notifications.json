@@ -1,5 +1,49 @@
 [
   {
+    "title": "Schedule of 2nd Round of offline Counselling for B.Arch (Code-100) followed by OPEN HOUSE A.S:2026-27_dated-05.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051517217698.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "4800acd67ca48d96d93bd5751e9858fc",
+    "fetched_at": "2026-08-05T09:42:46.304181+00:00"
+  },
+  {
+    "title": "Last date of Submission of Score/Merit through Google Form from the Registered and Fee Paid Candidate applying through CUET UG 2026_dated-05.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051131803704.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "c3e4a9422d53f66b04c9ad59edacae48",
+    "fetched_at": "2026-08-05T09:42:44.922685+00:00"
+  },
+  {
+    "title": "Instructions for ERP Registration of Newly Admitted Candidates 2026-27",
+    "url": "https://hbtu.admissions.nic.in/document/instructions-for-erp-registration-of-newly-admitted-candidates-2026-27/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "ffb2e85878acaffdc03b819958768885",
+    "fetched_at": "2026-08-05T09:42:37.579271+00:00"
+  },
+  {
+    "title": "Engineering Vacant Seats at the beginning of Round 2 Notified on 05.08.2026",
+    "url": "https://comedk.org/uploads/Engineering-Vacant-Seats-Before-Start-of-Round 2.Notified-on-05.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "702c07858f1a587ca32d37345ad4da69",
+    "fetched_at": "2026-08-05T09:42:13.591476+00:00"
+  },
+  {
     "title": "Click here for Engineering Vacant Seats Before start of Round 2",
     "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-Before-Start-of-Round 2.Notified-on-05.08.2026.pdf",
     "exam": "COMEDK",
@@ -5454,49 +5498,5 @@
     "source_url": "https://dte.mponline.gov.in/",
     "id": "5817589f236ddfceffbd8f9f66cbc96f",
     "fetched_at": "2026-05-28T04:56:35.698332+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BDESIGN.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "2e80cbdaa0a580950ebcd0c0a5f44f10",
-    "fetched_at": "2026-05-28T04:56:34.335366+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPLANNING.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "6cceab8b0c6719d3918f03ce33f4fee0",
-    "fetched_at": "2026-05-28T04:56:32.914298+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LT.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "33b50a5923e76faa8503ef2f639b46ca",
-    "fetched_at": "2026-05-28T04:56:31.600707+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/HMT.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "44ba87231700a2b11ee74f5114777656",
-    "fetched_at": "2026-05-28T04:56:30.236671+00:00"
   }
 ]
