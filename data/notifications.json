@@ -1,5 +1,16 @@
 [
   {
+    "title": "Special Drive for Filling Vacant Seats under the Supernumerary Quota in UG Programmes during the Academic Session 2026–27",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/acd715.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "960a34e80345b0c0264210b55b110832",
+    "fetched_at": "2026-08-05T14:59:41.107166+00:00"
+  },
+  {
     "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051879012414.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "c0e51aaf2fe132db71b09b6c25748feb",
     "fetched_at": "2026-05-29T10:35:31.073287+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260529120330.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "ca5fd40ecca1adf31c8d18f59bfecd14",
-    "fetched_at": "2026-05-29T10:30:42.301263+00:00"
   }
 ]
