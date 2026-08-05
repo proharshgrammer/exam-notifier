@@ -1,5 +1,49 @@
 [
   {
+    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051879012414.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d2756c1f63dcc17eb14bc8adf2b98227",
+    "fetched_at": "2026-08-05T12:05:27.439296+00:00"
+  },
+  {
+    "title": "PU SPORTS MERIT LIST 2026 After Second Sports Trials on 5 August 2026",
+    "url": "https://jacchd.admissions.nic.in/document/pu-sports-merit-list-2026-after-second-sports-trials-on-5-august-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "88acb21a07d99f7f1342cbfc7339c5fc",
+    "fetched_at": "2026-08-05T12:05:12.655847+00:00"
+  },
+  {
+    "title": "Induction Program Schedule 2026-2027",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/cet-induction-program-schedule-2026-2027.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "45d5c35f04e2cd6c40ee5f586fb1b935",
+    "fetched_at": "2026-08-05T12:05:05.266068+00:00"
+  },
+  {
+    "title": "Inaugural Function Invitation 2026-2027",
+    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/cet-inaugural-function-invitation-2026-2027.pdf",
+    "exam": "SRMJEE",
+    "exam_id": "srmjee",
+    "category": "Counselling",
+    "source_label": "SRM Admissions Page",
+    "source_url": "https://www.srmist.edu.in/admission/",
+    "id": "e4b005ff38401ed9b64f1b7c2b0ed8af",
+    "fetched_at": "2026-08-05T12:05:02.867153+00:00"
+  },
+  {
     "title": "Schedule of 2nd Round of offline Counselling for B.Arch (Code-100) followed by OPEN HOUSE A.S:2026-27_dated-05.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051517217698.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "ca5fd40ecca1adf31c8d18f59bfecd14",
     "fetched_at": "2026-05-29T10:30:42.301263+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260529120905.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "7394ec717cea73348160c75a1dd2eb34",
-    "fetched_at": "2026-05-29T10:30:39.847423+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/MCA.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "89c3a2ac8c61df84e4244c8133bf5260",
-    "fetched_at": "2026-05-28T04:56:38.582687+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/MBA.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "8e1ea8a8284dd50db5622548f175d974",
-    "fetched_at": "2026-05-28T04:56:37.078539+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BPROF.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "5817589f236ddfceffbd8f9f66cbc96f",
-    "fetched_at": "2026-05-28T04:56:35.698332+00:00"
   }
 ]
