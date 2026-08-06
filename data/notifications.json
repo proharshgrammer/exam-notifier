@@ -1,5 +1,27 @@
 [
   {
+    "title": "Counselling Notification of WBJEE Pharmacy 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/20260806129733306.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "74bd9fc7b6bd5ffecce4ed0426690a33",
+    "fetched_at": "2026-08-06T14:55:55.590306+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260806193005.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "d704440baf4e184b2bfeb2fef8f07b35",
+    "fetched_at": "2026-08-06T14:55:38.745975+00:00"
+  },
+  {
     "title": "CCET Defense Merit List (D2) for Special Round",
     "url": "https://jacchd.admissions.nic.in/document/ccet-defense-merit-list-d2-for-special-round/",
     "exam": "JAC CHD",
@@ -5476,27 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "e63bcf1e8443560db1fb0c6582afe6dc",
     "fetched_at": "2026-06-01T07:07:54.398745+00:00"
-  },
-  {
-    "title": "Final Answer Key Paper 2",
-    "url": "https://jeeadv.ac.in/documents/p2_solutions_final.pdf",
-    "exam": "JEE Advanced",
-    "exam_id": "jee_advanced",
-    "category": "Engineering Entrance",
-    "source_label": "Official Website",
-    "source_url": "https://jeeadv.ac.in/",
-    "id": "269394171bd6e9b5b98fc18bba4ccd37",
-    "fetched_at": "2026-05-31T21:33:16.363286+00:00"
-  },
-  {
-    "title": "Final Answer Key Paper 1",
-    "url": "https://jeeadv.ac.in/documents/p1_solutions_final.pdf",
-    "exam": "JEE Advanced",
-    "exam_id": "jee_advanced",
-    "category": "Engineering Entrance",
-    "source_label": "Official Website",
-    "source_url": "https://jeeadv.ac.in/",
-    "id": "72795adc37970eb67fbdc5d348854011",
-    "fetched_at": "2026-05-31T21:33:13.937963+00:00"
   }
 ]
