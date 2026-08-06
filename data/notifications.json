@@ -1,5 +1,49 @@
 [
   {
+    "title": "CCET Defense Merit List (D2) for Special Round",
+    "url": "https://jacchd.admissions.nic.in/document/ccet-defense-merit-list-d2-for-special-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "a1d6b59bfb1e04cc7d0b731bc6d80fc2",
+    "fetched_at": "2026-08-06T12:30:19.743715+00:00"
+  },
+  {
+    "title": "PU DEFENCE MERIT LIST(D1) 2026",
+    "url": "https://jacchd.admissions.nic.in/document/pu-defence-merit-listd1-2026/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "329d0272a53d835b2e739abaab393114",
+    "fetched_at": "2026-08-06T12:30:18.587314+00:00"
+  },
+  {
+    "title": "Re-Examination of the Course \"Hindi Katha Sahitya\" for M.A. Hindi, First Semester (Regular and Reappearing Students)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Re-examination of Hindi Katha Sahitya.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "b38d2d663b8759387a91b2844c3004ed",
+    "fetched_at": "2026-08-06T12:30:14.344070+00:00"
+  },
+  {
+    "title": "NOTICE REGARDING DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEES FOR 3 rd ROUND ALLOTTED CANDIDATES UNDER LE-TECH(DIPLOMA)/ LEB.Sc./ Int. MBA and Working Professionals for Engineering, M.TECH/M.AR",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260806477863167.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "51a1e9b68e895c69b93b2d7cf1c7b103",
+    "fetched_at": "2026-08-06T12:30:05.946925+00:00"
+  },
+  {
     "title": "Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account).",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Public notice B.Pharmacy 21-07-2026.pdf",
     "exam": "HSTES",
@@ -5454,49 +5498,5 @@
     "source_url": "https://jeeadv.ac.in/",
     "id": "72795adc37970eb67fbdc5d348854011",
     "fetched_at": "2026-05-31T21:33:13.937963+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBPHARM.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "1f851c730b30c6832c7b2827f3e6bbd8",
-    "fetched_at": "2026-05-31T18:51:46.495386+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/LTBE.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "91cd0167578109f18afbbf50d201f12e",
-    "fetched_at": "2026-05-31T18:51:45.180975+00:00"
-  },
-  {
-    "title": "Rule book",
-    "url": "https://dte.mponline.gov.in/Portal/Services/OnlineCounselling/NW/Utilities/InitailizeCommonView.aspx?UserType=C&src=/Quick Links/OnlineCounselling/2026/RuleBook/BCA.pdf",
-    "exam": "MPDTE",
-    "exam_id": "mpdte",
-    "category": "Counselling",
-    "source_label": "MPDTE Portal",
-    "source_url": "https://dte.mponline.gov.in/",
-    "id": "48b1c9a5a8fe98611876360c3236f8b9",
-    "fetched_at": "2026-05-31T18:51:42.004338+00:00"
-  },
-  {
-    "title": "Re-scheduling of examination for the candidates affected due to technical glitch in CUET (UG) – 2026 on 30.05.2026 (Shift-I)-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/05/20260530374646310.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "f2b3c8279e5f01318cd336b702ec151a",
-    "fetched_at": "2026-05-30T13:48:53.818536+00:00"
   }
 ]
