@@ -1,5 +1,16 @@
 [
   {
+    "title": "Organization of Hindi Fortnight (Hindi Pakhwada) 2026 – Online Registration for Staff & Students",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Hindi-pakhwada-26.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "72849cfc6131d886b6eca3bc211096ab",
+    "fetched_at": "2026-08-07T11:00:14.379793+00:00"
+  },
+  {
     "title": "Schedule of 1st Offline Counselling B.RTT (CODE-158) Earlier Nomination B.Sc (MTR) Academic Session: 2026-27_dated-07.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071119976038.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "31e53cc515588ae7a608dcc51908632a",
     "fetched_at": "2026-06-01T19:08:26.943635+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION SESSION:2026-27",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606012100351080.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "54f6081b7c3e0b18acf7ffdb33faffbf",
-    "fetched_at": "2026-06-01T13:18:49.408319+00:00"
   }
 ]
