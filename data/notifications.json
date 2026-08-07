@@ -1,5 +1,16 @@
 [
   {
+    "title": "Postponement of Spot Round Results",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806251801114.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "08e1edc82972201a1d70b6957de6da2e",
+    "fetched_at": "2026-08-07T00:29:07.964409+00:00"
+  },
+  {
     "title": "Counselling Notification of WBJEE Pharmacy 2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/20260806129733306.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "6ba2d02584fbca84769f0d720730a1bf",
     "fetched_at": "2026-06-01T13:16:43.797156+00:00"
-  },
-  {
-    "title": "JoSAA Schedule 2026",
-    "url": "https://josaa.nic.in/document/josaa-schedule-2026/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "e63bcf1e8443560db1fb0c6582afe6dc",
-    "fetched_at": "2026-06-01T07:07:54.398745+00:00"
   }
 ]
