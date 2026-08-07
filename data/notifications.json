@@ -1,5 +1,16 @@
 [
   {
+    "title": "List of Eligible and Ineligible Candidate for admission under Sports Quota for Academic Session: 2026-27_dated-07.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260807114804681.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8360c01cb9418b18e3e48fc3e3adf93f",
+    "fetched_at": "2026-08-07T11:54:15.539810+00:00"
+  },
+  {
     "title": "Organization of Hindi Fortnight (Hindi Pakhwada) 2026 – Online Registration for Staff & Students",
     "url": "https://www.cuh.ac.in/admin/uploads/files/Hindi-pakhwada-26.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "198e723e816b772e2bf4e18cddea6f6a",
     "fetched_at": "2026-06-01T19:08:29.703296+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260601213649.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "31e53cc515588ae7a608dcc51908632a",
-    "fetched_at": "2026-06-01T19:08:26.943635+00:00"
   }
 ]
