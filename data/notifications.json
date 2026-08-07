@@ -1,5 +1,16 @@
 [
   {
+    "title": "OFFLINE ON-CAMPUS COUNSELLING (SPOT COUNSELLING) – SESSION 2026-27",
+    "url": "https://hbtu.admissions.nic.in/document/offline-on-campus-counselling-spot-counselling-session-2026-27/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "2d3b1127ddfec70883474916cc732386",
+    "fetched_at": "2026-08-07T05:22:43.247062+00:00"
+  },
+  {
     "title": "Postponement of Spot Round Results",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806251801114.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "49b884b11919f69464e3d9d12d745c44",
     "fetched_at": "2026-06-01T13:18:48.051813+00:00"
-  },
-  {
-    "title": "Business Rule",
-    "url": "https://josaa.nic.in/document/business-rule-3/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "6ba2d02584fbca84769f0d720730a1bf",
-    "fetched_at": "2026-06-01T13:16:43.797156+00:00"
   }
 ]
