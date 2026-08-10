@@ -1,5 +1,16 @@
 [
   {
+    "title": "ONLINE REGISTRATION FOR SPOT ROUND OF OFFLINE COUNSELLING FOR MBA AND MCA (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-10.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101838049538.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a36786d10d7b78dde4162d1989348817",
+    "fetched_at": "2026-08-10T11:55:17.805245+00:00"
+  },
+  {
     "title": "SPOT ROUND 2 (OFFLINE) FOR “REGISTERED” & “NOT ADMITTED CANDIDATES ONLY-IMPORTANT POINTS B.TECH/ BBA/BBA-MBA INTGRATED/BCA/LE B.TECH. A.S:2026-27_dated-10.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810859372611.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://hbtu.admissions.nic.in/",
     "id": "4647e118727307566d64297cc3ac5986",
     "fetched_at": "2026-06-05T10:55:03.390106+00:00"
-  },
-  {
-    "title": "Notification: Regarding the issuance and renewal of free Haryana Roadways bus passes for the 2026-27 academic session.",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/0R2138.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "e504ba3fa2bfd37f59adf316b4f52c99",
-    "fetched_at": "2026-06-05T10:54:41.449466+00:00"
   }
 ]
