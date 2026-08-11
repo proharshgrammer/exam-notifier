@@ -1,5 +1,38 @@
 [
   {
+    "title": "CUET MERIT LIST FOR B.COM (H) PROG. CODE-146 FOR A.S: 2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811214604186.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1d76cb7d66e102384264817089e4d7f8",
+    "fetched_at": "2026-08-11T10:57:07.604503+00:00"
+  },
+  {
+    "title": "LATERAL ENTRY TO B.TECH PROG. CODE-128 SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S: 2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111679604891.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "50ccbc6fb4bffec5478177bb0e608874",
+    "fetched_at": "2026-08-11T10:57:05.907166+00:00"
+  },
+  {
+    "title": "EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORM PGDFIS (CODE-173)/ MBA-FIS (CODE-185)/ LE MBA-FIS (172) for the A.S:2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111721474531.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7d3e0f06b7a50f70f22e6f868033defb",
+    "fetched_at": "2026-08-11T10:57:03.526800+00:00"
+  },
+  {
     "title": "B.COM(H) CODE-146 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811728931762.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "8c4b084b08e62fe83ea2e4cb4bfbfc51",
     "fetched_at": "2026-06-08T10:11:29.346983+00:00"
-  },
-  {
-    "title": "Regarding Extension of LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORM PARA MEDICAL/MEDICAL PROGRAMMES: ACADEMIC SESSION 2026_27_dated-08.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260608421807369.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "8d79bfd9e0632763a10d8bb7c887532c",
-    "fetched_at": "2026-06-08T10:11:28.017162+00:00"
-  },
-  {
-    "title": "REGARDING ENROLMENT FOR CENTRALIZED ONLINE COUNSELLING (for the Programmes for which Online Counselling will be carried out) Academic Session 2026-27_dated-08.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606081795115774.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "e47fcce25f5e641a4a8cfb2df2015013",
-    "fetched_at": "2026-06-08T10:11:25.770962+00:00"
-  },
-  {
-    "title": "Successful Conduct of Common University Entrance Test (UG) – CUET (UG) 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260608323708178.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "c4004d2bc8bd1496eed773c46dab7027",
-    "fetched_at": "2026-06-08T05:14:30.461361+00:00"
   }
 ]
