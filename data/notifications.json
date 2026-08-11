@@ -1,5 +1,60 @@
 [
   {
+    "title": "VACANT SEATS IN BCA (CODE-114) FOR SPOT ROUND 02 OFFLINE COUNSELLING FOR A.S: 2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811398441811.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "75225497cd6839a0eba6a299cbeb8dca",
+    "fetched_at": "2026-08-11T08:34:47.628183+00:00"
+  },
+  {
+    "title": "CUET MERIT LIST FOR BCA PRG.CODE-114 FOR THE A.S:2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111920709757.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ca60461413918ce7d1e88a791c56e01d",
+    "fetched_at": "2026-08-11T08:34:46.287898+00:00"
+  },
+  {
+    "title": "VACANT SEAT STATUS BBA AND ALLIED PROG CODE-125 FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111618946735.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "43f052aac8287ec1b25c3c1e165253df",
+    "fetched_at": "2026-08-11T08:34:44.931166+00:00"
+  },
+  {
+    "title": "SCHEDULE FOR SPOT ROUND 2 (OFFLINE ) COUNSELLING FOR B.TECH/ BBA/BCA and LE B.TECH through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S: 2026-27_dated-11.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811492044051.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "44d43a08e584863a9a3d87fdd1b88348",
+    "fetched_at": "2026-08-11T08:34:43.430861+00:00"
+  },
+  {
+    "title": "Invitation: Independence Day Flag Hoisting Ceremony – 15th August 2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/R2182.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "bf9529f7417caa82748ba878258daf84",
+    "fetched_at": "2026-08-11T08:34:23.111730+00:00"
+  },
+  {
     "title": "CUET MERIT LIST B.Sc(YOGA) CODE-117 FOR A.S:2026-27_dated-11.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111469792338.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5443,60 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "0933ec2f77c1b532bfb67c7b3266f391",
     "fetched_at": "2026-06-07T13:09:53.315945+00:00"
-  },
-  {
-    "title": "Advance Intimation of Examination City for the Applicants of NEET (UG)-2026 Scheduled on 21ST JUNE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606071045836990.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "0c718e2701e1c7689fb0686b84e6b5ac",
-    "fetched_at": "2026-06-07T11:11:09.854025+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260607161730.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "0e99f8d74e1daf5fd3cd90af614cd476",
-    "fetched_at": "2026-06-07T11:11:05.803359+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260607163738.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9f1b96ce4f948d0afd12265afb47aada",
-    "fetched_at": "2026-06-07T11:11:04.384686+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260607163759.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "df98370b79e703c48f9297d0f4b247f5",
-    "fetched_at": "2026-06-07T11:11:01.988904+00:00"
-  },
-  {
-    "title": "Notice – Addition of PUW Subcategory in JAC-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "72b5ce0150437449102836ae85f3bb05",
-    "fetched_at": "2026-06-06T09:33:03.690738+00:00"
   }
 ]
