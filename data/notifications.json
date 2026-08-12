@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812329475241.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "678088f7c8d95f8c049267e53c6534fc",
+    "fetched_at": "2026-08-12T10:39:46.022488+00:00"
+  },
+  {
     "title": "Change of nomenclature of Programme PG Diploma in fire and Life Safety Audit as Post Graduate Diploma in Fire and Industrial Safety_dated-12.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121158993681.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "be2ceb029930f7fd1eee55fcc819a542",
     "fetched_at": "2026-06-10T06:39:38.494499+00:00"
-  },
-  {
-    "title": "Portal for Submitting Scribe Details by the PwD/PwBD Candidates of NEET (UG)-2026, Scheduled on 21 June 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260609246210889.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "490111cd9d480b3108d7da2b53c9df29",
-    "fetched_at": "2026-06-09T17:08:41.165578+00:00"
   }
 ]
