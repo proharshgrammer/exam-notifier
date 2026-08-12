@@ -1,5 +1,27 @@
 [
   {
+    "title": "SPOT ROUND 01 OF COUNSELLING MBA AND MCA FOR THE A.S:2026-27_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121778492357.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "150bb32c9e1a4373475038fc26bde5ff",
+    "fetched_at": "2026-08-12T11:54:20.433752+00:00"
+  },
+  {
+    "title": "SCHEDULE OFFLINE COUNSELLING “SPORTS QUOTA”ALLOTMENT OF SEATS AGAINST SEATS RESERVED IN UG/PG PROG. OFFERED AT USS/CENTRES OF EXCELLENCE A.S:2026-27_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812523926617.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "15ac64c9288766be0b2c78576d298eca",
+    "fetched_at": "2026-08-12T11:54:18.593483+00:00"
+  },
+  {
     "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812329475241.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "962801642f361386504a4e5601a3fffb",
     "fetched_at": "2026-06-10T06:40:01.623938+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1ST COUNSELLING FOR THE PROGRAMME M.Sc (Microbiology), Code:414) Offline Counselling.A.S.2026-27.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606101803208705.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "bc1bf8c76f0be47c22c73c33f03fdf4e",
-    "fetched_at": "2026-06-10T06:40:00.208122+00:00"
-  },
-  {
-    "title": "Counselling Schedule JAC Delhi 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/05/202606101248642407.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "be2ceb029930f7fd1eee55fcc819a542",
-    "fetched_at": "2026-06-10T06:39:38.494499+00:00"
   }
 ]
