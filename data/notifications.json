@@ -1,5 +1,38 @@
 [
   {
+    "title": "OPENING OF ONLINE ‘WITHDRAWAL’ PURSUANT TO CONDUCT OF SPOT ROUND 02 (OFFLINE) PROGRAMMES_B.TECH/BBA/B.COM/BCA and LE B.TECH_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121915986201.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "36993a9fa2f17183836c5ae31e086451",
+    "fetched_at": "2026-08-12T07:47:09.639082+00:00"
+  },
+  {
+    "title": "NOTICE REGARDING CONDUCT OF “SPOT ROUND 02 (OFFLINE) COUNSELLING” FOR THE PROG. B.TECH/BBA/BCA and LE B.TECH FOR A.S:2026-27_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812367003638.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a9337cbfa7bca13c9fb237887b4ee15c",
+    "fetched_at": "2026-08-12T07:47:08.438906+00:00"
+  },
+  {
+    "title": "EXTENSION OF ONLINE REGISTRATION FOR MBA/ MCA SPOT ROUND OF OFFLINE COUNSELLING (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-12.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812825708375.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f25b92a548a3947369c88adf10690ef5",
+    "fetched_at": "2026-08-12T07:47:06.277048+00:00"
+  },
+  {
     "title": "Postponement Notice for Physical Spot Round 2 Counselling (B,Tech, BBA, BCA & LE-BTech Programmes)",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811800854215.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "b2685c263f1dec1a653242e318d93321",
     "fetched_at": "2026-06-09T11:25:23.856441+00:00"
-  },
-  {
-    "title": "Frequently Asked Questions (FAQs)",
-    "url": "https://www.comedk.org/uploads/FAQs_Registration_&_Document_Upload_2026_notified_on_09_June_2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "f9e2223c7c047e5139af2032b327f5c0",
-    "fetched_at": "2026-06-09T08:00:31.422458+00:00"
-  },
-  {
-    "title": "Declaration of OBC class for availing Reservation under WBJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606081296703276.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "46a18a0633261f423a4f183a37d0f8b9",
-    "fetched_at": "2026-06-08T14:35:36.655867+00:00"
-  },
-  {
-    "title": "Gazette Notifications regarding OBC Reservation",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/2026060888964775.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "df4b3a6c684d5f556a9acbb1e5dbfcbf",
-    "fetched_at": "2026-06-08T14:35:35.390939+00:00"
   }
 ]
