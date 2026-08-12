@@ -1,5 +1,27 @@
 [
   {
+    "title": "Counselling Schedule for Sports Quota Admissions",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812128958634.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9df98b8f5a869cee5db860ce52404f5f",
+    "fetched_at": "2026-08-12T16:05:01.203424+00:00"
+  },
+  {
+    "title": "Decision of the Sports Grievance Redressal Committee",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121332730210.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "64563fb25f035c86ee521f5595797410",
+    "fetched_at": "2026-08-12T16:04:58.937749+00:00"
+  },
+  {
     "title": "Additional Round Schedule for UG Counselling 2026",
     "url": "https://hbtu.admissions.nic.in/document/additional-round-schedule-for-ug-counselling-2026/",
     "exam": "HBTU Counselling",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "8a282af22ca05b570e1672c826e5800f",
     "fetched_at": "2026-06-10T11:03:24.282323+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260610152201.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "54dba103e27e6a3d38b8e4fdfae42d94",
-    "fetched_at": "2026-06-10T10:58:20.045763+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260610160319.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "621410ccb4897f993e10378ece6d6205",
-    "fetched_at": "2026-06-10T10:58:16.801728+00:00"
   }
 ]
