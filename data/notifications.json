@@ -1,5 +1,16 @@
 [
   {
+    "title": "Additional Round Schedule for UG Counselling 2026",
+    "url": "https://hbtu.admissions.nic.in/document/additional-round-schedule-for-ug-counselling-2026/",
+    "exam": "HBTU Counselling",
+    "exam_id": "hbtu",
+    "category": "Counselling",
+    "source_label": "HBTU Portal",
+    "source_url": "https://hbtu.admissions.nic.in/",
+    "id": "f8854efa69d5815cbc4f422ce7416907",
+    "fetched_at": "2026-08-12T13:21:58.325472+00:00"
+  },
+  {
     "title": "SPOT ROUND 01 OF COUNSELLING MBA AND MCA FOR THE A.S:2026-27_dated-12.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121778492357.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "621410ccb4897f993e10378ece6d6205",
     "fetched_at": "2026-06-10T10:58:16.801728+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1ST COUNSELLING FOR THE PROGRAMME B.Sc (Environmental Science, Code:135).",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260610877769972.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "962801642f361386504a4e5601a3fffb",
-    "fetched_at": "2026-06-10T06:40:01.623938+00:00"
   }
 ]
