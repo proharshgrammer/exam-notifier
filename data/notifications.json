@@ -1,5 +1,38 @@
 [
   {
+    "title": "ROUND 01 Schedule of activities pertaining to declaration of result of PARAMEDICAL (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(SE) for the A.S:2026-27_dated-13.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813155804433.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ba2f149a9f8f4467edd64ffb867ab08e",
+    "fetched_at": "2026-08-13T11:56:02.016372+00:00"
+  },
+  {
+    "title": "CUET MERIT LIST FOR B.TECH (CODE-131) FOR THE A.S:2026-27_dated-13.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131308110242.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "932042525c642a90db60f91ce32c1a91",
+    "fetched_at": "2026-08-13T11:56:00.748525+00:00"
+  },
+  {
+    "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ca448488b60870a50ebb83335b670129",
+    "fetched_at": "2026-08-13T11:55:58.795173+00:00"
+  },
+  {
     "title": "SCHEDULE OF OPEN HOUSE OFFLINE COUNSELLING BA(LA) (CODE-451) A.S:2026-27_dated-13.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813737748324.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "99b3c5dfc13cbb14ac4f5cb29639196c",
     "fetched_at": "2026-06-12T12:56:41.506298+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260612174824.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "804d66bd29eb75dbc63a77627753849f",
-    "fetched_at": "2026-06-12T12:56:39.399306+00:00"
-  },
-  {
-    "title": "NOTICE REGARDING CONSENT ON THE PORTAL OF CONSORTIUM OF NLUs FOR CLAT UG 2026 AND CLAT PG 2026 FOR ADMISSION IN INTEGRATED BA-LLB, BBA-LLB, (CODE-121), LLM (CODE-112).",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260612832681679.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "5a6ac4908f170a08ca3060989ad57034",
-    "fetched_at": "2026-06-12T09:50:50.749959+00:00"
-  },
-  {
-    "title": "Schedule for BS-MS Program 2026",
-    "url": "https://hbtu.admissions.nic.in/document/schedule-for-bs-ms-program-2026/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "5386a9c565ad873f9aee4eeb7775e5ec",
-    "fetched_at": "2026-06-12T09:49:17.711176+00:00"
   }
 ]
