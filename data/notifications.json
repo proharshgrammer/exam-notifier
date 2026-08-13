@@ -1,5 +1,38 @@
 [
   {
+    "title": "EXTENSION OF DATE OF SUMBISSION OF ONLINE APPLICATION FORM FOR CUET IN (UG) PROG. FOR A.S:2026-27_dated-13.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813474309857.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1d049a3de0e52631d567e4aa0c9cc5c8",
+    "fetched_at": "2026-08-13T07:51:23.050970+00:00"
+  },
+  {
+    "title": "CCET Physical Reporting Schedule (After Spot Round)",
+    "url": "https://jacchd.admissions.nic.in/document/ccet-physical-reporting-schedule-after-spot-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "645548af7288ac4beafce52a84bd9c6e",
+    "fetched_at": "2026-08-13T07:51:06.933872+00:00"
+  },
+  {
+    "title": "Invitation: Independence Day Flag Hoisting Ceremony – 15th August 2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/R2189.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "ba7d6b955140ace5be0115baa730ac32",
+    "fetched_at": "2026-08-13T07:51:00.886786+00:00"
+  },
+  {
     "title": "Dr SSB UICET Chd Physical Reporting Schedule (After Spot Round)",
     "url": "https://jacchd.admissions.nic.in/document/dr-ssb-uicet-chd-physical-reporting-schedule-after-spot-round/",
     "exam": "JAC CHD",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "8880be2f612218e08c72c08e7ae94178",
     "fetched_at": "2026-06-11T09:56:48.031854+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1st COUNSELLING/ADMISSION M.PLAN(URP) (CODE-368) OFFLINE COUNSELLING A.S. 2026-27.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606112113558136.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "17e869db1674ba74b6a4056f7851d0f0",
-    "fetched_at": "2026-06-11T09:56:46.677137+00:00"
-  },
-  {
-    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS_dated-11.06.2026.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606111737540067.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "2ea722dc655a832a62a791f7cd0ff29c",
-    "fetched_at": "2026-06-11T09:56:44.216621+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260610212927.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9237c04f7e53eb2751bebf0b57744b38",
-    "fetched_at": "2026-06-10T17:42:25.365969+00:00"
   }
 ]
