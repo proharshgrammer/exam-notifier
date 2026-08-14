@@ -1,5 +1,49 @@
 [
   {
+    "title": "NOTICE PART ACADEMIC FEES PROG. Paramedical (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(Special Education) for the A.S:2026-27_dated-14.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814719549662.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "4a273e480743edadde744460869fd167",
+    "fetched_at": "2026-08-14T07:47:08.279077+00:00"
+  },
+  {
+    "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S:2026-27_dated-14.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141687224035.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "3884b2d720cb1a5efc96a8132ef8560b",
+    "fetched_at": "2026-08-14T07:47:06.763022+00:00"
+  },
+  {
+    "title": "CCA Physical Reporting Schedule (After Spot Round)",
+    "url": "https://jacchd.admissions.nic.in/document/cca-physical-reporting-schedule-after-spot-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "799b48e1514a9593102a71bdd3ba4411",
+    "fetched_at": "2026-08-14T07:46:51.359430+00:00"
+  },
+  {
+    "title": "Notice: Extension of Last Date for Submission of Academic Fee (July 2026 Session) up to 21.08.2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Scan_20260814.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "d924477dca8a46e8c74cdf2a1807194d",
+    "fetched_at": "2026-08-14T07:46:45.646560+00:00"
+  },
+  {
     "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101)/ MCA (CODE-105) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "b21541b1e806ab5d261a4a9c6beb9b61",
     "fetched_at": "2026-06-13T15:21:58.140502+00:00"
-  },
-  {
-    "title": "List of Required Documents",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/2026061365349988.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "28b0c2bad5f87c1f02d3ddb71a0a645d",
-    "fetched_at": "2026-06-13T15:21:55.907361+00:00"
-  },
-  {
-    "title": "Information Brochure",
-    "url": "https://jacchd.admissions.nic.in/document/information-brochure-4/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "da0d3264d1b71e1b8ac85a8b45770acb",
-    "fetched_at": "2026-06-13T13:10:59.590438+00:00"
-  },
-  {
-    "title": "NTA launches ‘Pariksha Karmayogi: Capacity-Building Programme for Examination Officials’ on the iGOT Karmayogi Bharat platform to strengthen supervision and invigilation for NTA examinations",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606131957554708.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "7d2b3e0744389ca850997783392d2950",
-    "fetched_at": "2026-06-13T13:06:16.763911+00:00"
-  },
-  {
-    "title": "PwD Status Verification Schedule",
-    "url": "https://josaa.nic.in/document/pwd-status-verification-schedule/",
-    "exam": "JoSAA",
-    "exam_id": "josaa",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://josaa.nic.in/",
-    "id": "468e49b515413acd352c0aa07469752d",
-    "fetched_at": "2026-06-13T05:08:24.631377+00:00"
   }
 ]
