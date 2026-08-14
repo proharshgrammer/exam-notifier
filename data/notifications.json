@@ -1,5 +1,27 @@
 [
   {
+    "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101)/ MCA (CODE-105) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "41e81bf1e720d3232204b3d132bc6f18",
+    "fetched_at": "2026-08-14T06:01:02.987904+00:00"
+  },
+  {
+    "title": "Click here For Engineering Vacant Seats at the Beginning of Round 3",
+    "url": "https://www.comedk.org/uploads/Engineering_Vacant_Seats_at_the_Beginning_of_Round-3.Notified_on_14.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "d1487221ba4f1ba8d2ea89c79c195597",
+    "fetched_at": "2026-08-14T06:00:33.308496+00:00"
+  },
+  {
     "title": "Tentative overall Merit of the Appicant for admission under Sports Quota for B.Tech Programme, B.Com(H), B.Tech.(BT), BA(ECO) BA(JMC) BA/BBA LLB, BBA, and B.Design Programme A.S:2026-27_dated-13.08.20",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131258038834.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://josaa.nic.in/",
     "id": "468e49b515413acd352c0aa07469752d",
     "fetched_at": "2026-06-13T05:08:24.631377+00:00"
-  },
-  {
-    "title": "Extension Notice regarding Declaration of OBC class for availing Reservation Under WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/202606121583821460.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "50c183ea107be0886d408ebc22ad7e1f",
-    "fetched_at": "2026-06-12T16:25:18.189491+00:00"
-  },
-  {
-    "title": "Documents Required at the Time of Physical Reporting for Document Verification",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260612451028637.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "c92bce46593bd11f9712c725628abd65",
-    "fetched_at": "2026-06-12T13:01:25.715382+00:00"
   }
 ]
