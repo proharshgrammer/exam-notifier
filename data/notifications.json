@@ -1,5 +1,38 @@
 [
   {
+    "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR MA(MC)/MA(ENG) and MA(ECO) through CET/CUET for the A.S:2026-27_dated-14.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814747984026.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "41578f26cc21f819a60e0740a7b33f1b",
+    "fetched_at": "2026-08-14T10:37:51.595190+00:00"
+  },
+  {
+    "title": "Schedule of 1st Counselling Bachelor of Optometry, CET CODE-169 FOR THE ADMISSION SESSION:2026-27_dated-14.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814950019947.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "cd3db0ca6434a1da9796179c71f658b9",
+    "fetched_at": "2026-08-14T10:37:50.254490+00:00"
+  },
+  {
+    "title": "Schedule of 1st Counselling POST GRADUATE DIPLOME IN REHABILIATION PSYCHOLOGY, CET CODE-167 for the A.S: 2026-27_dated-14.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141106870958.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d71ce846dbf25ed0920d55f7378c3f32",
+    "fetched_at": "2026-08-14T10:37:47.990553+00:00"
+  },
+  {
     "title": "UIET Chd Physical Reporting Schedule (After Spot Round)",
     "url": "https://jacchd.admissions.nic.in/document/uiet-chd-physical-reporting-schedule-after-spot-round/",
     "exam": "JAC CHD",
@@ -5465,38 +5498,5 @@
     "source_url": "https://exams.nta.nic.in/cuet-pg/",
     "id": "fea7e8ac54939453bf2dedf3c0eb6924",
     "fetched_at": "2026-06-14T10:27:21.323755+00:00"
-  },
-  {
-    "title": "Advisory and Instructions for the Candidates of the Common University Entrance Test CUET (PG) – 2026 – Reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/03/202603051558349022.pdf",
-    "exam": "CUET PG",
-    "exam_id": "cuet_pg",
-    "category": "Central University PG Entrance",
-    "source_label": "CUET PG Official",
-    "source_url": "https://exams.nta.nic.in/cuet-pg/",
-    "id": "f80414cdb6a605a94ff1bf4a12729ae8",
-    "fetched_at": "2026-06-14T10:27:18.712378+00:00"
-  },
-  {
-    "title": "Chd Adm Institutes Admission Details",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606141377157873.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "4c989c1c62dd0f608552001034b46bfd",
-    "fetched_at": "2026-06-14T06:51:09.272315+00:00"
-  },
-  {
-    "title": "Chd Adm Institutes Admission Details",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606131134421358.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "791e96a9fef7749b0baed1b27432749d",
-    "fetched_at": "2026-06-13T15:21:59.439074+00:00"
   }
 ]
