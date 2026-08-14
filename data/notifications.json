@@ -1,5 +1,16 @@
 [
   {
+    "title": "UIET Chd Physical Reporting Schedule (After Spot Round)",
+    "url": "https://jacchd.admissions.nic.in/document/uiet-chd-physical-reporting-schedule-after-spot-round/",
+    "exam": "JAC CHD",
+    "exam_id": "jac_chd",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacchd.admissions.nic.in/",
+    "id": "eaf5da131cf689f60620d9e1cd46ba11",
+    "fetched_at": "2026-08-14T09:14:41.682291+00:00"
+  },
+  {
     "title": "NOTICE PART ACADEMIC FEES PROG. Paramedical (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(Special Education) for the A.S:2026-27_dated-14.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814719549662.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "791e96a9fef7749b0baed1b27432749d",
     "fetched_at": "2026-06-13T15:21:59.439074+00:00"
-  },
-  {
-    "title": "PU Institutes Admission Details",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606131144800394.pdf",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "b21541b1e806ab5d261a4a9c6beb9b61",
-    "fetched_at": "2026-06-13T15:21:58.140502+00:00"
   }
 ]
