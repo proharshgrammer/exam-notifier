@@ -1,5 +1,27 @@
 [
   {
+    "title": "Engineering Cut Off Ranks after Round 2 Allotment. Notified on 07.08.2026",
+    "url": "https://comedk.org/uploads/Engineering-Cut-Off-Ranks-after-Round-2-Allotment-Notified-on-07.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "4a5dc139bb1a64002c84fce77264d5a5",
+    "fetched_at": "2026-08-17T11:57:16.218321+00:00"
+  },
+  {
+    "title": "Click here for Engineering Cut Off Ranks after Round 2 Allotment",
+    "url": "https://www.comedk.org/uploads/Engineering_Cut_Off_Ranks_after_Round_2_Allotment__Notified_on_07_08_2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "8aad399773e51e43fa0cc027b9ceec70",
+    "fetched_at": "2026-08-17T11:57:13.695245+00:00"
+  },
+  {
     "title": "NOTIFICATION FOR NEET UG 2026 QUALIFIED CANDIDATES FOR OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH REGISTRATION AND MANDATORY UPLOADING OF EDUCATIONAL TESTIMONIALS, RESERVED CATEGORY D",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817875294536.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "d11be8553e3c16b9668c21c779daa664",
     "fetched_at": "2026-06-17T07:39:15.891841+00:00"
-  },
-  {
-    "title": "INFORMATION AND INSTRUCTIONS FOR WEB-BASED COUNSELLING",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606172040099016.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "6d3dee049c35542b27a61c99160bbd08",
-    "fetched_at": "2026-06-17T07:38:57.835376+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260617081519.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "3252db35dabb7fa14ac1e30b9f6b8b34",
-    "fetched_at": "2026-06-17T07:34:52.091004+00:00"
   }
 ]
