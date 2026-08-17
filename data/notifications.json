@@ -1,5 +1,16 @@
 [
   {
+    "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR BA LLB/ BBA LLB PROG for the A.S:2026-27_dated-17.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817643332633.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "2a4e3737c5e79211c7d15c8f2a7de53b",
+    "fetched_at": "2026-08-17T10:39:07.965389+00:00"
+  },
+  {
     "title": "CUET MERIT LIST OF MA(ECONOMICS) CODE-162 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171355981140.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
     "id": "e43d724fcf41aa6209b0a7c3923a1c8b",
     "fetched_at": "2026-06-16T13:18:46.469635+00:00"
-  },
-  {
-    "title": "Instructions and Pattern of Examination for 2nd OJEE, 2026 (Basic_BSc.Nursing)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616118009370.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "cd27529a631874dbd0cb961eadf71f1d",
-    "fetched_at": "2026-06-16T08:33:17.280135+00:00"
   }
 ]
