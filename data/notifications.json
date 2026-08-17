@@ -1,5 +1,49 @@
 [
   {
+    "title": "CUET MERIT LIST OF MA(ECONOMICS) CODE-162 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171355981140.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "105e2e5c1e56c857d59c42d8d57d9218",
+    "fetched_at": "2026-08-17T08:52:49.623392+00:00"
+  },
+  {
+    "title": "CUET MERIT LIST OF MA(ENGLISH) CODE-113 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171701958181.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d6e16029a23161d4897f821f7514c917",
+    "fetched_at": "2026-08-17T08:52:48.325942+00:00"
+  },
+  {
+    "title": "CUET MERIT LIST OF MA(MASS COMMUNICATION) CODE-106 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171358324035.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "2041c3784b4d351d2b1063acae4d41b3",
+    "fetched_at": "2026-08-17T08:52:46.694849+00:00"
+  },
+  {
+    "title": "FINAL OPPORTUNITY FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF B.ARCH, PROG. (CODE-100) A.S: 2026-27_dated-17.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026081799329093.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a1de94fbb442172f953c60f84d2e4cc5",
+    "fetched_at": "2026-08-17T08:52:44.641522+00:00"
+  },
+  {
     "title": "Corrigendum regarding Schedule of Spot Round 2 B.Tech, BCA, B.COM and BBA/BBA-MBA integrated_dated-17.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171233683044.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "cd27529a631874dbd0cb961eadf71f1d",
     "fetched_at": "2026-06-16T08:33:17.280135+00:00"
-  },
-  {
-    "title": "Instructions and Pattern of Examination for 2nd OJEE, 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606161888862187.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "23b4bd895a5cef86757ea75ce18d635c",
-    "fetched_at": "2026-06-16T08:33:06.108656+00:00"
-  },
-  {
-    "title": "Notice for Online Application for 2nd/Special OJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "134f9ee9c33161f038f734cee8cd92fa",
-    "fetched_at": "2026-06-16T08:32:54.679057+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260616120254.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "88fb378f1c1c79314eb3b49896bd6ab6",
-    "fetched_at": "2026-06-16T08:28:30.121124+00:00"
-  },
-  {
-    "title": "Registration Portal Date Extension for M.Tech./M.Sc (Except CS/IT)",
-    "url": "https://www.mmmut.ac.in/pdf/RegPortalDateExtensionforMsc-M.TechCS-IT.pdf",
-    "exam": "MMMUT Counselling",
-    "exam_id": "mmmut",
-    "category": "Counselling",
-    "source_label": "MMMUT Main",
-    "source_url": "https://www.mmmut.ac.in/",
-    "id": "7869908dfd1861e0933086410176c324",
-    "fetched_at": "2026-06-15T23:22:16.524210+00:00"
   }
 ]
