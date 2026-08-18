@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260818202733.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "dbd029c159ff44b07793ad653bc6c2be",
+    "fetched_at": "2026-08-18T15:35:12.781500+00:00"
+  },
+  {
     "title": "Notification – Rules Regarding the Conduct of Special/On-Demand Examinations for Candidates Appearing for Re-Examination",
     "url": "https://www.cuh.ac.in/admin/uploads/files/Notification-Rules for Special-On Demand Examination.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "a129243653717867abed117c7b30b1ae",
     "fetched_at": "2026-06-17T16:23:54.289309+00:00"
-  },
-  {
-    "title": "Downloading of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260617412348097.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "82be5425d90072e92a3643e67243846d",
-    "fetched_at": "2026-06-17T16:23:42.168581+00:00"
   }
 ]
