@@ -1,5 +1,38 @@
 [
   {
+    "title": "SCHEDULE OF 2nd COUNSELLING MASTER IN CLINICAL PSYCHOLOGY (CET CODE-166) ADMISSION SESSION: 2026-27_dated-18.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260818650161918.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "34bb44a32edb54e4cde68aebfe2a1acf",
+    "fetched_at": "2026-08-18T11:32:35.801999+00:00"
+  },
+  {
+    "title": "Click here for Engineering - Vacant Seats after Round 3 Allotment",
+    "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-after-Round-3-Allotment_Notified-on-18.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "800416e2dba328015840f39af658ceaf",
+    "fetched_at": "2026-08-18T11:32:06.259184+00:00"
+  },
+  {
+    "title": "Click here for Engineering- Cut-off Ranks after Round 3 Allotment",
+    "url": "https://www.comedk.org/uploads/Engineering-Cut-off-Ranks-after-Round-3-Allotment Notified-on-18.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "b94137fd5c4bab7cb2b7fa3b99725739",
+    "fetched_at": "2026-08-18T11:32:03.935593+00:00"
+  },
+  {
     "title": "Registration for University Yoga Team – Inter-University Competition 2026–27",
     "url": "https://www.cuh.ac.in/admin/uploads/files/University Yoga Team Registration Notice.pdf",
     "exam": "CU Haryana",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "500899bf0e105ea6cc50280d182acc03",
     "fetched_at": "2026-06-17T12:24:59.147174+00:00"
-  },
-  {
-    "title": "IIITD Round 1 Cut Off 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260617929808660.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "19f6237906cc411f5d7bad430ed04d51",
-    "fetched_at": "2026-06-17T07:39:19.931131+00:00"
-  },
-  {
-    "title": "DTU Round 1 Cut Off 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/202606172143622056.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "3d2186f26daeeac2690854e1e58eb8b2",
-    "fetched_at": "2026-06-17T07:39:18.596587+00:00"
-  },
-  {
-    "title": "DSEU Round 1 Cut Off 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260617850895539.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "2f203dde68795b21d63ecb0be63061e5",
-    "fetched_at": "2026-06-17T07:39:17.284263+00:00"
   }
 ]
