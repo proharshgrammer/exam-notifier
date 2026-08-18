@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for Architecture Vacant seats at the beginning of Round 2",
+    "url": "https://comedk.org/uploads/Architecture-Vacant-Seats-at-the-Beginning-of-Round-2.Notified on 18.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "75e4509307b2ca60ec4e14d7d931efc7",
+    "fetched_at": "2026-08-18T11:58:21.379842+00:00"
+  },
+  {
     "title": "SCHEDULE OF 2nd COUNSELLING MASTER IN CLINICAL PSYCHOLOGY (CET CODE-166) ADMISSION SESSION: 2026-27_dated-18.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260818650161918.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "c489c2c2d85cd6ea1ebddbe3fe9c5461",
     "fetched_at": "2026-06-17T16:23:36.546875+00:00"
-  },
-  {
-    "title": "Regarding Online Counselling Extended Schedule of Round 1 for the programmes notified Vide University’s Notification No. 34/2026 dated 10.06.2026 (except Code 128 LE B.Tech Diploma Holders).dated-17.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606171974419428.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "500899bf0e105ea6cc50280d182acc03",
-    "fetched_at": "2026-06-17T12:24:59.147174+00:00"
   }
 ]
