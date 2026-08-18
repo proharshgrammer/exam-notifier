@@ -1,5 +1,16 @@
 [
   {
+    "title": "Registration for University Yoga Team – Inter-University Competition 2026–27",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/University Yoga Team Registration Notice.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "912db19bd9ed4b45181dba84402b93b4",
+    "fetched_at": "2026-08-18T10:36:31.397682+00:00"
+  },
+  {
     "title": "Engineering Cut Off Ranks after Round 2 Allotment. Notified on 07.08.2026",
     "url": "https://comedk.org/uploads/Engineering-Cut-Off-Ranks-after-Round-2-Allotment-Notified-on-07.08.2026.pdf",
     "exam": "COMEDK",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "2f203dde68795b21d63ecb0be63061e5",
     "fetched_at": "2026-06-17T07:39:17.284263+00:00"
-  },
-  {
-    "title": "NSUT Round 1 Cut Off 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260617545513258.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "d11be8553e3c16b9668c21c779daa664",
-    "fetched_at": "2026-06-17T07:39:15.891841+00:00"
   }
 ]
