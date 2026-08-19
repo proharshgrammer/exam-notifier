@@ -1,5 +1,27 @@
 [
   {
+    "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819915289325.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6b5fe16ba22253bd7674dcc561886a0d",
+    "fetched_at": "2026-08-19T10:36:34.374198+00:00"
+  },
+  {
+    "title": "Fee Structure for PG Diploma in Bioinformatics at CEPS for A.S:2026-27_dated-19.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819598669037.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "60f75c11631b437f03b92f713b883107",
+    "fetched_at": "2026-08-19T10:36:32.311489+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260819144329.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "9b0fd79ca35f36002706956df7f3ac0a",
     "fetched_at": "2026-06-19T07:40:16.836044+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260619111344.PDF",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "1be32e54d768dbde6a5ddeefa2045dbd",
-    "fetched_at": "2026-06-19T07:40:10.672188+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260619122302.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "5cb55f0dc5c43e100c87fa12f94045c8",
-    "fetched_at": "2026-06-19T07:40:08.175171+00:00"
   }
 ]
