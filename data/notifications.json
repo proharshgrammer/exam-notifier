@@ -1,5 +1,71 @@
 [
   {
+    "title": "NAAC SSR",
+    "url": "https://www.mmmut.ac.in/pdf/SSR_FINAL_19.08.2021.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "0447b13825a23ca628c79908abe0c4c6",
+    "fetched_at": "2026-08-19T05:38:48.905713+00:00"
+  },
+  {
+    "title": "Malaviya Alumni Association (Revised)",
+    "url": "https://www.mmmut.ac.in/pdf/Bylaws-BOM-2025.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "a1e9cdd7a8ac5da242f32e3a9b68f90d",
+    "fetched_at": "2026-08-19T05:38:47.607497+00:00"
+  },
+  {
+    "title": "NOC (No Objection Certificate)",
+    "url": "https://www.mmmut.ac.in/pdf/No_Objection_Certificate_MMMUT.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "7f4ffb1bfdfa87cdbd6682d1af63515c",
+    "fetched_at": "2026-08-19T05:38:46.372645+00:00"
+  },
+  {
+    "title": "Contact Us",
+    "url": "https://www.mmmut.ac.in/pdf/Contact_list_TnP_2026-27.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "c52950dfb90db4f2cbd92bae5b98d131",
+    "fetched_at": "2026-08-19T05:38:44.703462+00:00"
+  },
+  {
+    "title": "Placement Brochure",
+    "url": "https://www.mmmut.ac.in/Pdf/PlacementBrochure2026-27.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "58fd22a8fddc9acc06a0be96dc3c52fa",
+    "fetched_at": "2026-08-19T05:38:43.313129+00:00"
+  },
+  {
+    "title": "Frequently Asked Questions (FAQs)Round 3 Allotment",
+    "url": "https://www.comedk.org/uploads/FREQUENTLY_ASKED_QUESTIONS_ROUND_3_ALLOTMENT.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "4d586a257b033b536b992570c9073993",
+    "fetched_at": "2026-08-19T05:37:43.276043+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260818202733.pdf",
     "exam": "JEE Mains",
@@ -5432,71 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "73627b0ef23bc16381ae825fe3a06647",
     "fetched_at": "2026-06-18T15:35:18.628033+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260618201747.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "5fc01e1a4327605bc057bbc995467adb",
-    "fetched_at": "2026-06-18T15:35:15.673792+00:00"
-  },
-  {
-    "title": "IGDTU Round 1 Cut Off 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/202606181840071240.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "cf97549470a902a5b004f9b295e7edd8",
-    "fetched_at": "2026-06-18T11:39:37.031529+00:00"
-  },
-  {
-    "title": "REVISED COUNSELLING BROCHURE, OJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606181156372451.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "e95ce40ef3ea23205ba477f6816e54c2",
-    "fetched_at": "2026-06-18T11:39:19.372983+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260618113547.PDF",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "251059d452a90618ea1b5b028f77377c",
-    "fetched_at": "2026-06-18T07:16:13.361918+00:00"
-  },
-  {
-    "title": "Notice Regarding Final Answer Key of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/20260617347225058.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "4f606e2cc1c64d44c77a63ff3bd2ebe0",
-    "fetched_at": "2026-06-17T16:23:55.874251+00:00"
-  },
-  {
-    "title": "Notice Regarding Publication of Result of WBJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/06/20260617101679707.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "a129243653717867abed117c7b30b1ae",
-    "fetched_at": "2026-06-17T16:23:54.289309+00:00"
   }
 ]
