@@ -1,5 +1,16 @@
 [
   {
+    "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING for M.Ed (SE) (CET CODE-612) A.S: 2026-27_dated-19.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819966314780.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "71e650efa1dba148f7ba2feb30e2779b",
+    "fetched_at": "2026-08-19T08:45:36.216352+00:00"
+  },
+  {
     "title": "Click here for Architecture - Cut-Off Ranks after Round 1 Allotment",
     "url": "https://comedk.org/uploads/Architecture-Cut_off_Ranks_after_Round-1_Allotment_Notified_on_12.08.2026.pdf",
     "exam": "COMEDK",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "8ed12d2a1ba9360d6c9bb768fae7e64a",
     "fetched_at": "2026-06-18T15:35:24.361225+00:00"
-  },
-  {
-    "title": "Advisory for Biometric Verification and Exception Protocol for NEET (UG)-2026 Re Examination- reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260618620515611.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "ed71c2fd364192e6910a58d45fe11636",
-    "fetched_at": "2026-06-18T15:35:22.911820+00:00"
   }
 ]
