@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for Architecture - Cut-Off Ranks after Round 1 Allotment",
+    "url": "https://comedk.org/uploads/Architecture-Cut_off_Ranks_after_Round-1_Allotment_Notified_on_12.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "b2c0f97cbcc9d1aabfec49527a4be6b7",
+    "fetched_at": "2026-08-19T06:54:16.892605+00:00"
+  },
+  {
     "title": "NAAC SSR",
     "url": "https://www.mmmut.ac.in/pdf/SSR_FINAL_19.08.2021.pdf",
     "exam": "MMMUT Counselling",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "ed71c2fd364192e6910a58d45fe11636",
     "fetched_at": "2026-06-18T15:35:22.911820+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260618184532.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "73627b0ef23bc16381ae825fe3a06647",
-    "fetched_at": "2026-06-18T15:35:18.628033+00:00"
   }
 ]
