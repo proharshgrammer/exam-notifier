@@ -1,5 +1,27 @@
 [
   {
+    "title": "Click here for Architecture Vacant seats after Round 2 Allotment",
+    "url": "https://comedk.org/uploads/Architecture_Vacant_Seats_afte_Round-2_Allotmen_Notified_on _20.08.2026.PDF",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "8cf257dee47c4ee127c29adb0f7127ed",
+    "fetched_at": "2026-08-20T09:41:35.762563+00:00"
+  },
+  {
+    "title": "Click here for Architecture Cut-off Ranks after Round 2 Allotment",
+    "url": "https://comedk.org/uploads/Architecture-Cut-off-Ranks-After-Round-2-Allotment_Notified-on-20.08.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "e6f0dfdd130142b4dadc083ef1fc0beb",
+    "fetched_at": "2026-08-20T09:41:33.525390+00:00"
+  },
+  {
     "title": "Revised CUET Merit for B.TECH (Code-131) Academic Session 2026-27_dated-20.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201434081221.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "ef8861849ba0f880896b09b7fe57e37e",
     "fetched_at": "2026-06-19T12:16:09.081811+00:00"
-  },
-  {
-    "title": "DISPLAY OF FIRST COUNSELLING SCHEDULE FOR VARIOUS PROGRAMMES (FOR WHICH OFFLINE COUNSELLING WILL BE CARRIED OUT) _dated-19.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619247440051.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "0e0d5ea3004d16935d1b13f77d994de1",
-    "fetched_at": "2026-06-19T12:16:07.693670+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.DESIGN (CODE-600) B.DESIGN (CODE-613) M.DESIGN (CODE-611) A.S:2026-27 dated-19.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619441274871.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "fa5f38fe52ecc446feb46cf8e6682ec9",
-    "fetched_at": "2026-06-19T12:16:06.276352+00:00"
   }
 ]
