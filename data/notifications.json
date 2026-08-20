@@ -1,5 +1,16 @@
 [
   {
+    "title": "Revised CUET Merit for B.TECH (Code-131) Academic Session 2026-27_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201434081221.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "2eff032f1a075b82f05c6c942cba1e5d",
+    "fetched_at": "2026-08-20T07:47:33.018254+00:00"
+  },
+  {
     "title": "PHYSICAL REPORTING IN BA (JMC) (Code-126) and BA (ENG) CODE-184_dated-20.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260820438164291.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "fa5f38fe52ecc446feb46cf8e6682ec9",
     "fetched_at": "2026-06-19T12:16:06.276352+00:00"
-  },
-  {
-    "title": "SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 PRG LE B.TECH DIPLOMA CODE-128 FOR A.S. 2026-27.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260619859958877.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "7a9af3801bc808c0525cca17e6ca9a1a",
-    "fetched_at": "2026-06-19T12:16:04.616091+00:00"
   }
 ]
