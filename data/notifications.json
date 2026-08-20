@@ -1,5 +1,38 @@
 [
   {
+    "title": "PHYSICAL REPORTING IN BA (JMC) (Code-126) and BA (ENG) CODE-184_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260820438164291.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "3e9898c31dc22c3397c4067a7221dbc4",
+    "fetched_at": "2026-08-20T06:56:28.964533+00:00"
+  },
+  {
+    "title": "Revised CUET Merit for B.Com (H) Academic Session 2026-27_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201721822092.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0551e233b391504b9936b128af059f70",
+    "fetched_at": "2026-08-20T06:56:27.748770+00:00"
+  },
+  {
+    "title": "Revised CUET Merit for BBA (Code-125) Academic Session 2026-27_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201335110113.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "759b8fe691fbc1391f26b062feb9c799",
+    "fetched_at": "2026-08-20T06:56:25.619888+00:00"
+  },
+  {
     "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201705413711.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "7a9af3801bc808c0525cca17e6ca9a1a",
     "fetched_at": "2026-06-19T12:16:04.616091+00:00"
-  },
-  {
-    "title": "National Testing Agency (NTA) – Official WhatsApp Updates for NEET (UG) 2026 Re- Examination",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619457888100.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "16f3bd14d4dea042df09cdfe434da48b",
-    "fetched_at": "2026-06-19T12:11:20.355333+00:00"
-  },
-  {
-    "title": "NTA Fully Prepared for Smooth and Secure Conduct of NEET (UG) 2026 Re-Examination on 21 June 2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619440433404.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "9e3884741224d3e0c1ff8938d3eed8fb",
-    "fetched_at": "2026-06-19T12:11:18.911844+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260619163804.PDF",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "33f93bf2deca1a93ccdc62d743f0a804",
-    "fetched_at": "2026-06-19T12:11:14.758134+00:00"
   }
 ]
