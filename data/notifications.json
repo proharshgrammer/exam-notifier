@@ -1,5 +1,16 @@
 [
   {
+    "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201705413711.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "bca424356d287063f235cfe679324f36",
+    "fetched_at": "2026-08-20T05:38:24.284234+00:00"
+  },
+  {
     "title": "EXTENDED OPEN HOUSE -LLB (3 YEAR) (CET CODE 238): ADMISSION THROUGH CET AND CUET_dated-19.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608191036305141.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "33f93bf2deca1a93ccdc62d743f0a804",
     "fetched_at": "2026-06-19T12:11:14.758134+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260619163856.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "6a8fb2ff97cb6c526eeef2d7dfce06a4",
-    "fetched_at": "2026-06-19T12:11:12.339904+00:00"
   }
 ]
