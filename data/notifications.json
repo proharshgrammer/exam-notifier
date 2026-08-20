@@ -1,5 +1,27 @@
 [
   {
+    "title": "REVISED CUET MERIT LIST FOR BCA PRG. CODE 114 FOR THE A.S.2026-27_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201063639556.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b1ea5515f2dc5eefd161cf8ce5fbcbfe",
+    "fetched_at": "2026-08-20T13:04:47.462950+00:00"
+  },
+  {
+    "title": "NOTICE REGARDING LLB (3 YEARS) (CET CODE 238): ADMISSION THROUGH CUET (PG)_dated-20.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608202091098939.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "59f25747dc93f6dc6a61110ac6238c58",
+    "fetched_at": "2026-08-20T13:04:45.586340+00:00"
+  },
+  {
     "title": "Click here for Architecture Vacant seats after Round 2 Allotment",
     "url": "https://comedk.org/uploads/Architecture_Vacant_Seats_afte_Round-2_Allotmen_Notified_on _20.08.2026.PDF",
     "exam": "COMEDK",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "67cbddcd80cccfc2cbecd0516d294172",
     "fetched_at": "2026-06-20T12:03:26.631444+00:00"
-  },
-  {
-    "title": "NRI and Kashmiri Migrants Counselling 2026 Notification",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/0ce9d84c9ae5e8206414b29a2456d237f68fe11da281243deb5c1ede5b80adea178186315910_admission_docs.pdf/10",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "65dc7ff8b35b708ca36576693ab153e2",
-    "fetched_at": "2026-06-19T15:52:49.251529+00:00"
-  },
-  {
-    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS M.PHARM (CODE-189) D.PHARM (CODE-190)_dated-19.06.2026.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606191039931123.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "ef8861849ba0f880896b09b7fe57e37e",
-    "fetched_at": "2026-06-19T12:16:09.081811+00:00"
   }
 ]
