@@ -1,5 +1,16 @@
 [
   {
+    "title": "EXTENSION OF DATE FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF PROG. B.ARCH (CODE-100) A.S.2026-27_dated-21.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821635964341.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7ed43ddab734049689ba672e73dfdcd3",
+    "fetched_at": "2026-08-21T06:03:12.769487+00:00"
+  },
+  {
     "title": "REVISED CUET MERIT LIST FOR BCA PRG. CODE 114 FOR THE A.S.2026-27_dated-20.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201063639556.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "dd18e8f969759c8397e522d1d5d499d5",
     "fetched_at": "2026-06-20T12:03:29.146983+00:00"
-  },
-  {
-    "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "67cbddcd80cccfc2cbecd0516d294172",
-    "fetched_at": "2026-06-20T12:03:26.631444+00:00"
   }
 ]
