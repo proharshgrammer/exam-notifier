@@ -1,5 +1,16 @@
 [
   {
+    "title": "SPOT ROUND 3(OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/B.COM(H)/ LE B.TECH, BA ENG and BA ECO PROG. Through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-2",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821805870161.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "66534366913e55fbbe400e75a05d9628",
+    "fetched_at": "2026-08-21T11:02:25.753247+00:00"
+  },
+  {
     "title": "CUET MERIT LIST FOR B.A (ECO) PRG CODE 197 FOR THE A.S.2026-27_dated-21.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821965059559.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "6a77415b88b96a735eeeda98c9530174",
     "fetched_at": "2026-06-20T15:59:43.141594+00:00"
-  },
-  {
-    "title": "Advisory for candidates, regarding availing the facility of Compensatory Time during NEET (UG) 2026 Examination, scheduled on 21 June 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260620235002385.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "691993ba01783f264ab89910d13fc9fe",
-    "fetched_at": "2026-06-20T15:59:40.122412+00:00"
   }
 ]
