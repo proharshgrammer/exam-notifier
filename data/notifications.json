@@ -1,5 +1,27 @@
 [
   {
+    "title": "Withholding and Rechecking of the Result of Spot Round 2 (Online) for the programmes BCA/BBA/B.TECH/B.COM/LLB_dated-22.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608222033037861.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7cf6f5cf181bccf2fc6fcb48c3f17d39",
+    "fetched_at": "2026-08-22T10:37:31.916425+00:00"
+  },
+  {
+    "title": "Schedule for Spot Round 3(Offline) counselling vide Notification No. 205/2026; F.No. IPU-7DI(Academic)/Offline Counselling/2026/2794 dated 21.08.2026 Stands Withdrawn_dated-22.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026082282074452.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "bdc5407470f50d320ca4ee25c52fc388",
+    "fetched_at": "2026-08-22T10:37:29.946484+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260822145116.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "0dfebd803b65d2e207aa9414bcee134c",
     "fetched_at": "2026-06-22T14:49:19.485376+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-srmjeee-ug-phase-2-e-counselling-2026.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "bcea51e000d7caaddcc4923554ed3c71",
-    "fetched_at": "2026-06-22T14:48:54.682297+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260622151619.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "4dd7d1a96dd910f06174e8479c535eea",
-    "fetched_at": "2026-06-22T14:44:51.857742+00:00"
   }
 ]
