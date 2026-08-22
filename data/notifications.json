@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221176903093.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "2daef4c10287f411f6c455e3d3da2b34",
+    "fetched_at": "2026-08-22T14:55:40.144340+00:00"
+  },
+  {
     "title": "SCHEDULE FOR SPOT ROUND 3 (OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/ B.COM(H)/ LE BTECH/ BA (ENG) and BA (ECO) PROG. through NLT/CET/CUET for the A.S:2026-27_dated-22.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221428135421.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "9239a8b501760c86c41a8cbc31cfdf49",
     "fetched_at": "2026-06-22T14:49:23.513912+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING BS (PACKAGING TECHNOLOGY) (CET CODE-136) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606221369254592.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "0277e2371fc805b9ab99365e0da78741",
-    "fetched_at": "2026-06-22T14:49:22.198754+00:00"
   }
 ]
