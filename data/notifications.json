@@ -1,5 +1,16 @@
 [
   {
+    "title": "EXTENSION OF LAST DATE M.TECH(IBT) (CODE-151) SUBMISSION OF ONLINE APPLICATION FORMS A.S:2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260822696074046.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "09b2bcdd7084f5cf7d0a3f12ccf337ef",
+    "fetched_at": "2026-08-22T05:35:32.309651+00:00"
+  },
+  {
     "title": "Extended SCHEDULE FOR SPOT ROUND 2 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S: 2026-27_dated-20.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821305588340.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "93ea0ce0b4755bfb21763b3a08ef5e3c",
     "fetched_at": "2026-06-22T08:43:53.694839+00:00"
-  },
-  {
-    "title": "Final Answer Keys for CUET (UG) – 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/202606211155292375.pdf",
-    "exam": "CUET UG",
-    "exam_id": "cuet_ug",
-    "category": "Central University Entrance",
-    "source_label": "CUET UG Official",
-    "source_url": "https://cuet.nta.nic.in/",
-    "id": "69fc8de81e2e443af09b1792a7d6f4c7",
-    "fetched_at": "2026-06-21T14:29:15.088779+00:00"
   }
 ]
