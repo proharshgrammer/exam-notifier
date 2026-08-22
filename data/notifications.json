@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260822145116.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "a695e4b5be98a5a2cd5d4141750281fc",
+    "fetched_at": "2026-08-22T09:30:58.404306+00:00"
+  },
+  {
     "title": "EXTENSION OF LAST DATE M.TECH(IBT) (CODE-151) SUBMISSION OF ONLINE APPLICATION FORMS A.S:2026.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260822696074046.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "4dd7d1a96dd910f06174e8479c535eea",
     "fetched_at": "2026-06-22T14:44:51.857742+00:00"
-  },
-  {
-    "title": "Click here for the Architecture notification",
-    "url": "https://comedk.org/uploads/NOTIFICATION-ARCHITECTURE-2026-COUNSELLING-PROCESS-NOTIFIED-ON-22-JUNE-2026%20final.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "93ea0ce0b4755bfb21763b3a08ef5e3c",
-    "fetched_at": "2026-06-22T08:43:53.694839+00:00"
   }
 ]
