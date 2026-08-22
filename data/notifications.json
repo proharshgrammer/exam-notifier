@@ -1,5 +1,27 @@
 [
   {
+    "title": "SCHEDULE FOR SPOT ROUND 3 (OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/ B.COM(H)/ LE BTECH/ BA (ENG) and BA (ECO) PROG. through NLT/CET/CUET for the A.S:2026-27_dated-22.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221428135421.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8da2eecf878c07cd0835a317800e9fa0",
+    "fetched_at": "2026-08-22T14:31:46.303193+00:00"
+  },
+  {
+    "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221354867440.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1c349fbd90ec007e8cd6db6e1a7d49a3",
+    "fetched_at": "2026-08-22T14:31:44.284619+00:00"
+  },
+  {
     "title": "Withholding and Rechecking of the Result of Spot Round 2 (Online) for the programmes BCA/BBA/B.TECH/B.COM/LLB_dated-22.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608222033037861.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "0277e2371fc805b9ab99365e0da78741",
     "fetched_at": "2026-06-22T14:49:22.198754+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING MS (PACKAGING TECHNOLOGY) (CET CODE-604) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606221647782852.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "e83fedc99012e7119b1dcdd004659a59",
-    "fetched_at": "2026-06-22T14:49:20.910085+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING BHMCT (CET CODE-127) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260622774114457.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "0dfebd803b65d2e207aa9414bcee134c",
-    "fetched_at": "2026-06-22T14:49:19.485376+00:00"
   }
 ]
