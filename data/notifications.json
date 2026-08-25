@@ -1,5 +1,27 @@
 [
   {
+    "title": "DTU updated vacancy for GENERAL Category for Special Spot Round 25.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260825429522940.pdf",
+    "exam": "JAC Delhi",
+    "exam_id": "jac_delhi",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://jacdelhi.admissions.nic.in/",
+    "id": "e96b9ad8be26ee9877f06404e38f11fe",
+    "fetched_at": "2026-08-25T07:05:49.750618+00:00"
+  },
+  {
+    "title": "Notice Regarding Submission of Academic Fee for July 2026 Semester with Late Fee",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Finance-1193.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "41a0b844445acef5e11f7a25ed375827",
+    "fetched_at": "2026-08-25T07:03:01.993880+00:00"
+  },
+  {
     "title": "GUIDELINES FOR 3RD INTERNAL SLIDING FOR B.TECH. PROGRAMME 2026-27",
     "url": "https://hbtu.admissions.nic.in/document/guidelines-for-3rd-internal-sliding-for-b-tech-programme-2026-27/",
     "exam": "HBTU Counselling",
@@ -5476,27 +5498,5 @@
     "source_url": "https://cuet.nta.nic.in/",
     "id": "172ae73c6494ad2d2f19835928c9ab6a",
     "fetched_at": "2026-06-23T10:11:12.780095+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260623135541.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "868efa3a51381108a4fe92de46fa2511",
-    "fetched_at": "2026-06-23T10:11:02.912819+00:00"
-  },
-  {
-    "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "968fef8831cfe5fc8233616e7c3547d4",
-    "fetched_at": "2026-06-23T06:15:26.063327+00:00"
   }
 ]
