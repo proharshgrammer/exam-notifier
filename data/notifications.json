@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extension of Last Date for Admission to Engineering Courses for the Session 2026-27 Diploma(Pharmacy): The 1st Online Centralised Counselling for the Diploma Pharmacy course has been temporarily kept on hold till further orders. A revised schedule will be published shortly. Regarding Notice for the seats reserved for Haryana State in Diploma in Printing Technology at Northern Regional Institute of Printing Technology, Tallarganj, Allahabad, (UP) for the session 2026-27 Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account).",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Public Notice 25-08-2026.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "a06c2d3ec7e82d529e94462a8eaeda0a",
+    "fetched_at": "2026-08-26T04:19:33.775465+00:00"
+  },
+  {
     "title": "CUET MERIT LIST FOR BA(JMC) PRG. CODE-126 FOR THE A.S. 2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608251800172054.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "177fd7289aa639b65ca24030260ba0a1",
     "fetched_at": "2026-06-24T13:30:12.684673+00:00"
-  },
-  {
-    "title": "NOTIFICATION FOR PROG. CODE 112(CLAT PG 2026) MASTER OF LAW (LL.M) 1 YEAR DEBARRING OF CANDIDATURE FROM ROUND 01 COUNSELLING/ALLOTMENT OF SEAT ON ACCOUNT OF NON VALIDATION OF CLAT PG 2026 RANK.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606241571181797.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "f24064a8f70a35368b15e7351707b436",
-    "fetched_at": "2026-06-24T13:30:10.380121+00:00"
   }
 ]
