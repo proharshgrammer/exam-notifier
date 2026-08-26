@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for Engineering - Vacant Seats at the Beginning of Round 4",
+    "url": "https://www.comedk.org/uploads/Engineering_Vacant_Seats_at_the_Beginning_of_Round_4__Notified_on_26_08_2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "a778316172dd009b92c41a97ee8e0293",
+    "fetched_at": "2026-08-26T11:09:32.822956+00:00"
+  },
+  {
     "title": "Vacancy Position of B.Tech (Code: 131) as on 26/08/2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260826392004231.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "7336479429fafd75a7a9ef5da2e350b4",
     "fetched_at": "2026-06-25T09:57:10.399378+00:00"
-  },
-  {
-    "title": "MERIT LIST FOR POST BASIC B.SC (NURSING) (CODE-188) ACADEMIC SESSION:2026-27 _dated-25.06.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625117350291.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1fbc7077716a6810ffd7505c22296ef2",
-    "fetched_at": "2026-06-25T09:57:08.886802+00:00"
   }
 ]
