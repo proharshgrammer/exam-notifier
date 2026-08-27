@@ -1,5 +1,38 @@
 [
   {
+    "title": "Tentative Vancant Seat BA(ECO)_197 ACADEMIC SESSION 2026-27_dated-27.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271551428229.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7c2a61f5196cf251a9550705c5e198c6",
+    "fetched_at": "2026-08-27T21:12:58.723362+00:00"
+  },
+  {
+    "title": "B.SC(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH RAGISTRATION A.S:2026-27_dated-27.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271533639425.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f49c5553be65288acb25adaf0ada6f5a",
+    "fetched_at": "2026-08-27T21:12:57.026282+00:00"
+  },
+  {
+    "title": "WBJEE 2026 Decentralised counselling Notification",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/202608271737381460.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "15c361184b1fb3a128f4edd2b02b5c5b",
+    "fetched_at": "2026-08-27T21:07:12.622072+00:00"
+  },
+  {
     "title": "PROVISIONAL SEAT ALLOTMENT OF CANDIDATES IN PROG. MBBS (CODE-103) IN ROUND 01 ONLINE COUNSELLING BY GGSIP UNIVERSITY_2026-27_dated-27.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271495127589.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "072dd70b3ed78577f7ae81dc8b9dd380",
     "fetched_at": "2026-06-25T15:24:12.270606+00:00"
-  },
-  {
-    "title": ": NRI and Kashmiri Migrants Counselling 2026 Notification",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/030cbc22bf0ccb8af364e83f7d7240f80c4b800b120ff3b36bf000d7e6c4d07217823895979_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "d140a2037ef2c5b92e8935ddf7fb337d",
-    "fetched_at": "2026-06-25T12:29:09.124698+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260625162829.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "f6a07e73959f1971d4f8323dbd76405e",
-    "fetched_at": "2026-06-25T12:24:41.574307+00:00"
-  },
-  {
-    "title": "Tentative Key dates of Diploma Courses for the session 2026-27",
-    "url": "https://hstes.org.in/Documents/2026/Notifications/Keydates for Diploma Courses for the session 2026-27 as on 25.06.2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "b483c50328e4cc7942cdb3e5d49fd161",
-    "fetched_at": "2026-06-25T09:57:19.206063+00:00"
   }
 ]
