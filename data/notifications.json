@@ -1,5 +1,16 @@
 [
   {
+    "title": "📢 Notice- Postponement of Open Counselling Admissions 2026–27 New",
+    "url": "https://www.cuh.ac.in/btech_admission.aspx",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "064fdbc82cb56a7c8bbda656bee6a95f",
+    "fetched_at": "2026-08-29T08:53:47.683143+00:00"
+  },
+  {
     "title": "EXTENSION OF LAST DATE M.PHARM (CODE-189)/ D.PHARM (CODE-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281982528427.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "f7522396ed6823ce90212cdb3df88494",
     "fetched_at": "2026-06-29T10:14:26.040665+00:00"
-  },
-  {
-    "title": "Notice: Regarding Submission of Semester Fees July 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/Fees_Notice_1069.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "6f4e9af2664bc79e025a02978c3e77e8",
-    "fetched_at": "2026-06-29T10:13:06.561772+00:00"
   }
 ]
