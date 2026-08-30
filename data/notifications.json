@@ -1,5 +1,49 @@
 [
   {
+    "title": "B.Sc(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES FILLING OF CHOICES/ PREFERENCES FOLLOWED BY DECLARATION OF RESULT OF ROUND 01 A.S:2026-27_dated-30.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301396546105.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "80b2a41577bd43150f5618fd34b4f41e",
+    "fetched_at": "2026-08-30T14:02:23.298378+00:00"
+  },
+  {
+    "title": "MBBS (CODE-103) EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-30.08.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301850908555.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "78b24bc9c8325663310e7884e107d200",
+    "fetched_at": "2026-08-30T14:02:21.532620+00:00"
+  },
+  {
+    "title": "Public Notice Regarding Extension of Admission Deadline to all Professional Courses following AICTE Revised Academic Calendar 2026–27 .",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260830361033805.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "eac6cf1a1d7277bac8eda67da260a3d5",
+    "fetched_at": "2026-08-30T14:00:45.801232+00:00"
+  },
+  {
+    "title": "CORRIGENDUM on Common Online Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/202608302136378203.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "0e71fca362280e0a34d5f2d1e476be37",
+    "fetched_at": "2026-08-30T13:57:10.116067+00:00"
+  },
+  {
     "title": "Vacancy Position of LLM (Code-112) as on 30.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260830176944379.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5454,49 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "8eea9443fbb2240c3a404ad6af350602",
     "fetched_at": "2026-07-01T12:17:01.327783+00:00"
-  },
-  {
-    "title": "Conduct of NEET-PG 2026",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=aS91U2J0Q1NJSStyKzJROEFETS9UUT09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "47e5fe3801f4e54a8021b6ae76bd39cd",
-    "fetched_at": "2026-07-01T12:16:59.984347+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260701161241.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "95aec2446aa3c033b11d940582b8619d",
-    "fetched_at": "2026-07-01T12:14:39.012600+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260701161538.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "da2cfa5ed41c13f75863b262020545af",
-    "fetched_at": "2026-07-01T12:14:36.868154+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/instructions-manual-for-taking-srmjeeeug-2026-phase-3.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "1738de0b11bb0633ffb059e848f8be70",
-    "fetched_at": "2026-07-01T09:02:40.189265+00:00"
   }
 ]
