@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification regarding Revision of Fees for Special Examinations",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Notification regarding Revision of Fees for Special Examinations.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "db37a8a7e145fac0ba566940bc05f78c",
+    "fetched_at": "2026-08-31T08:27:40.085252+00:00"
+  },
+  {
     "title": "B.Sc(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES FILLING OF CHOICES/ PREFERENCES FOLLOWED BY DECLARATION OF RESULT OF ROUND 01 A.S:2026-27_dated-30.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301396546105.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://natboard.edu.in/",
     "id": "c5b9d8fa78597b97de5e29c4e5264762",
     "fetched_at": "2026-07-01T12:17:02.543267+00:00"
-  },
-  {
-    "title": "ADVISORY FOR NEET-PG 2026 APPLICANTS.",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=ZCtENDhZNjBuK1NVWlNNSFI2d0ZkZz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "8eea9443fbb2240c3a404ad6af350602",
-    "fetched_at": "2026-07-01T12:17:01.327783+00:00"
   }
 ]
