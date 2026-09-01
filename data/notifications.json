@@ -1,5 +1,27 @@
 [
   {
+    "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS OF DOCUMENTS FOR PREPARATION OF RANK/ MERIT FOR EXTENDED OPEN HOUSE OF OFFLINE COUNSELLING FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S:2026-27_dated-01.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260901991825441.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "8caf3685a71f9a90ce6f92231f816314",
+    "fetched_at": "2026-09-01T16:56:41.947739+00:00"
+  },
+  {
+    "title": "Revised Online Decentralized Counselling Notification – WBJEE 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/202609011701958807.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "4dfb971e41127c3f38d88412b4037b24",
+    "fetched_at": "2026-09-01T16:51:40.418447+00:00"
+  },
+  {
     "title": "CUET MERIT LIST FOR B.Ed (Code-122)_01.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260901216892503.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "3c16a1f0c1449fdf8d6227fa0f273e22",
     "fetched_at": "2026-07-01T15:19:57.941475+00:00"
-  },
-  {
-    "title": "LIST OF CANDIDATES APPLIED FOR ADMISSION UNDER SINGLE GIRL CHILD QUOTA USS A.S.2026-27_dated-01.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260701573630589.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "4d121835a6160d46000cf214a27be123",
-    "fetched_at": "2026-07-01T12:22:43.051172+00:00"
-  },
-  {
-    "title": "LIST OF CANDIDATES APPLIED FOR ADMISSION ORPHANED CHILDREN QUOTA USS A.S.2026-27_dated-01.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607012078580102.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "133270a2ab487c5bb38158cd3337da45",
-    "fetched_at": "2026-07-01T12:22:41.866758+00:00"
   }
 ]
