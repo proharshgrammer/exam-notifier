@@ -1,5 +1,38 @@
 [
   {
+    "title": "Submission of Examination Forms for Special Reappear Examinations – September 2026",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/SpecialReappearExaminations–September2026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "82925be6c51630bdde7426bb9b01be81",
+    "fetched_at": "2026-09-01T06:45:31.809209+00:00"
+  },
+  {
+    "title": "Click here for Engineering - Vacant Seats after Round 4 Allotment",
+    "url": "https://www.comedk.org/uploads/ENGINEERING-VACANT-SEATS-AFTER-ROUND-4-ALLOTMENT-Notified-on -01.09.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "0c4c7450c266660c68fa02780c4e7dc4",
+    "fetched_at": "2026-09-01T06:45:20.346143+00:00"
+  },
+  {
+    "title": "Click here for Engineering- Cut-off Ranks after Round 4 Allotment",
+    "url": "https://www.comedk.org/uploads/Engineering-Cut-Off-Ranks-after-Round-4-Allotment-Notified-on -01.09.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "aa332e046e6bc540492f5853721817ed",
+    "fetched_at": "2026-09-01T06:45:17.902410+00:00"
+  },
+  {
     "title": "Vacancy Position of LLB (CODE-121) as on 31.08.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260831297682808.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "b557f60808ce4f3acf611e327f9028bb",
     "fetched_at": "2026-07-01T12:17:20.389270+00:00"
-  },
-  {
-    "title": "Final opportunity to submit deficient documents - FMGE June 2026",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=bS9BRkFVUkovT3JDMDV2UCs4WHF0dz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "3ce8afdab1967a041c2d4ed4a8d7bc3d",
-    "fetched_at": "2026-07-01T12:17:09.524109+00:00"
-  },
-  {
-    "title": "Result of NBEMS Diploma Final Theory Examination June 2026 declared",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=eCtFejdENzRBL0FwZWtoNGVCaExSQT09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "fe251f1bb3d155447684acb70009622a",
-    "fetched_at": "2026-07-01T12:17:08.369570+00:00"
-  },
-  {
-    "title": "एनबीईएमएस में ग्रुप ए, बी और सी पदों के लिए सीधी भर्ती Direct Recruitment for Group A, B and C posts in NBEMS",
-    "url": "https://natboard.edu.in/viewNotice.php?NBE=UGRseW1ZVldCdUcxbmZZWWg1ZFMxdz09",
-    "exam": "NEET PG",
-    "exam_id": "neet_pg",
-    "category": "Medical PG Entrance",
-    "source_label": "NBE Official Website",
-    "source_url": "https://natboard.edu.in/",
-    "id": "6971ea06399b171835ac778c54c80cd3",
-    "fetched_at": "2026-07-01T12:17:07.170363+00:00"
   }
 ]
