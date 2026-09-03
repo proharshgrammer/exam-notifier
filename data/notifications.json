@@ -1,5 +1,27 @@
 [
   {
+    "title": "SCHEDULE OF 1st COUNSELLING/ MASTER OF PHYSIOTHERAPY (MPT: CET CODE 107) A.S: -2026-27_dated-03.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903126184758.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b7c5903dc0690319dc3fd3edc52a99b8",
+    "fetched_at": "2026-09-03T16:14:36.036505+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260903212505.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "83ebe016b9a4857d873d9c488665d659",
+    "fetched_at": "2026-09-03T16:06:46.417254+00:00"
+  },
+  {
     "title": "SCHEDULE OF 2nd COUNSELLING POST GRADUATE DIPLOMA IN REHABILIATION PSYCHOLOGY, CET CODE-167 ADMISSION FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-03.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903931069090.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "cb57d7d3b8c53f157b2c2ab49b6df70a",
     "fetched_at": "2026-07-03T10:45:38.414523+00:00"
-  },
-  {
-    "title": "KM Quota Counselling 2026 Shortlisted Candidates",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/e8190dda93497534a795bae94cb5ef4322bb54ef83827e66c9aa2d33ad8c94ab17830658099_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "911a3dfbf4009fe32267d0501f470caf",
-    "fetched_at": "2026-07-03T10:44:36.851817+00:00"
-  },
-  {
-    "title": "NRI Quota Counselling 2026 Shortlisted Candidates",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/a317cc1ba9e156d892bd14565a8ce56fcec0f172f25ab9a8e4e8bdb27711281a17830657819_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "ea0feff2c9b6008a401731b09a200e94",
-    "fetched_at": "2026-07-03T10:44:34.498826+00:00"
   }
 ]
