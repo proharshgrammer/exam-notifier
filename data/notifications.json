@@ -1,5 +1,16 @@
 [
   {
+    "title": "Revised Schedule of Decentralized Counselling of WBJEE -2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/20260903196039891.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "46762a6798d3987ff764326eb970ac7e",
+    "fetched_at": "2026-09-03T19:23:47.336116+00:00"
+  },
+  {
     "title": "SCHEDULE OF 1st COUNSELLING/ MASTER OF PHYSIOTHERAPY (MPT: CET CODE 107) A.S: -2026-27_dated-03.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903126184758.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "f907314f007c3f1d7774ec5e26900beb",
     "fetched_at": "2026-07-03T13:02:21.646878+00:00"
-  },
-  {
-    "title": "PHYSICAL REPORTING – OFFLINE COURSES : A.S: 2026-27_dated-03.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260703534479232.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "cb57d7d3b8c53f157b2c2ab49b6df70a",
-    "fetched_at": "2026-07-03T10:45:38.414523+00:00"
   }
 ]
