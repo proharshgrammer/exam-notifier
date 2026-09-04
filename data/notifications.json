@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260904214736.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "d0016ca257c970171b3ae4a9367a5909",
+    "fetched_at": "2026-09-04T16:59:10.183206+00:00"
+  },
+  {
     "title": "Click here for Engineering Vacant Seats After Round 4 Decision Making",
     "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-After-Round-4-Decision-Making.Notified-on-04.09.2026.pdf",
     "exam": "COMEDK",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "823c15b8bca3308ca9aa7ac700dfb5d9",
     "fetched_at": "2026-07-03T13:02:25.571934+00:00"
-  },
-  {
-    "title": "Sport Merit List-CCA",
-    "url": "https://jacchd.admissions.nic.in/document/sport-merit-list-cca/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "44fc1c9f4a08c57d8aaaa63804c726dc",
-    "fetched_at": "2026-07-03T13:02:24.059278+00:00"
   }
 ]
