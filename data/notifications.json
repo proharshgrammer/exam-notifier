@@ -1,5 +1,16 @@
 [
   {
+    "title": "Click here for Engineering Vacant Seats After Round 4 Decision Making",
+    "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-After-Round-4-Decision-Making.Notified-on-04.09.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "0dba2968c388d613d5f62b73b610a31a",
+    "fetched_at": "2026-09-04T13:24:12.551307+00:00"
+  },
+  {
     "title": "Revised Schedule of Decentralized Counselling of WBJEE -2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/20260903196039891.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "44fc1c9f4a08c57d8aaaa63804c726dc",
     "fetched_at": "2026-07-03T13:02:24.059278+00:00"
-  },
-  {
-    "title": "Sport Merit List-CCET",
-    "url": "https://jacchd.admissions.nic.in/document/sport-merit-list-ccet-2/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "f907314f007c3f1d7774ec5e26900beb",
-    "fetched_at": "2026-07-03T13:02:21.646878+00:00"
   }
 ]
