@@ -1,5 +1,16 @@
 [
   {
+    "title": "Seat Matrix (Engg. & Pharmacy) of Online Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/202609061815337480.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "a853cbbdddb63695d228816bed7219ff",
+    "fetched_at": "2026-09-06T16:04:50.430096+00:00"
+  },
+  {
     "title": "Visual Operational Summary of Decentralized Counselling of WBJEE-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/20260906956467222.pdf",
     "exam": "WBJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "5ec73388803684c212f4dd4e6d18f71b",
     "fetched_at": "2026-07-04T11:39:39.539284+00:00"
-  },
-  {
-    "title": "PU Defence Merit List",
-    "url": "https://jacchd.admissions.nic.in/document/pu-defence-merit-list/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "9a785ef20fdcc8e51c31503b37deaaa5",
-    "fetched_at": "2026-07-04T04:24:18.063204+00:00"
   }
 ]
