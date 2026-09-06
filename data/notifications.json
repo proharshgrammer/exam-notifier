@@ -1,5 +1,27 @@
 [
   {
+    "title": "Visual Operational Summary of Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/20260906956467222.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "415b8327a4b1a2d6a248b8fa7c4b6f71",
+    "fetched_at": "2026-09-06T12:43:27.305671+00:00"
+  },
+  {
+    "title": "Seat Matrix of Online Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/202609061929604579.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "eaaaa46b8a98a35f0eb4e2b31004b43c",
+    "fetched_at": "2026-09-06T12:43:24.459526+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260904214736.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "9a785ef20fdcc8e51c31503b37deaaa5",
     "fetched_at": "2026-07-04T04:24:18.063204+00:00"
-  },
-  {
-    "title": "CCA Defence Merit List",
-    "url": "https://jacchd.admissions.nic.in/document/cca-defence-merit-list-3/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "183b54ab7a9ca559df4f9c3c93ab6f3d",
-    "fetched_at": "2026-07-03T13:02:26.979838+00:00"
-  },
-  {
-    "title": "CCET Defence Merit List",
-    "url": "https://jacchd.admissions.nic.in/document/ccet-defence-merit-list/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "823c15b8bca3308ca9aa7ac700dfb5d9",
-    "fetched_at": "2026-07-03T13:02:25.571934+00:00"
   }
 ]
