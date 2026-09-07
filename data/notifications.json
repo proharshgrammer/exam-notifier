@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification Regarding Extension of last date to apply for Special Reappear Examinations",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/nsre092026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "848e7cbc7624360f8b1c9d95b8cf2f0f",
+    "fetched_at": "2026-09-07T18:24:58.558593+00:00"
+  },
+  {
     "title": "ROUND 02 MBBS (CODE-103) & B.Sc. (H) Nursing (CODE-115) (NEET UG 2026): 2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609071650161557.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "5b57f2e807ccf61c026341c6acbaef15",
     "fetched_at": "2026-07-06T16:38:37.815613+00:00"
-  },
-  {
-    "title": "तंत्रशिक्षण विभागांतर्गत येणाऱ्या अभ्यासक्रमांच्या केंद्रीय प्रवेश प्रक्रिया (CAP) नोंदणीसाठी महत्त्वाच्या सूचना",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/07/NOTICE-IMP.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "19ca7a7445640f36486a4969d6e2c93b",
-    "fetched_at": "2026-07-06T16:38:35.177955+00:00"
   }
 ]
