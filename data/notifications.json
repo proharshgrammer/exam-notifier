@@ -1,5 +1,38 @@
 [
   {
+    "title": "PROVISIONAL LIST OF CANDIDATES REPORTED AT THEIR ALLOTTED COLLEGE IN MBBS PROG. AFTER ROUND 01 COUNSELLING CONDUCTED BY GGSIP UNIVERSITY FOR THE A.S:2026-27_dated-08.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609081734220639.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "39265c2e8d14e33d9aa4a80351cd725c",
+    "fetched_at": "2026-09-08T14:28:27.339505+00:00"
+  },
+  {
+    "title": "TENTATIVE Web-BASED COUNSELLING SCHEDULE FOR B.Pharm, M.Pharm, LE Pharmacy COURSE FOR THE SESSION 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609081233351789.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "3469b52a3b6ccbd4f534013617a42bc7",
+    "fetched_at": "2026-09-08T14:27:57.836839+00:00"
+  },
+  {
+    "title": "Extension Notice of Registration Period for Phase-I of Decentralized Counselling of WBJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/09/20260908474148425.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "cc91842188a0045c55be6ed8d8fddb29",
+    "fetched_at": "2026-09-08T14:24:22.750935+00:00"
+  },
+  {
     "title": "LLM (Code-112) and BMS (Code-142) Final Opportunity for Offline Registration in respect of above programme (only for ‘not registered’ candidates)_dated-08.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609081883429454.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "21609d009d6b1f48fd58de579d9ee312",
     "fetched_at": "2026-07-08T09:31:57.817187+00:00"
-  },
-  {
-    "title": "SCHEDULE OFFLINE COUNSELLING “SINGLE GIRL CHILD QUOTA” ADMISSION 2026-27_dated_08.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081324151835.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "bedbc18f7ba6392a681afab0dafa1b0c",
-    "fetched_at": "2026-07-08T09:31:56.389203+00:00"
-  },
-  {
-    "title": "SCHEDULE OF 1st OFFLINE COUNSELLING/ ADMISSION FOR B.PHARM (CODE-133) FOR THE ACADEMIC SESSION:2026-27_dated-08.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708982879777.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "3335082795a6a73475bfb380b7cfaf4e",
-    "fetched_at": "2026-07-08T09:31:54.893424+00:00"
-  },
-  {
-    "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.Tech./B.Arch./B.Plan./Int.M.Sc. PROGRAMMES",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607081095807093.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "838312ad03613bfcdcc7e931aa21143a",
-    "fetched_at": "2026-07-08T09:31:27.909594+00:00"
   }
 ]
