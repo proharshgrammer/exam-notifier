@@ -1,5 +1,16 @@
 [
   {
+    "title": "Public Notice (08-09-2026)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2026/09/202609082124723834.pdf",
+    "exam": "CSAB",
+    "exam_id": "csab",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://csab.nic.in/",
+    "id": "f53089dbe65eae12394782895de519c6",
+    "fetched_at": "2026-09-08T18:07:34.594527+00:00"
+  },
+  {
     "title": "PROVISIONAL LIST OF CANDIDATES REPORTED AT THEIR ALLOTTED COLLEGE IN MBBS PROG. AFTER ROUND 01 COUNSELLING CONDUCTED BY GGSIP UNIVERSITY FOR THE A.S:2026-27_dated-08.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609081734220639.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "72cf425508467d6ec52dd57c574dc92d",
     "fetched_at": "2026-07-08T11:28:37.617074+00:00"
-  },
-  {
-    "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS FOR PREPARATION OF RANK/MERIT FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S: 2026-27_dated-08.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708628252788.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "21609d009d6b1f48fd58de579d9ee312",
-    "fetched_at": "2026-07-08T09:31:57.817187+00:00"
   }
 ]
