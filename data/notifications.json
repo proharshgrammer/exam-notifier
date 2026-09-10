@@ -1,5 +1,38 @@
 [
   {
+    "title": "CUET MERIT LIST FOR B.PHARM PRG. CODE-133 FOR THE A.S:2026-27_dated-10.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609101240802272.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "05882a5a2a29202dfb7b1ca18e0a1de7",
+    "fetched_at": "2026-09-10T16:13:03.798715+00:00"
+  },
+  {
+    "title": "Click here for Engineering Vacant Seats After Round 4 Decision Making",
+    "url": "https://www.comedk.org/uploads/Engineering_Vacant-Seats-After-Round-4-Decision-Making.Notified-on-04.09.2026.pdf",
+    "exam": "COMEDK",
+    "exam_id": "comedk",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.comedk.org/",
+    "id": "ee6426fcb9538ab33f05d86798fe8bd2",
+    "fetched_at": "2026-09-10T16:11:49.177166+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260910210851.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "681b17eab6f86b92c5c8ecf4bcf655c2",
+    "fetched_at": "2026-09-10T16:05:55.107776+00:00"
+  },
+  {
     "title": "Engagement of Chartered Accountant Firm for Maintaining the Accounts of HSTES Extension of Last Date for Admission to Engineering Courses for the Session 2026-27 Diploma(Pharmacy): The 1st Online Centralised Counselling for the Diploma Pharmacy course has been temporarily kept on hold till further orders. A revised schedule will be published shortly. Regarding Notice for the seats reserved for Haryana State in Diploma in Printing Technology at Northern Regional Institute of Printing Technology, Tallarganj, Allahabad, (UP) for the session 2026-27 Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account).",
     "url": "https://hstes.org.in/Documents/2023/Notifications/Engagement of Chartered Accountant Firm for.pdf",
     "exam": "HSTES",
@@ -5465,38 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "dcd7b2e933d5ef87c0c1495211558af8",
     "fetched_at": "2026-07-10T09:41:59.760112+00:00"
-  },
-  {
-    "title": "Know more",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srmjeee-ug-phase-3-scholarships-2026.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "6e96b04986b3c49f2f7b66d4692c92d2",
-    "fetched_at": "2026-07-10T05:43:00.850210+00:00"
-  },
-  {
-    "title": "Tentative Schedule for B Tech, M.Tech Integrated, B. Des Admissions UPTAC 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/9c4c0beff9712c8232f2d28274f779ef0e1eef86ad0d67b60736d4e405ef13a017836015469_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "db024d416c7333ac963ee442df5656de",
-    "fetched_at": "2026-07-09T15:45:23.525829+00:00"
-  },
-  {
-    "title": "Tentative Schedule for B Arch, BHMCT, BFAD, BFA, MBA (Integrated), MCA (Integrated), BBA, BCA, B. Voc, MBA, MC A& Lateral Entry of B.Tech, B.Pharm, MBA, MCA Admissions - UPTAC 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/96dc2d92b18b978ce7304165e7c15ad94660a999765ad6c7a798661ab0c4294917836089659_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "2ac789a521303f059b9453a4ef1a4f7d",
-    "fetched_at": "2026-07-09T15:45:20.722465+00:00"
   }
 ]
