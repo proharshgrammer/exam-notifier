@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260911000627.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "ed6ab2247892d09b77ecc991c7fee841",
+    "fetched_at": "2026-09-10T19:12:02.856758+00:00"
+  },
+  {
     "title": "CUET MERIT LIST FOR B.PHARM PRG. CODE-133 FOR THE A.S:2026-27_dated-10.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609101240802272.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "2921604f5c75b9ec06be723c5f22fc50",
     "fetched_at": "2026-07-10T09:42:02.064188+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260710141109.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "dcd7b2e933d5ef87c0c1495211558af8",
-    "fetched_at": "2026-07-10T09:41:59.760112+00:00"
   }
 ]
