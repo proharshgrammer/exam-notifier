@@ -1,5 +1,16 @@
 [
   {
+    "title": "📢 Notice- Open (On-Spot) Physical Counselling – Second Round for Admission against Vacant Seats in B.Tech First Year (2026-27)",
+    "url": "https://www.cuh.ac.in/btech_admission.aspx",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "9ddd579f647d1551bfb4305fa030b5f3",
+    "fetched_at": "2026-09-12T13:31:58.718623+00:00"
+  },
+  {
     "title": "विशेष कार्य अधिकारी व सहाय्यक विधी अधिकारी",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Notice_OSD_Asst_legal_officer.pdf",
     "exam": "MHT-CET",
@@ -5487,16 +5498,5 @@
     "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
     "id": "47797fe34e4790855b9fb081b32d4329",
     "fetched_at": "2026-07-10T09:45:45.680867+00:00"
-  },
-  {
-    "title": "Tentative Schedule for B Arch, BHMCT, BFAD, BFA, MBA (Integrated), MCA (Integrated), BBA, BCA, B. Voc, MBA, MC A& Lateral Entry of B.Tech, B.Pharm, MBA, MCA Admissions - UPTAC 2026",
-    "url": "https://samarth-admission.s3.ap-south-1.amazonaws.com/admission/2026/july/e8fad875fcdffe0a9d616719874dab4510f4b803034c6b6a13717192155b69ab17836612279_admission_docs.pdf/9",
-    "exam": "UPTAC (UPTU)",
-    "exam_id": "uptu",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
-    "id": "718812c569e6c39d00e4ee7afa29ad14",
-    "fetched_at": "2026-07-10T09:45:44.232914+00:00"
   }
 ]
