@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notice for Submission of Semester Fee (July 2026) with Late Fee",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/late-fee.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "2292130e5f060ca48689fda06fafb442",
+    "fetched_at": "2026-09-14T16:34:41.860125+00:00"
+  },
+  {
     "title": "GIBS Additional Sanctioned Intake for Admission in BCA (Code-114) for A.S.2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609141907582127.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "415e1e28321b3866fde8663fd4311375",
     "fetched_at": "2026-07-11T10:04:10.342792+00:00"
-  },
-  {
-    "title": "BA(LIBERAL ARTS)_451 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112004132551.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "dd9292066d799ef22bd4214bb2e895ae",
-    "fetched_at": "2026-07-11T10:04:08.975809+00:00"
   }
 ]
