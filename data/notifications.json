@@ -1,5 +1,38 @@
 [
   {
+    "title": "TENTATIVE VACANT SEATS FOR INTEGRATED LLB (CODE-121) FOR THE A.S.2026-27 AS ON 15.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151674812190.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "cd84157f3f116844362a3d390400c3b4",
+    "fetched_at": "2026-09-15T12:55:56.728957+00:00"
+  },
+  {
+    "title": "Schedule for Offline Counselling for BA (Eng), BA (Eco), Integrated BA/BBA LLB, LLM and B.Com Prog. A.S.2026-27_dated-15.09.2026.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260915272206838.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "daad96c6283b7f0c4237903daa87cf98",
+    "fetched_at": "2026-09-15T12:55:53.621484+00:00"
+  },
+  {
+    "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27_dated-15.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151604629451.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a1d30749e96367b6f07a88231ad3c776",
+    "fetched_at": "2026-09-15T12:55:50.446741+00:00"
+  },
+  {
     "title": "ROUND 02 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR THE PROG. MBBS (CODE-103) & B.Sc (H) NURSING (CODE-115) FOR A.S:2026-27_dated-14.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151350554664.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://uptac.samarth.edu.in/index.php/notifications/index",
     "id": "d837edc360b87e3f7fd0f403b3d36e29",
     "fetched_at": "2026-07-11T17:05:20.193997+00:00"
-  },
-  {
-    "title": "B.Sc(Packaging Technology)_136 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111266972408.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "45021584ec4f404d418118f92207f30b",
-    "fetched_at": "2026-07-11T11:18:40.304552+00:00"
-  },
-  {
-    "title": "M.Sc(Packaging Technology)_604 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711857844425.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "031fe2e9be87b10569c5071a5a8437e6",
-    "fetched_at": "2026-07-11T11:18:38.115426+00:00"
-  },
-  {
-    "title": "M.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111925493358.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "d1bedc339e819732c5887168326bd0c2",
-    "fetched_at": "2026-07-11T11:18:35.565215+00:00"
   }
 ]
