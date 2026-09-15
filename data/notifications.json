@@ -1,5 +1,38 @@
 [
   {
+    "title": "ROUND 02 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR THE PROG. MBBS (CODE-103) & B.Sc (H) NURSING (CODE-115) FOR A.S:2026-27_dated-14.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151350554664.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e15348a427220431e6ad3f153854941f",
+    "fetched_at": "2026-09-15T07:32:32.713785+00:00"
+  },
+  {
+    "title": "ROUND 01 BHMS (Code 154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCORE CARD FOLLOWED BY FILLING OF CHOICES/ PREFERENCES A.S:2026-27_dated-15.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609152078752573.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "118cee559b27faa1e136022626e1db74",
+    "fetched_at": "2026-09-15T07:32:31.020466+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260915113220.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "eee7144fdb5978aac11f8fd3a191bf8a",
+    "fetched_at": "2026-09-15T07:27:25.138230+00:00"
+  },
+  {
     "title": "Notice for Submission of Semester Fee (July 2026) with Late Fee",
     "url": "https://www.cuh.ac.in/admin/uploads/files/late-fee.pdf",
     "exam": "CU Haryana",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "d1bedc339e819732c5887168326bd0c2",
     "fetched_at": "2026-07-11T11:18:35.565215+00:00"
-  },
-  {
-    "title": "B.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111662117469.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "e0bf734008db6f257faae48a36231ec2",
-    "fetched_at": "2026-07-11T11:18:32.004486+00:00"
-  },
-  {
-    "title": "MA(ECONOMICS)_162 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711333423263.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "641597c8e963c7c74377858017d8df10",
-    "fetched_at": "2026-07-11T10:04:11.560082+00:00"
-  },
-  {
-    "title": "BHMCT_127 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711429636215.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "415e1e28321b3866fde8663fd4311375",
-    "fetched_at": "2026-07-11T10:04:10.342792+00:00"
   }
 ]
