@@ -1,5 +1,16 @@
 [
   {
+    "title": "Exam Calendar",
+    "url": "https://nta.ac.in/Download/Notice/Examcalendar.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "df49b41a4532db11371419fdae9a118c",
+    "fetched_at": "2026-09-16T21:33:52.860130+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20260916195948.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "7c4d6e05dbaae979ab9316b001aa55cf",
     "fetched_at": "2026-07-13T10:43:37.898139+00:00"
-  },
-  {
-    "title": "Schedule of 2nd Offline Counselling ADCGC (CET CODE-175) Admission Session:2026-27_dated-13.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131169075618.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "51ee9b26bafbcdf4d7e9207f65229ae5",
-    "fetched_at": "2026-07-13T07:29:18.346659+00:00"
   }
 ]
