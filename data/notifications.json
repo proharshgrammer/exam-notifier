@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260916195948.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "177c931b2d858bbb410a32ec78f3fb1c",
+    "fetched_at": "2026-09-16T18:20:13.862973+00:00"
+  },
+  {
+    "title": "Exam Calendar",
+    "url": "https://nta.ac.in/Download/Notice/Examcalender.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "cf875417549c937bdcb34b34b8ed8c32",
+    "fetched_at": "2026-09-16T18:20:10.777817+00:00"
+  },
+  {
     "title": "RANK/MERIT LIST OF THROUGH CUET 2026 FOR B.COM PRG. (CODE-146) 2026-27_dated-16.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916418673451.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "51ee9b26bafbcdf4d7e9207f65229ae5",
     "fetched_at": "2026-07-13T07:29:18.346659+00:00"
-  },
-  {
-    "title": "Schedule of 1st Counselling M.Ed. (Special Education) (ID) , CET CODE-612 Admission Session: 2026-27_dated-13.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131299994140.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "0d07f89dd8119f5416dfd241395a4937",
-    "fetched_at": "2026-07-13T07:29:17.127523+00:00"
-  },
-  {
-    "title": "Guidelines of B.Tech Biotech & B.Pharma",
-    "url": "https://hbtu.admissions.nic.in/document/updated-guidelines-of-b-tech-b-tech-bio-tcch-b-pharm-lateral-entry/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "3e4b28231daa7c413b2d0ac33a9e4162",
-    "fetched_at": "2026-07-13T07:29:09.966095+00:00"
   }
 ]
