@@ -1,5 +1,38 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260917231934.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b045495720dca2463a0d52be4c47a767",
+    "fetched_at": "2026-09-17T19:11:17.957092+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260917235839.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "eedd927d35b1ef3780693fabdce5aee8",
+    "fetched_at": "2026-09-17T19:11:16.507360+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260918000302.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "5126d1f005747ff3409dfe6240a29ec6",
+    "fetched_at": "2026-09-17T19:11:13.767929+00:00"
+  },
+  {
     "title": "BCOM(H) REFUND ORDER NO. 3934 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171307395396.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "86bd80ce0222c955006530bf860e8d4b",
     "fetched_at": "2026-07-14T12:52:49.142998+00:00"
-  },
-  {
-    "title": "Notice – Regarding the Last Date for Submission of Documents by Students Admitted to Diploma, Integrated, Undergraduate, and Postgraduate Programmes during the Academic Session 2026–27",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/AC-D-697.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "fbe783efd6c0cae79f79cc9f6d71aeaf",
-    "fetched_at": "2026-07-14T12:52:31.034128+00:00"
-  },
-  {
-    "title": "Click here for Engineering Final Seat Availability and Fee before start of Round 1",
-    "url": "https://www.comedk.org/uploads/Engineering-Final-Seat-Availability & Fee-before-start-of-Round-1. Notified-on-14.07.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "666f568fbb783d92fa882fac2d6a0991",
-    "fetched_at": "2026-07-14T12:52:19.850797+00:00"
-  },
-  {
-    "title": "Click here for Engineering Mock Cut-off Ranks",
-    "url": "https://comedk.org/uploads/Engineering_Mock_Round_Cut_off_Ranks.Notified_on_14.07.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "3e179a1649d80eb633f368318e6cc9a2",
-    "fetched_at": "2026-07-14T12:52:17.559789+00:00"
   }
 ]
