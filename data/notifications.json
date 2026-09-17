@@ -1,5 +1,71 @@
 [
   {
+    "title": "BCOM(H) REFUND ORDER NO. 3934 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171307395396.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "578a78ecb5a1ad6ad560b27465b68e94",
+    "fetched_at": "2026-09-17T15:18:51.378934+00:00"
+  },
+  {
+    "title": "BBA REFUND ORDER NO. 3923 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171761565691.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "46bdd3d920880acaf5df3495fea072c8",
+    "fetched_at": "2026-09-17T15:18:49.944190+00:00"
+  },
+  {
+    "title": "TENTATIVE SCHEDULE FOR COUNSELLING AND ADMISSION FOR BHMS/BAMS COURSES (2026-27)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609171730519.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "32494125f5bb98db39003d876d88d84e",
+    "fetched_at": "2026-09-17T15:17:59.895002+00:00"
+  },
+  {
+    "title": "INFORMATION & INSTRUCTIONS FOR COUNSELLING & ADMISSION TO BAMS / BHMS COURSES, 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609171379291928.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "ea46e0a5acd1a87b94a86c4e8f24ecbc",
+    "fetched_at": "2026-09-17T15:17:58.029932+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260917165604.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "e3eaa623cebc1e87a1e295135b273e3d",
+    "fetched_at": "2026-09-17T15:12:16.741316+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20260917191931.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "9cf98e486355a30601fac487f473abee",
+    "fetched_at": "2026-09-17T15:12:14.308245+00:00"
+  },
+  {
     "title": "Notice – Regarding Extension of the Last Date for Submission of Documents by Students Admitted to Diploma/Integrated/Undergraduate/Postgraduate Programmes during the Academic Session 2026–27",
     "url": "https://www.cuh.ac.in/admin/uploads/files/AC-D740Notice-ExtensionofLastdateforsubmissionofdocuments.pdf",
     "exam": "CU Haryana",
@@ -5432,71 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "3e179a1649d80eb633f368318e6cc9a2",
     "fetched_at": "2026-07-14T12:52:17.559789+00:00"
-  },
-  {
-    "title": "Click here for Engineering Final Seat Availability & Fee",
-    "url": "https://www.comedk.org/uploads/Engineering_Mock_Round_Cut_off_Ranks.Notified_on_14.07.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "61b6d6b64e167cc8df290bd73ed02683",
-    "fetched_at": "2026-07-14T11:12:08.571355+00:00"
-  },
-  {
-    "title": "Click here for 2025-Engineering Cut-off Ranks After All Rounds",
-    "url": "https://comedk.org/uploads/Engineering_Mock_Round_Cut_off_Ranks.Notified_on_14.07.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "61db388f5d3ad42bd0fec9392afdbd18",
-    "fetched_at": "2026-07-14T11:12:05.900267+00:00"
-  },
-  {
-    "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "e5002c575d3193630fe9272323d5b571",
-    "fetched_at": "2026-07-14T09:11:15.548593+00:00"
-  },
-  {
-    "title": "Display of Scanned Images of OMR Answer Sheet and Recorded Response for National Eligibility cum Entrance Test (UG)-2026-reg.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260713497007800.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "55ab560ca95eb6a6fd25f5e65197de9b",
-    "fetched_at": "2026-07-13T16:06:04.693602+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260713193549.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9a9efacd62ded23d85369eb7400fcda6",
-    "fetched_at": "2026-07-13T16:05:59.246038+00:00"
-  },
-  {
-    "title": "Schedule 1st Offline Counselling BA B.Ed. (Code-161) Admission Session:2026-27_dated-13.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260713216267429.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "2921e153611eb3537aba3fca52334e30",
-    "fetched_at": "2026-07-13T13:31:27.448453+00:00"
   }
 ]
