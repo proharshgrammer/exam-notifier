@@ -1,5 +1,27 @@
 [
   {
+    "title": "NOTICE FOR CANDIDATES WISH TO TAKE PART IN THE STATE QUOTA BAMS/BHMS COUNSELLING AND ADMISSION PROCESS UNDER EX-SERVICEMEN CATEGORY",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609191166791574.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "af3e95ae7332db21b2b3170a7b97fe0f",
+    "fetched_at": "2026-09-19T12:06:35.849619+00:00"
+  },
+  {
+    "title": "Notice For Physically Challenged (PC)/PwBD Candidates wish to take part in the State Quota BAMS/BHMS counselling and Admission Process.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/20260919543453793.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "f8599d41e29f16a598bd0dafaf733f3b",
+    "fetched_at": "2026-09-19T12:06:33.845021+00:00"
+  },
+  {
     "title": "BA(JMC) (CODE-126) REFUND ORDER NO.3927, Diary No. 3926 DATED 10.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918698163260.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "1c4e5f09346f306e5ff59a9518e772d7",
     "fetched_at": "2026-07-16T10:27:45.353335+00:00"
-  },
-  {
-    "title": "Extended Schedule for Choice Filling B.Tech, LLB (5Year), BBA & Allied Programmes/ 5 Year BBA MBA (Integrated) for the Session 2026-27_dated-16.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161469594490.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "a2709dfc30fd1d3d653b618d71090d55",
-    "fetched_at": "2026-07-16T08:24:33.841266+00:00"
-  },
-  {
-    "title": "Schedule of 2nd Offline Counselling MA (Economics) (Code-162) A.S: 2026-27_dated-16.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716633506132.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "08f59e9e9f4dc8f84b6c7e3f8d734fae",
-    "fetched_at": "2026-07-16T08:24:31.660729+00:00"
   }
 ]
