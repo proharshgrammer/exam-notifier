@@ -1,5 +1,16 @@
 [
   {
+    "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609221328302137.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6b1b08cafc789890058bc92d2c3a47cf",
+    "fetched_at": "2026-09-22T12:53:58.616473+00:00"
+  },
+  {
     "title": "ROUND 01 BHMS (CODE-154) FOR NEET UG 2026 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-22.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609221717722597.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://neet.nta.nic.in/",
     "id": "7f7ba2f33c1fbedafdebec20a2a2d8a4",
     "fetched_at": "2026-07-16T19:18:12.812093+00:00"
-  },
-  {
-    "title": "List of Toppers of NEET(UG) – 2026 (Held on 21st June, 2026)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716180970800.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "c27f6614adf4bf394f8a6eb6a4023b4c",
-    "fetched_at": "2026-07-16T19:18:11.644476+00:00"
   }
 ]
