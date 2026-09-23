@@ -1,5 +1,27 @@
 [
   {
+    "title": "B.COM (H) (CODE-146) REFUND ORDER NO. 3938 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260923406758111.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6dc0a7c643c282c0c9688b8ec30435e4",
+    "fetched_at": "2026-09-23T14:25:07.279035+00:00"
+  },
+  {
+    "title": "BBA (CODE-125) REFUND ORDER NO. 3937 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231504557472.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0c8a386709eb07702a315c6a2552f9d6",
+    "fetched_at": "2026-09-23T14:25:04.853418+00:00"
+  },
+  {
     "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231943963960.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "36620f027277a471b5aa53efa82d1921",
     "fetched_at": "2026-07-17T09:31:02.562722+00:00"
-  },
-  {
-    "title": "Dates for B.Tech & M.Tech (Integrated) Enrollment & Inauguration 2026-2027",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/important-dates-for-btech-and-mtech-integrated-enrollment-and-inauguration-2026-2027.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "cc0880f40937c22ee535c6cef0824a52",
-    "fetched_at": "2026-07-17T09:30:53.493059+00:00"
-  },
-  {
-    "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716797381880.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "68f4d24e4e9148f686b1fea9adeb094c",
-    "fetched_at": "2026-07-16T19:22:16.370694+00:00"
   }
 ]
