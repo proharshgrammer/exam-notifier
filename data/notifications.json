@@ -1,5 +1,60 @@
 [
   {
+    "title": "MCA CODE-105 REFUND ORDER NO. 3948 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609251428431340.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a96677e947ccc1cb25c384ac79a5f8d9",
+    "fetched_at": "2026-09-25T13:00:36.848882+00:00"
+  },
+  {
+    "title": "B.Ed CODE-122 REFUND ORDER NO. 3946 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925207689475.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "ab63c4b599030d59082e39803d788ce0",
+    "fetched_at": "2026-09-25T13:00:34.882030+00:00"
+  },
+  {
+    "title": "MBA_CODE-101 REFUND ORDER NO. 3943 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925745661064.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "9446989b80dd24f238d2b3f71d86a16d",
+    "fetched_at": "2026-09-25T13:00:29.449405+00:00"
+  },
+  {
+    "title": "BA(ECO)_CODE-197 REFUND ORDER NO. 3944 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609252141779798.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "bd3d98d6d881faf696f86d43a6fbb4b0",
+    "fetched_at": "2026-09-25T13:00:27.286874+00:00"
+  },
+  {
+    "title": "Notice – Last Date for Admission to Undergraduate Programmes",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/acd747.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "ffcba40a296d5625bb12a62dc580523c",
+    "fetched_at": "2026-09-25T12:59:17.928937+00:00"
+  },
+  {
     "title": "Revised Key dates of Diploma Pharmacy Course for the session 2026-27",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Revised Diploma Pharmacy keydates .pdf",
     "exam": "HSTES",
@@ -5443,60 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "d8e53c66524c33cca9fce043d4952131",
     "fetched_at": "2026-07-20T11:26:25.677171+00:00"
-  },
-  {
-    "title": "Claims regarding OMR answer sheets of NEET (UG) 2026 being circulated on social media.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260720623209264.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "f933cc15eb115df6f6e2a4b2cc92a427",
-    "fetched_at": "2026-07-20T08:24:50.615690+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260720132441.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "d4627179e31fb118c599daf26d1b7262",
-    "fetched_at": "2026-07-20T08:24:45.506780+00:00"
-  },
-  {
-    "title": "Notice on Fake, Altered, or AI-Generated NEET (UG) 2026 Documents",
-    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607201141028453.pdf",
-    "exam": "NEET UG",
-    "exam_id": "neet_ug",
-    "category": "Medical Entrance",
-    "source_label": "NTA NEET Website",
-    "source_url": "https://neet.nta.nic.in/",
-    "id": "be8d3577d0b1abf4fff26fdce7757778",
-    "fetched_at": "2026-07-20T05:07:20.040361+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260720093135.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "7d782065a0af735afdab10130001983a",
-    "fetched_at": "2026-07-20T05:07:14.900200+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260718195817.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "7c8a04409ed4acea8e01c459befc7c4e",
-    "fetched_at": "2026-07-18T15:06:50.244073+00:00"
   }
 ]
