@@ -1,5 +1,16 @@
 [
   {
+    "title": "1ST ROUND PROVISIONAL ALLOTMENT FOR BAMS/BHMS COURSE AMONG ALL ELIGIBLE REGISTERED CANDIDATES.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609261006748985.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "6461b40d97696f6c7fd40e28d75746b6",
+    "fetched_at": "2026-09-26T10:12:42.065072+00:00"
+  },
+  {
     "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (1st ROUND COUNSELLING)",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609251550713638.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "46072c27b908cd469f973b7a6ebc2022",
     "fetched_at": "2026-07-20T11:26:31.193507+00:00"
-  },
-  {
-    "title": "List of Verification Centers (VC) for each Participating Institute (PI)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2026/07/202607201153201599.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "ba2c227e7f11f1269f3fac694e55c2c0",
-    "fetched_at": "2026-07-20T11:26:29.671326+00:00"
   }
 ]
