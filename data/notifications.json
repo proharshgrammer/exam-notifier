@@ -1,5 +1,16 @@
 [
   {
+    "title": "BCA_CODE-114 REFUND ORDER NO. 3950 VIDE DIARY NO. 3949 (SEAT CANCELLED) A.S:2026-27_dated-28.09.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609281056758348.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1781c71f136a519965f5c5ea26823129",
+    "fetched_at": "2026-09-28T07:31:49.026720+00:00"
+  },
+  {
     "title": "1ST ROUND PROVISIONAL ALLOTMENT FOR BAMS/BHMS COURSE AMONG ALL ELIGIBLE REGISTERED CANDIDATES.",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609261006748985.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://csab.nic.in/",
     "id": "2e98aca36a040f9cef3a30d32f976b48",
     "fetched_at": "2026-07-20T11:26:32.577361+00:00"
-  },
-  {
-    "title": "State wise List of Verification Centers (VCs) and Help Centers (HCs) for NIT+ System",
-    "url": "https://cdnbbsr.s3waas.gov.in/s305a70454516ecd9194c293b0e415777f/uploads/2026/07/202607201991819080.pdf",
-    "exam": "CSAB",
-    "exam_id": "csab",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://csab.nic.in/",
-    "id": "46072c27b908cd469f973b7a6ebc2022",
-    "fetched_at": "2026-07-20T11:26:31.193507+00:00"
   }
 ]
