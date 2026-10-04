@@ -1,5 +1,27 @@
 [
   {
+    "title": "Revised 3rd Round Post Allotment activities for the B.PHARM, LE-PHARM & M.PHARM COURSES.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610041760633530.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "6e946fe2de2710c62e307be5521f070c",
+    "fetched_at": "2026-10-04T13:59:00.146627+00:00"
+  },
+  {
+    "title": "Notification on Special Vacancy Allocation by Upgradation(R4) under DCAP- 2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/10/202610041752751583.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "a89d0b703ddab26e35fa7910576160e9",
+    "fetched_at": "2026-10-04T13:54:59.394561+00:00"
+  },
+  {
     "title": "Revised 3rd Round Post Allotment acƟviƟes for the B.PHARM, LE-PHARM & M.PHARM COURSES.",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610041760633530.pdf",
     "exam": "OJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "8843809bb30ab6179f2d66f4e8024585",
     "fetched_at": "2026-07-22T11:58:41.083426+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260722163054.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "b0aa814e13e495bf1dfc2c8b691fa56b",
-    "fetched_at": "2026-07-22T11:58:38.482425+00:00"
-  },
-  {
-    "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221674368846.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "b8f1a46a940db9df410559661bbba67a",
-    "fetched_at": "2026-07-22T10:04:58.630154+00:00"
   }
 ]
