@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tender Notice for Catering Service in Alumni Meet-2026",
+    "url": "https://www.mmmut.ac.in/News_content/24053news_10062026111956.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "dc5c812f8db4aa450925377b3801be90",
+    "fetched_at": "2026-10-06T21:14:44.711280+00:00"
+  },
+  {
     "title": "ROUND 03 MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-06.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610061140829616.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "fa4dfb7333ed450a1e495403ae6aa5d2",
     "fetched_at": "2026-07-23T09:12:31.131589+00:00"
-  },
-  {
-    "title": "UIET Chd Physical Reporting Schedule (After Third Round)",
-    "url": "https://jacchd.admissions.nic.in/document/notice-for-newly-admitted-students-for-physical-reporting-3/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "c7b75c8dca7bff91f7cb1769de7abcb4",
-    "fetched_at": "2026-07-23T09:12:15.562803+00:00"
   }
 ]
