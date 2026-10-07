@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261007203421.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "5c514da659c3cbae19e5bea815bb0465",
+    "fetched_at": "2026-10-07T20:30:34.320207+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261007204855.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "de4bb23e21ccb49da76eaa5e80d80116",
+    "fetched_at": "2026-10-07T20:30:31.964663+00:00"
+  },
+  {
     "title": "CUET MERIT IN B.ED (SPECIAL EDUCATION) FOR A.S:2026-27_dated-07.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610071025975062.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "6c1b1467e828d319a8ccd2357aed6b3f",
     "fetched_at": "2026-07-24T11:22:33.165926+00:00"
-  },
-  {
-    "title": "Schedule of 1st Counselling Master in Clinical Psychology (CODE-166) Admission Session: 2026-27_dated-24.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072475839299.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "7aab15c9751c001d0ed999fbda3e0c96",
-    "fetched_at": "2026-07-24T11:22:30.865392+00:00"
-  },
-  {
-    "title": "Notice for All Candidates Who Have Participated in the OJEE Web-Based Counselling",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260724534861962.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "9e53fd32a3535ded5284b33f1f91a3b0",
-    "fetched_at": "2026-07-24T06:32:46.680176+00:00"
   }
 ]
