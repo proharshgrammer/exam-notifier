@@ -1,5 +1,49 @@
 [
   {
+    "title": "ROUND 01 BAMS (CODE-153) FOR NEET UG 2026 SCHEDULE FOR ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-08.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008701900293.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0d5bd9d649533b677d20dd3ca0d58b03",
+    "fetched_at": "2026-10-08T14:33:56.129420+00:00"
+  },
+  {
+    "title": "ROUND 02 BHMS (CODE-154) FOR NEET UG 2026 SCHEDULE FOR ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-08.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008809730450.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b9e37d458b1377ad682786fd77283bb6",
+    "fetched_at": "2026-10-08T14:33:54.765783+00:00"
+  },
+  {
+    "title": "SCHEDULE FOR SPOT ROUND OF B.ED (SE) (CODE-159) OFFLINE COUNSELLING FOR A.S:2026-27_dated-08.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008161155318.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "0494c80e22263cdea7458679da630cd9",
+    "fetched_at": "2026-10-08T14:33:53.339323+00:00"
+  },
+  {
+    "title": "SCHEDULE OF 2nd ROUND (PGDYTMP (CODE-176) OF OFFLINE COUNSELLING FOR A.S: 2026-27_dated-08.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008412038361.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "928c9da7266c58ad649fc9402481de77",
+    "fetched_at": "2026-10-08T14:33:49.611852+00:00"
+  },
+  {
     "title": "Tender Notice for Operating Cafeteria in University",
     "url": "https://www.mmmut.ac.in/News_content/44512news_10082026105038.pdf",
     "exam": "MMMUT Counselling",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "4e384764117fada340c4431d840bc3c1",
     "fetched_at": "2026-07-25T16:26:19.902139+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210603.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "9e5c94046edccdfc9dbdfcf0ee795f93",
-    "fetched_at": "2026-07-25T16:26:18.354465+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210637.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "04ae4ffa33742a655288dbe2b3f31366",
-    "fetched_at": "2026-07-25T16:26:16.587305+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210713.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "6b34592a7318fc8698d035dabd39b9d7",
-    "fetched_at": "2026-07-25T16:26:13.634684+00:00"
-  },
-  {
-    "title": "NOTIFICATION REGARDING INVITING APPLICATIONS FOR ADMISSION UNDER “SPORTS QUOTA” IN VARIOUS UG/PG PROGRAMMES OFFERED AT UNIVERSITY’S SCHOOLS OF STUDIES AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FO",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607251133167503.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "2b6d15028ba4adb82d299acfa57c8b0c",
-    "fetched_at": "2026-07-25T10:14:12.131475+00:00"
   }
 ]
