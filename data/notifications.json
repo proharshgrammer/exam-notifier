@@ -1,5 +1,38 @@
 [
   {
+    "title": "Engagement of Chartered Accountant Firm for Maintaining the Accounts of HSTES To deposit ADMF or Security Amount, please use Bank Account No.: 0087001100000306, IFSC: PUNB0394900, Branch: Punjab National Bank, Sector 4, Panchkula (in place of IndusInd Bank account).",
+    "url": "https://hstes.org.in/Documents/2023/Notifications/Engagement of Chartered Accountant Firm for.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "15f7e41f685dcd304bb84cce8131d3b0",
+    "fetched_at": "2026-10-09T14:39:18.273145+00:00"
+  },
+  {
+    "title": "Regarding Revised Centralized Online Counselling Schedule for Diploma Pharmacy and B.Pharmacy courses for the session 2026-27 Engagement of Chartered Accountant Firm for Maintaining the Accounts of HSTES To deposit ADMF or Security Amount, please use Bank Account No.: 0087001100000306, IFSC: PUNB0394900, Branch: Punjab National Bank, Sector 4, Panchkula (in place of IndusInd Bank account).",
+    "url": "https://hstes.org.in/Documents/2023/Notifications/Public notice for Pharmacy courses 21.09.2026.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "5292592d75d599171b5f99fe42fb5eed",
+    "fetched_at": "2026-10-09T14:39:16.434384+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261009123259.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "317292970e21ed089055ab31ce2ec437",
+    "fetched_at": "2026-10-09T14:32:36.833232+00:00"
+  },
+  {
     "title": "Vacancy Seat matrix of BAMS/BHMS after Round 1, OJEE-2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261009826731220.pdf",
     "exam": "OJEE",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "c893dfb2e53145fb3e58fe473ac8584b",
     "fetched_at": "2026-07-27T11:56:29.201806+00:00"
-  },
-  {
-    "title": "Revised Schedule of Round 3 and Final Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607271294717159.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "4e51cb45d6927d0e031ae6ce2a25b316",
-    "fetched_at": "2026-07-27T11:56:27.809747+00:00"
-  },
-  {
-    "title": "Revised Schedule of 3rd Round and Final Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607272096545246.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "4ae5b91e34e6ad92bffd74347d5ab1dc",
-    "fetched_at": "2026-07-27T11:56:25.347340+00:00"
-  },
-  {
-    "title": "Revised Schedule for HBTU UG Counselling 2026",
-    "url": "https://hbtu.admissions.nic.in/document/revised-schedule-for-hbtu-ug-counselling-2026/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "bdf2a6fda87d27344d001058abf36584",
-    "fetched_at": "2026-07-27T08:07:24.170035+00:00"
   }
 ]
