@@ -1,5 +1,16 @@
 [
   {
+    "title": "Vacancy Seat matrix of BAMS/BHMS after Round 1, OJEE-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261009826731220.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "dc90bb1e312cafecea7a800b82a5c8f5",
+    "fetched_at": "2026-10-09T07:19:39.604614+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261008212430.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://hbtu.admissions.nic.in/",
     "id": "bdf2a6fda87d27344d001058abf36584",
     "fetched_at": "2026-07-27T08:07:24.170035+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260725210230.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "397f515a9650e4d12efb7627f6b32c78",
-    "fetched_at": "2026-07-25T16:26:21.340317+00:00"
   }
 ]
