@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notice – Extension of the Last Date for Submission of Documents by Students Admitted to Diploma/Integrated/Undergraduate/Postgraduate Programmes during the Academic Session 2026–27.",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/acd759.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "a272902b2bbf32efd653a88bf66b5ce2",
+    "fetched_at": "2026-10-12T08:56:39.637884+00:00"
+  },
+  {
     "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (2 nd ROUND COUNSELLING)",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610101824980330.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "1ce1f17e9ddccbf631462f42b3f6f489",
     "fetched_at": "2026-07-27T14:44:36.239860+00:00"
-  },
-  {
-    "title": "Notice Regarding Special Examination for Re-Appear Students",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/Special Exam notification.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "eac2b61203c58ddc42d5eadbbdc260af",
-    "fetched_at": "2026-07-27T11:56:37.307046+00:00"
   }
 ]
