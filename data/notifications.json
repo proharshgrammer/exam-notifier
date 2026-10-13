@@ -1,5 +1,16 @@
 [
   {
+    "title": "Institute Level Manual Counseling for Diploma Pharmacy course at Govt./ Govt. Aided/ Self-Financing Polytechnics against vacant/ leftover seats for the Session 2026-27",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Public Notice for Diploma Pharmacy.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "31254bfad9d5508a4a8e2a7163a7e4e3",
+    "fetched_at": "2026-10-13T08:19:58.632497+00:00"
+  },
+  {
     "title": "Notice – Extension of the Last Date for Submission of Documents by Students Admitted to Diploma/Integrated/Undergraduate/Postgraduate Programmes during the Academic Session 2026–27.",
     "url": "https://www.cuh.ac.in/admin/uploads/files/acd759.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "addfb59f54182563b18e25cf0fb4399a",
     "fetched_at": "2026-07-27T14:49:10.067382+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260727182748.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "1ce1f17e9ddccbf631462f42b3f6f489",
-    "fetched_at": "2026-07-27T14:44:36.239860+00:00"
   }
 ]
