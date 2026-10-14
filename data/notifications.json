@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification regarding Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programme Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/ntfcnsxm.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "e36322b4e485d482e6c6476930f7dfa9",
+    "fetched_at": "2026-10-14T11:38:22.124051+00:00"
+  },
+  {
     "title": "Institute Level Manual Counseling for Diploma Pharmacy course at Govt./ Govt. Aided/ Self-Financing Polytechnics against vacant/ leftover seats for the Session 2026-27",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level counselling for D.Pharmacy revised.pdf",
     "exam": "HSTES",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "f8e4604fa62393f2f33103688ef65690",
     "fetched_at": "2026-07-28T10:12:58.083834+00:00"
-  },
-  {
-    "title": "NSUT Schedule of Activities for Newly Admitted Candidates",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607281769214598.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "10ff4fad57af879e93b5f6059708ae07",
-    "fetched_at": "2026-07-28T07:19:49.048835+00:00"
   }
 ]
