@@ -1,6 +1,39 @@
 [
   {
     "title": "Institute Level Manual Counseling for Diploma Pharmacy course at Govt./ Govt. Aided/ Self-Financing Polytechnics against vacant/ leftover seats for the Session 2026-27",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level counselling for D.Pharmacy revised.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "b163722c553c0b0fcd8ee4fbb5cb2b28",
+    "fetched_at": "2026-10-14T06:03:45.356787+00:00"
+  },
+  {
+    "title": "Institute Level Manual Counseling for Diploma Pharmacy course at Self-Financing Polytechnics against vacant/ leftover seats for the Session 2026-27",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level counselling for D.Pharmacy for Pvt.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "ad1111ac5f010b86ee3f64d837d1a66b",
+    "fetched_at": "2026-10-14T06:03:43.778807+00:00"
+  },
+  {
+    "title": "Regarding Revised Centralized Online Counselling Schedule for Diploma Pharmacy and B.Pharmacy courses for the session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087001100000306, IFSC: PUNB0394900, Branch: Punjab National Bank, Sector 4, Panchkula (in place of IndusInd Bank account).",
+    "url": "https://hstes.org.in/Documents/2023/Notifications/Public notice for Pharmacy courses 21.09.2026.pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "932538ae98c337000c2198346d308661",
+    "fetched_at": "2026-10-14T06:03:41.116107+00:00"
+  },
+  {
+    "title": "Institute Level Manual Counseling for Diploma Pharmacy course at Govt./ Govt. Aided/ Self-Financing Polytechnics against vacant/ leftover seats for the Session 2026-27",
     "url": "https://hstes.org.in/Documents/2026/Notifications/Institute level counselling for D.Pharmacy.pdf",
     "exam": "HSTES",
     "exam_id": "hstes",
@@ -5465,38 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "10ff4fad57af879e93b5f6059708ae07",
     "fetched_at": "2026-07-28T07:19:49.048835+00:00"
-  },
-  {
-    "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607271283181656.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "0a019438c122a1e80a545b1a9a164c66",
-    "fetched_at": "2026-07-27T17:06:11.485785+00:00"
-  },
-  {
-    "title": "Revised Vacancy of Outside Delhi General and Girls category",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260727303387289.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "0ee9848b7c360db4df10e9cd7c0ac32a",
-    "fetched_at": "2026-07-27T14:49:33.462812+00:00"
-  },
-  {
-    "title": "Frequently Asked Questions (FAQs)Round 1 Allotment",
-    "url": "https://www.comedk.org/uploads/FREQUENTLY_ASKED_QUESTIONS_ROUND-1_ALLOTMENT.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "fa1e344be229b623a614e6610369a132",
-    "fetched_at": "2026-07-27T14:49:13.090571+00:00"
   }
 ]
