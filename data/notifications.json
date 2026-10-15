@@ -1,5 +1,27 @@
 [
   {
+    "title": "Date Extended: Notice Regarding Extension of Last Date for Submission of Course Registration Forms for UG/PG/Diploma/Integrated Programmes (I/III/V/VII/IX Semesters) – Academic Session 2026–27",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/Course-Registration.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "c6dd4928f708447cb7803adfb5e255ba",
+    "fetched_at": "2026-10-15T14:25:03.283581+00:00"
+  },
+  {
+    "title": "Notifications as issued by various Institutions regarding the filling up of residual vacancies of UG courses of Engineering, Pharmacy etc.as per Govt. Memo.dt.12.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/10/20261015498880941.pdf",
+    "exam": "WBJEE",
+    "exam_id": "wbjee",
+    "category": "State Engineering – West Bengal",
+    "source_label": "WBJEEB Official Website",
+    "source_url": "https://wbjeeb.nic.in/wbjee/",
+    "id": "b8c9485db8a4d1c9f73cf8ff48b76618",
+    "fetched_at": "2026-10-15T14:19:38.155619+00:00"
+  },
+  {
     "title": "Notification regarding Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programme Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
     "url": "https://www.cuh.ac.in/admin/uploads/files/ntfcnsxm.pdf",
     "exam": "CU Haryana",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacdelhi.admissions.nic.in/",
     "id": "6e35695c0edad356c88904998a5387fa",
     "fetched_at": "2026-07-28T12:25:57.149390+00:00"
-  },
-  {
-    "title": "NOTICE REGARDING SANCTIONED INTAKE OF PARAMEDICAL MASTER IN CLINICAL PSYCHOLOGY (PROGRAMME CODE 166) MANAGEMENT QUOTA SEATS FOR THE ACADEMIC SESSION 2026-27.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728234575737.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "36c9c074b4ec5e48ec3938f2fee8fd8a",
-    "fetched_at": "2026-07-28T10:13:00.800041+00:00"
-  },
-  {
-    "title": "NOTIFICAITON REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME AFTER COMPLETION OF 2nd COUNSELING CET CODE-451, AS ON 28.07.2026, TIME 2.00 P.M.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072829864217.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "f8e4604fa62393f2f33103688ef65690",
-    "fetched_at": "2026-07-28T10:12:58.083834+00:00"
   }
 ]
