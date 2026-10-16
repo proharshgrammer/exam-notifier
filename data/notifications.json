@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261016183525.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "cc9091edafe4da23191d09c81ce08841",
+    "fetched_at": "2026-10-16T15:27:14.802583+00:00"
+  },
+  {
     "title": "CUET MERIT IN PARAMEDICAL (B.PT/ B.OT/ BASLP/ BMLS/ BPO) for Academic Session 2026-27_dated-16.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261016303675167.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "9a104e627d97efc298738db319e53240",
     "fetched_at": "2026-07-29T10:13:59.337821+00:00"
-  },
-  {
-    "title": "Extension Schedule of WBJEE-2026 Counselling",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/20260728877148334.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "f93002e6ec4d2f48b57c3ea4fe6bc6dc",
-    "fetched_at": "2026-07-28T16:59:49.851516+00:00"
   }
 ]
