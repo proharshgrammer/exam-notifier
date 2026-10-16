@@ -1,5 +1,27 @@
 [
   {
+    "title": "CUET MERIT IN PARAMEDICAL (B.PT/ B.OT/ BASLP/ BMLS/ BPO) for Academic Session 2026-27_dated-16.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261016303675167.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1fb942382adb8e06edf4707415589eb7",
+    "fetched_at": "2026-10-16T11:06:49.378340+00:00"
+  },
+  {
+    "title": "SCHEDULE OF SPOT ROUND FOR PARAMEDICAL (B.OT/ B.PT/ BASLP/ BMLS/ BPO) OF OFFLINE COUNSELLING FOR THE ACADEMIC SESSION 2026-27 through CET 2026/ CUET 2026_dated-16.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610161147000502.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7dcd0e55fd8a430539bfb13a5d944cd8",
+    "fetched_at": "2026-10-16T11:06:47.156747+00:00"
+  },
+  {
     "title": "Mandatory uploading of qualifying examination documents by Institutes on web-portal of HSTES",
     "url": "https://hstes.org.in/Documents/2026/Notifications/uploading marksheet .pdf",
     "exam": "HSTES",
@@ -5476,27 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "f93002e6ec4d2f48b57c3ea4fe6bc6dc",
     "fetched_at": "2026-07-28T16:59:49.851516+00:00"
-  },
-  {
-    "title": "Notice regarding extension of date of 3rd Round Counselling of WBJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607286463432.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "145c3259c0b93143c8895c096fb4b453",
-    "fetched_at": "2026-07-28T15:00:38.777089+00:00"
-  },
-  {
-    "title": "INSTRUCTIONS REGARDING DOCUMENTS TO BE SUBMITTED AT THE TIME OF PHYSICAL REPORTING IN THE ALLOTTED COLLEGE (WHERE SEAT IN THE VARIOUS PROGRAMMES HAVE BEEN ALLOTTED THROUGH ONLINE COUNSELLING",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728206405047.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "5b532d99adc1335d2d7110c874121b54",
-    "fetched_at": "2026-07-28T12:26:07.618761+00:00"
   }
 ]
