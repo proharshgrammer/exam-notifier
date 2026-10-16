@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mandatory uploading of qualifying examination documents by Institutes on web-portal of HSTES",
+    "url": "https://hstes.org.in/Documents/2026/Notifications/uploading marksheet .pdf",
+    "exam": "HSTES",
+    "exam_id": "hstes",
+    "category": "Counselling",
+    "source_label": "HSTES Portal",
+    "source_url": "https://hstes.org.in/",
+    "id": "744c8ecc2dc29c79786cc2ebad2740f7",
+    "fetched_at": "2026-10-16T05:43:55.532147+00:00"
+  },
+  {
     "title": "Date Extended: Notice Regarding Extension of Last Date for Submission of Course Registration Forms for UG/PG/Diploma/Integrated Programmes (I/III/V/VII/IX Semesters) – Academic Session 2026–27",
     "url": "https://www.cuh.ac.in/admin/uploads/files/Course-Registration.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "5b532d99adc1335d2d7110c874121b54",
     "fetched_at": "2026-07-28T12:26:07.618761+00:00"
-  },
-  {
-    "title": "Revised Vacancies of Outside Delhi General and Girl Category for 29.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260728689113567.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "6e35695c0edad356c88904998a5387fa",
-    "fetched_at": "2026-07-28T12:25:57.149390+00:00"
   }
 ]
