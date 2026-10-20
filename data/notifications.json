@@ -1,5 +1,71 @@
 [
   {
+    "title": "Mathematics",
+    "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/Maths_VITEEE2027.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "96ed2bc9ae8760cf2824a4d4ba6e7dfc",
+    "fetched_at": "2026-10-20T11:14:48.755245+00:00"
+  },
+  {
+    "title": "English & Aptitude",
+    "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/English_and_Aptitude_VITEEE2027.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "4c6bae59645a90641fd1401f38fde6fa",
+    "fetched_at": "2026-10-20T11:14:47.337173+00:00"
+  },
+  {
+    "title": "Chemistry",
+    "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/Chemistry_VITEEE2027.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "391e03dd80a5f62a2927f6a33a9aa75a",
+    "fetched_at": "2026-10-20T11:14:45.877854+00:00"
+  },
+  {
+    "title": "Admission Process",
+    "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/Biology_VITEEE2027.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "61ea2f89986fbdb646d8abf0a6800d7c",
+    "fetched_at": "2026-10-20T11:14:44.338264+00:00"
+  },
+  {
+    "title": "Admission Process",
+    "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/Physics_VITEEE2027.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "e0a284deeaf240bec48584ca350abb62",
+    "fetched_at": "2026-10-20T11:14:42.751550+00:00"
+  },
+  {
+    "title": "VITEEE 2027",
+    "url": "https://vit.ac.in/files/prospectus/Awarness-Circular.pdf",
+    "exam": "VITEEE (VIT)",
+    "exam_id": "viteee",
+    "category": "Private University Entrance",
+    "source_label": "VIT University Official",
+    "source_url": "https://viteee.vit.ac.in/",
+    "id": "00568e101ce89ad222f3bf5715b08887",
+    "fetched_at": "2026-10-20T11:14:40.118458+00:00"
+  },
+  {
     "title": "PGP-CET/ PGO-CET/ M.Sc. (SLP)-CET/ M.Sc. (Audio)-CET/ and M.Sc. (P&O)-CET",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/10/Notice-No.02_Extension-for-Registration.pdf",
     "exam": "MHT-CET",
@@ -5432,71 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "8c8dcc3db812a959e86f08bce266d89a",
     "fetched_at": "2026-07-30T17:39:35.735248+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260730211250.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "dc2b8559acbbeee9e9b0466c6bbce13e",
-    "fetched_at": "2026-07-30T17:39:20.952037+00:00"
-  },
-  {
-    "title": "Revised Vacancies of Delhi General and Delhi Girl Category for 31.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730511564657.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "65e316e7f25d1f5cb786d4923aaf2ca9",
-    "fetched_at": "2026-07-30T15:36:22.829685+00:00"
-  },
-  {
-    "title": "Balance fee Notice IGDTUW",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607302009979714.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "74547fc9b442ee346d4ca7490595a3fe",
-    "fetched_at": "2026-07-30T11:14:18.811857+00:00"
-  },
-  {
-    "title": "Balance fee Notice DTU",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730940919088.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "2865cddff763c5aea9c9fdad28147dea",
-    "fetched_at": "2026-07-30T11:14:17.505699+00:00"
-  },
-  {
-    "title": "Notice: Nasha Mukt Yuva for Viksit Bharat – Pledge Campaign",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/Notice-NMYVB.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "e3dec205001e42808a82b962a2b6b2f1",
-    "fetched_at": "2026-07-30T11:14:06.563373+00:00"
-  },
-  {
-    "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607301885192911.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "56330533ec72877fd3cee599bdbda38b",
-    "fetched_at": "2026-07-30T08:37:22.994953+00:00"
   }
 ]
