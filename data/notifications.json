@@ -1,5 +1,38 @@
 [
   {
+    "title": "B.Sc (H) NURSING (CODE-115) (NEET UG 2026 AND CET Qualified 2026)- STRAY ROUND:2026-27_dated-21.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610211586283653.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "1e5e9e2b992ca163799867aeefab9442",
+    "fetched_at": "2026-10-21T13:11:43.103029+00:00"
+  },
+  {
+    "title": "TENTATIVE VACANT SEATS FOR PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE 119/124) FOR THE A.S:2026-27_dated-21.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261021361285737.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "00e5761398b12e136e7495d58958dd16",
+    "fetched_at": "2026-10-21T13:11:41.169607+00:00"
+  },
+  {
+    "title": "Declaration of Holiday on 06 November, 2026 (Friday) on the Occasion of Diwali.",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/R 2257.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "9f3d726231b7dfec3c48af7b758260da",
+    "fetched_at": "2026-10-21T13:11:19.990381+00:00"
+  },
+  {
     "title": "Mathematics",
     "url": "https://vit.ac.in/sites/default/files/VITEEE-2027/Maths_VITEEE2027.pdf",
     "exam": "VITEEE (VIT)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "25e5ba9e1c26aa79197db5b727626ba6",
     "fetched_at": "2026-07-31T07:26:59.928040+00:00"
-  },
-  {
-    "title": "NO PHYSICAL REPORTING IN BA (JMC) (CODE-126) AND BA (ENG) (CODE-184)._dated-31.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607311388113417.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "3fe1da3d53476fda1052000bda06548b",
-    "fetched_at": "2026-07-31T07:26:58.468548+00:00"
-  },
-  {
-    "title": "Schedule of activities pursuant to declaration of result of Round 03 followed by Sliding Round BA(JMC)/ BA(ENG) for the A.S:2026-27_dated-31.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731821485142.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1dcadd4dea82ffd33b109c7d778d202a",
-    "fetched_at": "2026-07-31T07:26:56.046285+00:00"
-  },
-  {
-    "title": "Online Decentralized Counselling of WBJEE-2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/07/202607302038046717.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "8c8dcc3db812a959e86f08bce266d89a",
-    "fetched_at": "2026-07-30T17:39:35.735248+00:00"
   }
 ]
