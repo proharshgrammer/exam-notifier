@@ -1,5 +1,27 @@
 [
   {
+    "title": "MBBS (CODE-103) (NEET UG 2026) – STRAY ROUND : 2026-27_dated-22.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610221647448318.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "80c8f0938502f9866e62db6b7483cfc6",
+    "fetched_at": "2026-10-22T10:34:48.316579+00:00"
+  },
+  {
+    "title": "PGMC (CODE-102)_ 2006-27 INVITING PHYSICAL APPLICATIONS FOR 04 SEATS OF MD (PAEDIATRICS) IN CHACHA NEHRU BAL CHIKITSALAYA UNDER GGSIPU STATE/ INSTITUTIONAL QUOTA_dated-22.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261022615659704.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "234f76e2376e45f376d420e7d74abd28",
+    "fetched_at": "2026-10-22T10:34:45.628111+00:00"
+  },
+  {
     "title": "B.Sc (H) NURSING (CODE-115) (NEET UG 2026 AND CET Qualified 2026)- STRAY ROUND:2026-27_dated-21.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610211586283653.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "d1a5266c6b15dc93a4e688201bedf053",
     "fetched_at": "2026-07-31T10:10:42.896151+00:00"
-  },
-  {
-    "title": "Notice regarding Allotment of Gurugram Examination Centre for ODL Term End Examinations – August 2026",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/Gurugram Exam Centre August 2026.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "99f259eff97d73b4b39e5a9402c2140d",
-    "fetched_at": "2026-07-31T10:10:37.410595+00:00"
-  },
-  {
-    "title": "EXTENSION OF DATE OF SUBMISSION OF ONLINE APPLICATION FORM FOR CUET (UG) PROGRAMMES FOR A.S: 2026-27_dated-31.07.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731601136274.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "25e5ba9e1c26aa79197db5b727626ba6",
-    "fetched_at": "2026-07-31T07:26:59.928040+00:00"
   }
 ]
