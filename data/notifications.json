@@ -1,5 +1,16 @@
 [
   {
+    "title": "VACANCY AFTER 2nd ROUND BAMS/BHMS",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261024813510271.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "2712653dc260c672f39378d83383fe6e",
+    "fetched_at": "2026-10-24T13:33:41.197648+00:00"
+  },
+  {
     "title": "Code 196(Postgraduate Ayurveda Courses) and Code 700(PG Homeopathy) Re-opening of portal for submission of online application forms_dated-23.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261023871766364.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "891ad84505551d293e16172998bd3559",
     "fetched_at": "2026-08-01T11:24:05.150150+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260801151430.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "e8ee0a9c768650547de4184e3fbabfc3",
-    "fetched_at": "2026-08-01T11:19:54.687619+00:00"
   }
 ]
