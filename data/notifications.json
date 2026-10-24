@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261024220013.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "74d0a424b0223004c1fcf1b26a6fd27c",
+    "fetched_at": "2026-10-24T16:53:46.426126+00:00"
+  },
+  {
     "title": "VACANCY AFTER 2nd ROUND BAMS/BHMS",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261024813510271.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ojee.nic.in/",
     "id": "b6ca3438a6aac85486ff000a35e1dcea",
     "fetched_at": "2026-08-02T10:46:58.862943+00:00"
-  },
-  {
-    "title": "ONLINE SPOT ROUND OF COUNSELLING- LLM/ BCA/ Int. BA-LLB, Int. BBA-LLB/ B.Ed./ BBA/ 5 year BBA MBA/ L.E B.TECH/ B.TECH/ B.COM (H)/ BA (ECO). A.S: 2026-27_dated-01.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608011164112748.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "891ad84505551d293e16172998bd3559",
-    "fetched_at": "2026-08-01T11:24:05.150150+00:00"
   }
 ]
