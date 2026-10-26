@@ -1,5 +1,38 @@
 [
   {
+    "title": "Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear).",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/ntfrp2910.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "395609bdc3fba6c6fe5bf8bc033f9c0b",
+    "fetched_at": "2026-10-26T07:38:36.575988+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261026114247.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "621fba4f6a000501f6219a86765f461b",
+    "fetched_at": "2026-10-26T07:34:50.589538+00:00"
+  },
+  {
+    "title": "Exam Calendar",
+    "url": "https://nta.ac.in/Download/Notice/ExamcalendarRevised.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "d030255c03dcbac91f16bcdb16c0882c",
+    "fetched_at": "2026-10-26T07:34:48.031316+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261024220013.pdf",
     "exam": "JEE Mains",
@@ -5465,38 +5498,5 @@
     "source_url": "https://wbjeeb.nic.in/wbjee/",
     "id": "c2f133bf3dc0722ddc2684c0e4309e38",
     "fetched_at": "2026-08-03T10:46:24.563202+00:00"
-  },
-  {
-    "title": "List of Admitted Candidates",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260803766352653.pdf",
-    "exam": "JAC Delhi",
-    "exam_id": "jac_delhi",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacdelhi.admissions.nic.in/",
-    "id": "4f746d679834d1bad84863dca0b9dcc2",
-    "fetched_at": "2026-08-03T06:48:40.091461+00:00"
-  },
-  {
-    "title": "URGENT NOTICE FOR CANDIDATES PARTCIPATED IN OJEE WEB COUNSELLING",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260802473102359.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "51a548be0733f5fd6317310b6acf75d9",
-    "fetched_at": "2026-08-02T10:47:01.184347+00:00"
-  },
-  {
-    "title": "CIRCULAR FOR ALL PARTICIPATING UNIVERSITY/COLLEGE/INSTITUTES",
-    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/202608021697727381.pdf",
-    "exam": "OJEE",
-    "exam_id": "ojee",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://ojee.nic.in/",
-    "id": "b6ca3438a6aac85486ff000a35e1dcea",
-    "fetched_at": "2026-08-02T10:46:58.862943+00:00"
   }
 ]
