@@ -1,6 +1,17 @@
 [
   {
     "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "55849d578fbbd69056068fdd665e13e1",
+    "fetched_at": "2026-10-27T20:51:33.107188+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261027133408.pdf",
     "exam": "JEE Mains",
     "exam_id": "jee_mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "ae42c2bbe6dcfc46dc0bbfc97fb6fd19",
     "fetched_at": "2026-08-03T10:50:47.199135+00:00"
-  },
-  {
-    "title": "Notice of UIET Hostel Allotment-2026",
-    "url": "https://jacchd.admissions.nic.in/document/notice-of-uiet-hostel-allotment-2026/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "8194a6e99a903902469593ec9fb99b0c",
-    "fetched_at": "2026-08-03T10:50:30.117566+00:00"
   }
 ]
