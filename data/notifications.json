@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261027133408.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "1a9cc7fcb1df686af68bae1ddac15add",
+    "fetched_at": "2026-10-27T10:49:12.669616+00:00"
+  },
+  {
     "title": "Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear).",
     "url": "https://www.cuh.ac.in/admin/uploads/files/ntfrp2910.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "8194a6e99a903902469593ec9fb99b0c",
     "fetched_at": "2026-08-03T10:50:30.117566+00:00"
-  },
-  {
-    "title": "Schedule of B.Pharm-2026 Counselling",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/08/20260803946351154.pdf",
-    "exam": "WBJEE",
-    "exam_id": "wbjee",
-    "category": "State Engineering – West Bengal",
-    "source_label": "WBJEEB Official Website",
-    "source_url": "https://wbjeeb.nic.in/wbjee/",
-    "id": "c2f133bf3dc0722ddc2684c0e4309e38",
-    "fetched_at": "2026-08-03T10:46:24.563202+00:00"
   }
 ]
