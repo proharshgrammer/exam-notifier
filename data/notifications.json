@@ -1,5 +1,27 @@
 [
   {
+    "title": "BAMS (CODE-153) FOR NEET UG 2026 QUALIFIED CANDIDATES SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 02 FOR A.S.2026-27_dated-28.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610281429733932.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "c769aba8b486e1ae85886e1a611684e1",
+    "fetched_at": "2026-10-28T13:27:38.753002+00:00"
+  },
+  {
+    "title": "BHMS (CODE-154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S.2026-27_dated-28.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/2026102834968474.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "6df19e599e0be2303abae20415e8c1d8",
+    "fetched_at": "2026-10-28T13:27:35.688313+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "afd965bc9d981100f5b727458e6ab5bb",
     "fetched_at": "2026-08-03T10:50:49.878024+00:00"
-  },
-  {
-    "title": "ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting FOR THE A.S: 2026-27_dated-03.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031041552571.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "cf60ac077793f07b370064c297c7bcfd",
-    "fetched_at": "2026-08-03T10:50:48.605595+00:00"
-  },
-  {
-    "title": "Google Form for Collecting Score/Merit from the Registered and Fee Paid Candidates applying through CUET UG 2026._dated-03.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031981370474.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "ae42c2bbe6dcfc46dc0bbfc97fb6fd19",
-    "fetched_at": "2026-08-03T10:50:47.199135+00:00"
   }
 ]
