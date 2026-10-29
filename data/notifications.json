@@ -1,5 +1,27 @@
 [
   {
+    "title": "EXTENDED SCHEDULE FOR MBBS (CODE-103) (NEET UG 2026)-STRAY ROUND:2026-27_dated-29.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291469541676.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "e0b16e9427cfcbfe1f1dec79deec7098",
+    "fetched_at": "2026-10-29T09:43:34.994837+00:00"
+  },
+  {
+    "title": "REVISED SCHEDULE B.SC (H) (NURSING) (CODE-115) (NEET UG 2026) AND CET Qualified 2026)-STRAY ROUND: 2026-27_dated-29.10.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291239901450.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "12588ae94f3fc70bd3ae23871c8f7f3c",
+    "fetched_at": "2026-10-29T09:43:32.274735+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261028220547.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "895ba1be6b6f244acde28eab9fcdc8e6",
     "fetched_at": "2026-08-03T16:28:47.449703+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260803192542.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "2d998c7e40901682cafb1f0cfb51a86c",
-    "fetched_at": "2026-08-03T16:28:45.071021+00:00"
-  },
-  {
-    "title": "LIST OF CANDIDATES WHO HAVE BEEN APLIED FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S: 2026-27_dated-03.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803490690330.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "27841a06666d3d27673c1c277b2db0d0",
-    "fetched_at": "2026-08-03T13:47:00.539884+00:00"
   }
 ]
