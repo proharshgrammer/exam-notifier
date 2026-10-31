@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261031153254.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "c2bb73a71de6823d35b3ecf5a42f69ed",
+    "fetched_at": "2026-10-31T11:04:53.998717+00:00"
+  },
+  {
     "title": "MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S:2026-27_dated-30.10.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261030341749386.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "0e97b702e759c3fb55285c1f64a884f2",
     "fetched_at": "2026-08-04T10:43:13.384398+00:00"
-  },
-  {
-    "title": "Regarding Notice for the seats reserved for Haryana State in Diploma in Printing Technology at Northern Regional Institute of Printing Technology, Tallarganj, Allahabad, (UP) for the session 2026-27 Regarding Postponement of B. Pharmacy Centralized counselling for the Session 2026-27 To deposit ADMF or Security Amount, please use Bank Account No.: 0087000111222785, IFSC: PUNB008700, Branch: Punjab National Bank, Sector 17B, Chandigarh (in place of IndusInd Bank account). Regarding the deposition of the security amount by Institutes to the HSTES",
-    "url": "https://hstes.org.in/Documents/2026/Notifications/Advertisement 30.07.2026.pdf",
-    "exam": "HSTES",
-    "exam_id": "hstes",
-    "category": "Counselling",
-    "source_label": "HSTES Portal",
-    "source_url": "https://hstes.org.in/",
-    "id": "6f26ad233a2fd53458cb50b41eb297bd",
-    "fetched_at": "2026-08-04T07:46:12.196998+00:00"
   }
 ]
