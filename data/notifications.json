@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261101103301.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "60121c7cc9849dec98e96be8ebd6491e",
+    "fetched_at": "2026-11-01T05:13:51.931780+00:00"
+  },
+  {
     "title": "Recruitment Notice for the Positions of Chief Executive Officer (CEO) and Incubation Manager",
     "url": "https://www.mmmut.ac.in/News_content/20203news_10312026024417.pdf",
     "exam": "MMMUT Counselling",
@@ -5487,16 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "d7fee8d02f0c8b38588b4b1061f52878",
     "fetched_at": "2026-08-04T16:00:07.352338+00:00"
-  },
-  {
-    "title": "Round 01 Commencement of process Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) B.Ed(SE) (Code-159) Choice Filling for the A.S: 2026-27_dated-04.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608041237876889.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "7db14272aa710f8dbd8aea7f0d1d8869",
-    "fetched_at": "2026-08-04T10:47:03.442265+00:00"
   }
 ]
