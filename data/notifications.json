@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification regarding Second Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/exmntf2112026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "6c759c0e915b436675b2c9d64a4e15ca",
+    "fetched_at": "2026-11-02T08:06:09.109349+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261101103301.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "6493f376a4aa88e93ea86907e62a1828",
     "fetched_at": "2026-08-04T16:01:24.378111+00:00"
-  },
-  {
-    "title": "Sports Counselling 5 August 2026 Discrepancy List",
-    "url": "https://jacchd.admissions.nic.in/document/information-of-the-sports-category-candidates-registered-for-the-special-round-for-sports-counselling-scheduled-on-5-august-2026/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "d7fee8d02f0c8b38588b4b1061f52878",
-    "fetched_at": "2026-08-04T16:00:07.352338+00:00"
   }
 ]
