@@ -1,5 +1,60 @@
 [
   {
+    "title": "B.SC. (H) NURSING (CODE 115) (NEET AND CET 2026)- EXTENDED STRAY ROUND: 2026-27_dated-02.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611021491272970.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "dbb9a3f75754f9bd47a130da875ed62c",
+    "fetched_at": "2026-11-02T18:49:12.735822+00:00"
+  },
+  {
+    "title": "BAMS (CODE 153) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 02 FOR A.S. 2026-27_dated-02.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611021174310441.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "fa09308cb25cc8fa0397c25ddf02d5b5",
+    "fetched_at": "2026-11-02T18:49:11.523322+00:00"
+  },
+  {
+    "title": "BHMS (CODE 154) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S. 2026-27_dated-02.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261102649028531.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "cf9388f7c4b72aa3c0847a87e19ac799",
+    "fetched_at": "2026-11-02T18:49:10.334054+00:00"
+  },
+  {
+    "title": "MBBS (CODE 103) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S. 2026-27_dated-02.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261102861924567.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "a57098424408e1d2ed86afaae6f7b801",
+    "fetched_at": "2026-11-02T18:49:08.895820+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261102150155.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "351ba2204955dfeb5d8467581e52bc38",
+    "fetched_at": "2026-11-02T18:43:05.463015+00:00"
+  },
+  {
     "title": "Notification regarding Second Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
     "url": "https://www.cuh.ac.in/admin/uploads/files/exmntf2112026.pdf",
     "exam": "CU Haryana",
@@ -5443,60 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "c3e4a9422d53f66b04c9ad59edacae48",
     "fetched_at": "2026-08-05T09:42:44.922685+00:00"
-  },
-  {
-    "title": "Instructions for ERP Registration of Newly Admitted Candidates 2026-27",
-    "url": "https://hbtu.admissions.nic.in/document/instructions-for-erp-registration-of-newly-admitted-candidates-2026-27/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "ffb2e85878acaffdc03b819958768885",
-    "fetched_at": "2026-08-05T09:42:37.579271+00:00"
-  },
-  {
-    "title": "Engineering Vacant Seats at the beginning of Round 2 Notified on 05.08.2026",
-    "url": "https://comedk.org/uploads/Engineering-Vacant-Seats-Before-Start-of-Round 2.Notified-on-05.08.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "702c07858f1a587ca32d37345ad4da69",
-    "fetched_at": "2026-08-05T09:42:13.591476+00:00"
-  },
-  {
-    "title": "Click here for Engineering Vacant Seats Before start of Round 2",
-    "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-Before-Start-of-Round 2.Notified-on-05.08.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "7674d20d00c6b796c0a6ed80b6825c5b",
-    "fetched_at": "2026-08-05T06:35:05.489812+00:00"
-  },
-  {
-    "title": "विश्वविद्यालय कुलगीतUniversity KULGEET",
-    "url": "https://www.cuh.ac.in/admin/uploads/2020/misc20/CUH-Kulgeet.mp3",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "2d000819ecabb42b062742d1cc9a05e0",
-    "fetched_at": "2026-08-04T17:58:03.931916+00:00"
-  },
-  {
-    "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260804326097720.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "6493f376a4aa88e93ea86907e62a1828",
-    "fetched_at": "2026-08-04T16:01:24.378111+00:00"
   }
 ]
