@@ -1,5 +1,27 @@
 [
   {
+    "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (UPGRADATION ROUND COUNSELLING)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261103373294280.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "056c077466a5a344560f36f0ee30984e",
+    "fetched_at": "2026-11-03T16:32:25.458398+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261103151121.PDF",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "e34641a288097093472f9fe54195cb0e",
+    "fetched_at": "2026-11-03T16:28:35.104357+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261103113641.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "960a34e80345b0c0264210b55b110832",
     "fetched_at": "2026-08-05T14:59:41.107166+00:00"
-  },
-  {
-    "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051879012414.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "d2756c1f63dcc17eb14bc8adf2b98227",
-    "fetched_at": "2026-08-05T12:05:27.439296+00:00"
-  },
-  {
-    "title": "PU SPORTS MERIT LIST 2026 After Second Sports Trials on 5 August 2026",
-    "url": "https://jacchd.admissions.nic.in/document/pu-sports-merit-list-2026-after-second-sports-trials-on-5-august-2026/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "88acb21a07d99f7f1342cbfc7339c5fc",
-    "fetched_at": "2026-08-05T12:05:12.655847+00:00"
   }
 ]
