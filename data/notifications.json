@@ -1,5 +1,38 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261103113641.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "39e3bbd9c3db37b8ea4f6aedebdf31df",
+    "fetched_at": "2026-11-03T08:29:49.401360+00:00"
+  },
+  {
+    "title": "Procedure for Duplicate Score Card",
+    "url": "https://nta.ac.in/Download/Notice/Duplicate_Score_Card.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "3f7276ba48988e0739a6d6d8663cfc51",
+    "fetched_at": "2026-11-03T08:29:48.070959+00:00"
+  },
+  {
+    "title": "Corrigendum",
+    "url": "https://nta.ac.in/Download/Notice/NTA_Corrigendum_Duplicate_Scorecard.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "409b522a121ef626d343054bc94a7fda",
+    "fetched_at": "2026-11-03T08:29:46.090678+00:00"
+  },
+  {
     "title": "Placement Brochure",
     "url": "https://www.mmmut.ac.in/Pdf/PlacementBrochure2026-27a.pdf",
     "exam": "MMMUT Counselling",
@@ -5465,38 +5498,5 @@
     "source_url": "https://jacchd.admissions.nic.in/",
     "id": "88acb21a07d99f7f1342cbfc7339c5fc",
     "fetched_at": "2026-08-05T12:05:12.655847+00:00"
-  },
-  {
-    "title": "Induction Program Schedule 2026-2027",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/cet-induction-program-schedule-2026-2027.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "45d5c35f04e2cd6c40ee5f586fb1b935",
-    "fetched_at": "2026-08-05T12:05:05.266068+00:00"
-  },
-  {
-    "title": "Inaugural Function Invitation 2026-2027",
-    "url": "https://webstor.srmist.edu.in/web_assets/downloads/2026/cet-inaugural-function-invitation-2026-2027.pdf",
-    "exam": "SRMJEE",
-    "exam_id": "srmjee",
-    "category": "Counselling",
-    "source_label": "SRM Admissions Page",
-    "source_url": "https://www.srmist.edu.in/admission/",
-    "id": "e4b005ff38401ed9b64f1b7c2b0ed8af",
-    "fetched_at": "2026-08-05T12:05:02.867153+00:00"
-  },
-  {
-    "title": "Schedule of 2nd Round of offline Counselling for B.Arch (Code-100) followed by OPEN HOUSE A.S:2026-27_dated-05.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051517217698.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "4800acd67ca48d96d93bd5751e9858fc",
-    "fetched_at": "2026-08-05T09:42:46.304181+00:00"
   }
 ]
