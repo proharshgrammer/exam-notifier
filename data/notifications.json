@@ -1,5 +1,16 @@
 [
   {
+    "title": "Placement Brochure",
+    "url": "https://www.mmmut.ac.in/Pdf/PlacementBrochure2026-27a.pdf",
+    "exam": "MMMUT Counselling",
+    "exam_id": "mmmut",
+    "category": "Counselling",
+    "source_label": "MMMUT Main",
+    "source_url": "https://www.mmmut.ac.in/",
+    "id": "6732c1222f1dbb404bf61151db8d3cdd",
+    "fetched_at": "2026-11-03T01:32:24.369408+00:00"
+  },
+  {
     "title": "B.SC. (H) NURSING (CODE 115) (NEET AND CET 2026)- EXTENDED STRAY ROUND: 2026-27_dated-02.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611021491272970.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "4800acd67ca48d96d93bd5751e9858fc",
     "fetched_at": "2026-08-05T09:42:46.304181+00:00"
-  },
-  {
-    "title": "Last date of Submission of Score/Merit through Google Form from the Registered and Fee Paid Candidate applying through CUET UG 2026_dated-05.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051131803704.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "c3e4a9422d53f66b04c9ad59edacae48",
-    "fetched_at": "2026-08-05T09:42:44.922685+00:00"
   }
 ]
