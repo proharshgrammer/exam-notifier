@@ -1,5 +1,16 @@
 [
   {
+    "title": "PGP-CET/PGO-CET/M.Sc.(SLP)/M.Sc.(Audio)/M.Sc.(P&O) CET",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Tender-Notice-1.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "c9686aa00133d50c405d24613525ef04",
+    "fetched_at": "2026-11-04T09:42:21.861375+00:00"
+  },
+  {
     "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (UPGRADATION ROUND COUNSELLING)",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261103373294280.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://cetcell.mahacet.org/",
     "id": "f617dd40649781491489fa8abc0fe724",
     "fetched_at": "2026-08-06T07:17:08.470728+00:00"
-  },
-  {
-    "title": "Special Drive for Filling Vacant Seats under the Supernumerary Quota in UG Programmes during the Academic Session 2026–27",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/acd715.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "960a34e80345b0c0264210b55b110832",
-    "fetched_at": "2026-08-05T14:59:41.107166+00:00"
   }
 ]
