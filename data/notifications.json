@@ -1,5 +1,27 @@
 [
   {
+    "title": "SCHEDULE OFFLINE COUNSELLING POSTGRADUATE AYURVEDA COURSES (PGAC CODE 196) AND POSTGRADUATE HOMEOPATHY COURSES (PGHC CODE 700) FOR A.S:2026-27_dated-04.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611041552062630.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "d839f197ace9bff197d55bc44087b97f",
+    "fetched_at": "2026-11-04T17:55:51.754739+00:00"
+  },
+  {
+    "title": "PGP-CET/PGO-CET/M.Sc.(SLP)/M.Sc.(Audio)/M.Sc.(P&O) CET",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Notice-No.03_Objection-Tracking.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "95a95d06a19be6ed9e717a6061fd9f5e",
+    "fetched_at": "2026-11-04T17:51:33.023033+00:00"
+  },
+  {
     "title": "PGP-CET/PGO-CET/M.Sc.(SLP)/M.Sc.(Audio)/M.Sc.(P&O) CET",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Tender-Notice-1.pdf",
     "exam": "MHT-CET",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "a56e124b4f621b45ae1424927c466045",
     "fetched_at": "2026-08-06T07:21:04.762853+00:00"
-  },
-  {
-    "title": "Click here for Architecture Final Seat Availability and Fee before start of Round 1",
-    "url": "https://comedk.org/uploads/Architecture-Seat-Availabiltiy&Fee-before-start-of-Round-1. Notified on 05.08.26.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "1342eb03b50bc8178089d5450792b1b9",
-    "fetched_at": "2026-08-06T07:20:34.373162+00:00"
-  },
-  {
-    "title": "Centralized Admission Process (CAP) Tentative Schedule for LLB 5 Yrs Integrated Course Academic Year 2026-27",
-    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/08/Round-I_LLB-5-Yrs-CAP-Sch_2026-1.pdf",
-    "exam": "MHT-CET",
-    "exam_id": "mht_cet",
-    "category": "State Engineering – Maharashtra",
-    "source_label": "MHT-CET Official",
-    "source_url": "https://cetcell.mahacet.org/",
-    "id": "f617dd40649781491489fa8abc0fe724",
-    "fetched_at": "2026-08-06T07:17:08.470728+00:00"
   }
 ]
