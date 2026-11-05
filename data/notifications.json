@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261105175642.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "1da918f2f73d5e11800206860b818150",
+    "fetched_at": "2026-11-05T19:51:18.207319+00:00"
+  },
+  {
     "title": "ROUND 03 BAMS (CODE 153) FOR NEET UG 2026_dated-05.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611051293007819.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "e34ab4a5daf23c3ca05ab30b9e31e968",
     "fetched_at": "2026-08-07T13:16:38.053865+00:00"
-  },
-  {
-    "title": "Click here for Engineering Vacant Seats after Round 2 Allotment",
-    "url": "https://www.comedk.org/uploads/Engineering-Vacant-Seats-after-Round-2-Allotment-Notified-on-07.08.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "6c439378458792536708d2ab6380cc4a",
-    "fetched_at": "2026-08-07T13:16:10.306933+00:00"
   }
 ]
