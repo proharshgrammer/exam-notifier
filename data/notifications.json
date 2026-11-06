@@ -1,5 +1,27 @@
 [
   {
+    "title": "COUNSELLING FOR ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)] SESSION 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611061227551844.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "d5d79f084e18d7cf8ac39d5eefd8010e",
+    "fetched_at": "2026-11-06T07:50:46.191347+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261106103320.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "948d93aa7145cba5158fd7f2f5f1167e",
+    "fetched_at": "2026-11-06T07:46:48.252327+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261105175642.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "501b68b9a6e759e25e26b17457bd6419",
     "fetched_at": "2026-08-07T13:16:40.853520+00:00"
-  },
-  {
-    "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR (BHMCT/ B.Sc(Yoga)/ BMS/ BS (Packaging Technology) Based on (NLT/ CET/ CUET) for A.S:2026-27_dated-07.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071918380967.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "681777ad9ba79338ae27f2e9c34882a3",
-    "fetched_at": "2026-08-07T13:16:39.478266+00:00"
-  },
-  {
-    "title": "SPOT ROUND OFFLINE COUNSELLING : ACADEMIC SESSION 2026-2027_dated-07.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071670149564.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "e34ab4a5daf23c3ca05ab30b9e31e968",
-    "fetched_at": "2026-08-07T13:16:38.053865+00:00"
   }
 ]
