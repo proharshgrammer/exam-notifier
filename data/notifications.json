@@ -1,6 +1,50 @@
 [
   {
     "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261107140457.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "950fbacbc98617ad7bf8b35ae9ddf6f4",
+    "fetched_at": "2026-11-07T14:46:34.371375+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261107140555.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "67c7ea2d0c339ecbf8d397f82be35e3d",
+    "fetched_at": "2026-11-07T14:46:33.158518+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261107190824.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "87f2b130592baa73dc266c9cc890f8e3",
+    "fetched_at": "2026-11-07T14:46:30.680361+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261107190901.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "4f57602caab71ab78cf4796d44be6e3b",
+    "fetched_at": "2026-11-07T14:46:28.772239+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261107122142.pdf",
     "exam": "JEE Mains",
     "exam_id": "jee_mains",
@@ -5454,49 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "765cc6aab84465b02ad649e15a78bddc",
     "fetched_at": "2026-08-10T09:26:22.413920+00:00"
-  },
-  {
-    "title": "Special Round of offline Counselling for BHMCT/ B.Sc(Yoga)/ BMS/ BS (Packaging Technology) (NLT/CET/CUET) for the A.S: 2026-27_dated-10.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810355233822.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1f189cb9d45d9606dfe40021f8cdd8e2",
-    "fetched_at": "2026-08-10T07:55:27.158889+00:00"
-  },
-  {
-    "title": "EXTENSTION OF LAST DATE OF CENTRALIZED ONLINE COUNSELLING FOR Paramedical (B.PT/B.OT/BASLP/BMLS/BPO) (Code 119/124) and B.Ed. (SE) (Code 159)_dated-10.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810838497971.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "2bbe7694f06b8213fa28ccb4545b1ad7",
-    "fetched_at": "2026-08-10T07:55:25.676572+00:00"
-  },
-  {
-    "title": "Architecture Seat Availability and Fee Details before start of Round 1. Notified on 06.08.2026",
-    "url": "https://comedk.org/uploads/Architecture-Seat-Availabiltiy&Fee-before-start-of-Round-1.%20Notified%20on%2005.08.26.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "6068ae9df41690cd20b6c42b930dc499",
-    "fetched_at": "2026-08-10T07:54:53.046825+00:00"
-  },
-  {
-    "title": "Click here for Architecture Cut-off Ranks after Mock Allotment",
-    "url": "https://comedk.org/uploads/Architecture-Cut-off-Ranks-after-Mock-Allotment.Notified-on-10.08.2026.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "e6ba7d66bcfb0275c14ee8bd8fb8b478",
-    "fetched_at": "2026-08-10T07:54:51.212323+00:00"
   }
 ]
