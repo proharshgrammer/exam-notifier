@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261107122142.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "f0f1b44124b42d11668750d9649864ef",
+    "fetched_at": "2026-11-07T07:39:11.995475+00:00"
+  },
+  {
     "title": "Information and Guidelines for PG Homeopathy and Ayurveda",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261106488984317.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://www.comedk.org/",
     "id": "e6ba7d66bcfb0275c14ee8bd8fb8b478",
     "fetched_at": "2026-08-10T07:54:51.212323+00:00"
-  },
-  {
-    "title": "Click here for Architecture Final Seat Availability and Fee before start of Round 1",
-    "url": "https://comedk.org/uploads/Architecture-Seat-Availabiltiy%26Fee-before-start-of-Round-1.%20Notified%20on%2005.08.26.pdf",
-    "exam": "COMEDK",
-    "exam_id": "comedk",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.comedk.org/",
-    "id": "ee2bcf4534c8a45f5d9a4709b7067edf",
-    "fetched_at": "2026-08-10T07:53:49.314082+00:00"
   }
 ]
