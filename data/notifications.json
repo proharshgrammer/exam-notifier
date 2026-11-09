@@ -1,5 +1,27 @@
 [
   {
+    "title": "List of Candidates Reported after allotment of seat in MBBS (CODE 103) upto Round 03_ GGSIPU_2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261109618924804.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "7ff8ba17965f0b59f2e2d18182d44f66",
+    "fetched_at": "2026-11-09T07:50:18.436364+00:00"
+  },
+  {
+    "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261109738457181.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "29a0eac4f2d6135b6c45e99ce9fceaa9",
+    "fetched_at": "2026-11-09T07:50:15.404273+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261107140457.pdf",
     "exam": "JEE Mains",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "8be7e6041af70ca002d0bfeaa819d73d",
     "fetched_at": "2026-08-10T10:48:45.242340+00:00"
-  },
-  {
-    "title": "OFFLINE COUNSELLING FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS/CENTRES OF EXCELLENCE: A.S:2026-27_dated-10.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101851090535.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1ddb48ee0bf8459b8a9f160ebaf50f4c",
-    "fetched_at": "2026-08-10T09:30:50.585644+00:00"
-  },
-  {
-    "title": "Latest @ NTA",
-    "url": "https://nta.ac.in/Download/Notice/Notice_20260810134615.pdf",
-    "exam": "JEE Mains",
-    "exam_id": "jee_mains",
-    "category": "Engineering Entrance",
-    "source_label": "NTA Official Website",
-    "source_url": "https://nta.ac.in/",
-    "id": "765cc6aab84465b02ad649e15a78bddc",
-    "fetched_at": "2026-08-10T09:26:22.413920+00:00"
   }
 ]
