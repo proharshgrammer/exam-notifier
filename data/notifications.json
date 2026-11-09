@@ -1,5 +1,27 @@
 [
   {
+    "title": "TENTATIVE VACANT SEAT STATUS IN MBBS (CODE-103) FOR SPECIAL STRAY ROUND_GGSIPU_2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611091900410440.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "b7759cce6b17b0d4d7b06fc38da7434a",
+    "fetched_at": "2026-11-09T18:35:37.980053+00:00"
+  },
+  {
+    "title": "Notice For Physically Challenged (PC)/PwBD Candidates wish to take part in the State Quota POSTGRADUATION COURSE [MD (Hom.)], POSTGRADUATION COURSE [MD/MS (Ayurvedic)]. counselling and Admission Proce",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611091062133924.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "31692f7c92b0fb9bbd087d9170eca759",
+    "fetched_at": "2026-11-09T18:35:12.778087+00:00"
+  },
+  {
     "title": "List of Candidates Reported after allotment of seat in MBBS (CODE 103) upto Round 03_ GGSIPU_2026-27.",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261109618924804.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "a36786d10d7b78dde4162d1989348817",
     "fetched_at": "2026-08-10T11:55:17.805245+00:00"
-  },
-  {
-    "title": "SPOT ROUND 2 (OFFLINE) FOR “REGISTERED” & “NOT ADMITTED CANDIDATES ONLY-IMPORTANT POINTS B.TECH/ BBA/BBA-MBA INTGRATED/BCA/LE B.TECH. A.S:2026-27_dated-10.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810859372611.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "580a710b184ba3508ff6e6172d333035",
-    "fetched_at": "2026-08-10T10:49:05.056742+00:00"
-  },
-  {
-    "title": "Centre for Distance & Online Education (CDOE) July 2026 Session Admission Notification",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/admissionposter.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "8be7e6041af70ca002d0bfeaa819d73d",
-    "fetched_at": "2026-08-10T10:48:45.242340+00:00"
   }
 ]
