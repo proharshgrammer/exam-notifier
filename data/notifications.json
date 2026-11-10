@@ -1,5 +1,38 @@
 [
   {
+    "title": "SPECIAL STRAY ROUND MBBS (CODE 103) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-10.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/2026111011852531.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "94c05bd6afbe03eb7a70a594c4d7e3fb",
+    "fetched_at": "2026-11-10T17:19:35.531252+00:00"
+  },
+  {
+    "title": "REVISED DATES FOR 1 st ROUND COUNSELLING & ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)] SESSION 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261110767179665.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "3bcd645fa6e429d14bd427ee8000aa6e",
+    "fetched_at": "2026-11-10T17:19:12.654823+00:00"
+  },
+  {
+    "title": "CORRIGENDUM NOTICE",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611101465230260.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "7b9a25c6c2ad6d735e9d283b20588553",
+    "fetched_at": "2026-11-10T17:19:10.104119+00:00"
+  },
+  {
     "title": "B.SC. NURSING (CODE 115) (NEET UG 2026 & CET 2026 QUALIFIED CANDIDATES) SPECIAL STRAY ROUND:2026-27_dated-10.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261110203857805.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5465,38 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "bec71c96ab3a1a11624ea4e6afc11f96",
     "fetched_at": "2026-08-11T07:18:10.259486+00:00"
-  },
-  {
-    "title": "Tentative Vacancy for SPOT Round Counselling",
-    "url": "https://jacchd.admissions.nic.in/document/tentative-vacancy-for-spot-round-counselling-2/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "52ed3e820403cb5a4369b14b36a0085c",
-    "fetched_at": "2026-08-11T07:17:53.386729+00:00"
-  },
-  {
-    "title": "CUET MERIT LIST BSC (PACKGING TECHNOLOGY PROGRAM CODE 136 FOR THE A.S. 2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111932620211.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "f982fb230ed816948a67a9cf1c0cfc9e",
-    "fetched_at": "2026-08-11T05:39:51.287919+00:00"
-  },
-  {
-    "title": "CUET MERIT LIST FOR BHMCT PRG CODE-127 FOR THE A.S: 2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111526288448.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "08fda1c7ec5471a69129abd0a14fa47b",
-    "fetched_at": "2026-08-11T05:39:49.916436+00:00"
   }
 ]
