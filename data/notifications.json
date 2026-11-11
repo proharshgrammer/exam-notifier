@@ -1,5 +1,27 @@
 [
   {
+    "title": "CORRIGENDUM NOTICE",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611111689503364.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "93060eb95bee8a1f05e542d9a34b6f06",
+    "fetched_at": "2026-11-11T09:49:30.517269+00:00"
+  },
+  {
+    "title": "TENTATIVE SCHEDULE FOR STRAY VACANCY COUNSELLING AND ADMISSION FOR BHMS/BAMS COURSES",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611111324842245.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "1e82ad9e04c8aa3501c5919e57b5307e",
+    "fetched_at": "2026-11-11T09:49:28.111386+00:00"
+  },
+  {
     "title": "SPECIAL STRAY ROUND MBBS (CODE 103) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-10.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/2026111011852531.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5476,27 +5498,5 @@
     "source_url": "https://www.cuh.ac.in/",
     "id": "bf9529f7417caa82748ba878258daf84",
     "fetched_at": "2026-08-11T08:34:23.111730+00:00"
-  },
-  {
-    "title": "CUET MERIT LIST B.Sc(YOGA) CODE-117 FOR A.S:2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111469792338.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "68f7eab54e5d79084f60cd92fa2306bb",
-    "fetched_at": "2026-08-11T07:18:11.672534+00:00"
-  },
-  {
-    "title": "INCLUSION OF PROG. BACHELOR IN PROSTHETIC AND ORTHOTICS (BPO) IN ROUND 01 OF Paramedical (B.PT/B.OT/BASLP/BMLS/BPO)(Code 119/124) Course_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811301634534.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "bec71c96ab3a1a11624ea4e6afc11f96",
-    "fetched_at": "2026-08-11T07:18:10.259486+00:00"
   }
 ]
