@@ -1,5 +1,27 @@
 [
   {
+    "title": "PGP/PGO/M.Sc.(SLP)/M.Sc.(Audio)/M.Sc.(P&O) CET 2026",
+    "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Notice-No.04_Objection-Redressal.pdf",
+    "exam": "MHT-CET",
+    "exam_id": "mht_cet",
+    "category": "State Engineering – Maharashtra",
+    "source_label": "MHT-CET Official",
+    "source_url": "https://cetcell.mahacet.org/",
+    "id": "33b3e46e286ec97bab7d727bfc435132",
+    "fetched_at": "2026-11-12T16:40:47.718810+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261112175300.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "0b8becf812868d4025ab013f4facdfd0",
+    "fetched_at": "2026-11-12T16:40:30.109781+00:00"
+  },
+  {
     "title": "Notification regarding Fourth Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
     "url": "https://www.cuh.ac.in/admin/uploads/files/ntfn112026.pdf",
     "exam": "CU Haryana",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "ee4609daf9f585830a65634b6aaedcbf",
     "fetched_at": "2026-08-11T09:39:23.470642+00:00"
-  },
-  {
-    "title": "Phase-II Revised Schedule for MCA program 2026-27",
-    "url": "https://hbtu.admissions.nic.in/document/phase-ii-revised-schedule-for-mca-program-2026-27/",
-    "exam": "HBTU Counselling",
-    "exam_id": "hbtu",
-    "category": "Counselling",
-    "source_label": "HBTU Portal",
-    "source_url": "https://hbtu.admissions.nic.in/",
-    "id": "3cbb5db9d5992347666fe991faa7fc74",
-    "fetched_at": "2026-08-11T09:39:15.406863+00:00"
-  },
-  {
-    "title": "VACANT SEATS IN BCA (CODE-114) FOR SPOT ROUND 02 OFFLINE COUNSELLING FOR A.S: 2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811398441811.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "75225497cd6839a0eba6a299cbeb8dca",
-    "fetched_at": "2026-08-11T08:34:47.628183+00:00"
   }
 ]
