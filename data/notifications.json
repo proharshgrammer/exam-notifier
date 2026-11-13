@@ -1,5 +1,27 @@
 [
   {
+    "title": "Postponement of display of Counselling Schedule for the programmes PGAC (CODE 196) and PGHC (CODE 700) A.S: 2026-27_dated-13.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611131803844474.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "f8e6cdd688462fd2b4f1e17ddd362c94",
+    "fetched_at": "2026-11-13T11:30:25.293132+00:00"
+  },
+  {
+    "title": "STRAY ROUND (NEET UG 2026) BAMS (CODE 153) & BHMS (CODE 154) A.S. 2026-27_dated-13.11.2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611131533919744.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "c16c4de6d58b3275a6c7502f87b1d267",
+    "fetched_at": "2026-11-13T11:30:22.873043+00:00"
+  },
+  {
     "title": "PGP/PGO/M.Sc.(SLP)/M.Sc.(Audio)/M.Sc.(P&O) CET 2026",
     "url": "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Notice-No.04_Objection-Redressal.pdf",
     "exam": "MHT-CET",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "9936973c2925eb4854137237bf69b737",
     "fetched_at": "2026-08-11T09:39:26.444538+00:00"
-  },
-  {
-    "title": "CUET MERIT LIST FOR BBA AND ALLIED PRG. CODE-125 FOR THE A.S.2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811455243026.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "35543330302b1524aeff4bd974822132",
-    "fetched_at": "2026-08-11T09:39:24.978145+00:00"
-  },
-  {
-    "title": "B.TECH PROG. CODE-131 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S. 2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811915935088.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "ee4609daf9f585830a65634b6aaedcbf",
-    "fetched_at": "2026-08-11T09:39:23.470642+00:00"
   }
 ]
