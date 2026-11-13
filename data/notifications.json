@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification regarding Fifth Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/ntfn31112026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "c9aff1d00e31305c3582dc86b46bb868",
+    "fetched_at": "2026-11-13T18:45:44.451131+00:00"
+  },
+  {
     "title": "Postponement of display of Counselling Schedule for the programmes PGAC (CODE 196) and PGHC (CODE 700) A.S: 2026-27_dated-13.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611131803844474.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "7d3e0f06b7a50f70f22e6f868033defb",
     "fetched_at": "2026-08-11T10:57:03.526800+00:00"
-  },
-  {
-    "title": "B.COM(H) CODE-146 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811728931762.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "9936973c2925eb4854137237bf69b737",
-    "fetched_at": "2026-08-11T09:39:26.444538+00:00"
   }
 ]
