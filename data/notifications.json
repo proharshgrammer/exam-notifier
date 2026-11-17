@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notification regarding Sixth Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/ntfnz17112026.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "9d26aea62e6fc34cfc465ac49e8abf47",
+    "fetched_at": "2026-11-17T12:58:35.577024+00:00"
+  },
+  {
     "title": "TENTATIVE SCHEDULE FOR STRAY VACANCY COUNSELLING AND ADMISSION FOR BHMS/BAMS COURSES",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261116436225768.pdf",
     "exam": "OJEE",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "f25b92a548a3947369c88adf10690ef5",
     "fetched_at": "2026-08-12T07:47:06.277048+00:00"
-  },
-  {
-    "title": "Postponement Notice for Physical Spot Round 2 Counselling (B,Tech, BBA, BCA & LE-BTech Programmes)",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811800854215.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "5a8508dd7f000bcabe47fcd58aa2f5cf",
-    "fetched_at": "2026-08-11T16:07:03.855799+00:00"
   }
 ]
