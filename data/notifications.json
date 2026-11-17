@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261117205801.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "b05b8fa67dfa75b56340e78c2dcefd38",
+    "fetched_at": "2026-11-17T21:35:48.493012+00:00"
+  },
+  {
     "title": "Notification regarding Sixth Extension of Submission of Examination Forms for Odd Semesters of Diploma-UG-PG-Integrated-ITEP Programmes Term End Examinations Dec. 2026-Jan. 2027 (Regular and Reappear)",
     "url": "https://www.cuh.ac.in/admin/uploads/files/ntfnz17112026.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "a9337cbfa7bca13c9fb237887b4ee15c",
     "fetched_at": "2026-08-12T07:47:08.438906+00:00"
-  },
-  {
-    "title": "EXTENSION OF ONLINE REGISTRATION FOR MBA/ MCA SPOT ROUND OF OFFLINE COUNSELLING (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-12.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812825708375.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "f25b92a548a3947369c88adf10690ef5",
-    "fetched_at": "2026-08-12T07:47:06.277048+00:00"
   }
 ]
