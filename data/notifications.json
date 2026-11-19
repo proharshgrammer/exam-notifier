@@ -1,5 +1,16 @@
 [
   {
+    "title": "Examination Date Sheet for Odd Semesters UG-PG-Integrated and Diploma Programmes TEE Dec. 2026-Jan. 2027",
+    "url": "https://www.cuh.ac.in/admin/uploads/files/123334.pdf",
+    "exam": "CU Haryana",
+    "exam_id": "cu_haryana",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://www.cuh.ac.in/",
+    "id": "cf6ceb277b8fadf34401ecf1dcd98701",
+    "fetched_at": "2026-11-19T19:28:45.915966+00:00"
+  },
+  {
     "title": "Notice for the programmes Post Graduate Ayurveda Courses (Code 196) and Post Graduate Homeopathy Courses (Code 700) A.S. 2026-27_dated-19.11.2026",
     "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611191583998817.pdf",
     "exam": "GGSIPU (IPU)",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "678088f7c8d95f8c049267e53c6534fc",
     "fetched_at": "2026-08-12T10:39:46.022488+00:00"
-  },
-  {
-    "title": "Change of nomenclature of Programme PG Diploma in fire and Life Safety Audit as Post Graduate Diploma in Fire and Industrial Safety_dated-12.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121158993681.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "746ff1e0f75f742448924f16ece2d129",
-    "fetched_at": "2026-08-12T09:18:57.647238+00:00"
   }
 ]
