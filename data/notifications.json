@@ -1,5 +1,16 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261120110558.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "6ff21c26145c446840eba421b858ecec",
+    "fetched_at": "2026-11-20T08:58:27.553044+00:00"
+  },
+  {
     "title": "Examination Date Sheet for Odd Semesters UG-PG-Integrated and Diploma Programmes TEE Dec. 2026-Jan. 2027",
     "url": "https://www.cuh.ac.in/admin/uploads/files/123334.pdf",
     "exam": "CU Haryana",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "15ac64c9288766be0b2c78576d298eca",
     "fetched_at": "2026-08-12T11:54:18.593483+00:00"
-  },
-  {
-    "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812329475241.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "678088f7c8d95f8c049267e53c6534fc",
-    "fetched_at": "2026-08-12T10:39:46.022488+00:00"
   }
 ]
