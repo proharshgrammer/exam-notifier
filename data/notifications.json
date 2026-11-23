@@ -1,5 +1,27 @@
 [
   {
+    "title": "VACANT SEAT POSTION AFTER STRAY VACANCY ROUND (BAMS/BHMS)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261123307454296.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "ab35d2c7b88488c5fed0ff40f19b510e",
+    "fetched_at": "2026-11-23T12:18:29.807480+00:00"
+  },
+  {
+    "title": "List of Reported Candidates of Stray Vacancy Round Counselling of BAMS/BHMS",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261123218154235.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "38d6b4137ea5eb3b06155f909d8ce2cc",
+    "fetched_at": "2026-11-23T12:18:26.772417+00:00"
+  },
+  {
     "title": "REVISED COUNSELLING SCHEDULE FOR ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)]",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611211159860133.pdf",
     "exam": "OJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://nta.ac.in/",
     "id": "0169f02fe64fd55063a453f6b111fba0",
     "fetched_at": "2026-08-13T10:37:10.823503+00:00"
-  },
-  {
-    "title": "EXTENSION OF DATE OF SUMBISSION OF ONLINE APPLICATION FORM FOR CUET IN (UG) PROG. FOR A.S:2026-27_dated-13.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813474309857.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "1d049a3de0e52631d567e4aa0c9cc5c8",
-    "fetched_at": "2026-08-13T07:51:23.050970+00:00"
-  },
-  {
-    "title": "CCET Physical Reporting Schedule (After Spot Round)",
-    "url": "https://jacchd.admissions.nic.in/document/ccet-physical-reporting-schedule-after-spot-round/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "645548af7288ac4beafce52a84bd9c6e",
-    "fetched_at": "2026-08-13T07:51:06.933872+00:00"
   }
 ]
