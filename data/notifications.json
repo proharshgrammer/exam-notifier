@@ -1,5 +1,16 @@
 [
   {
+    "title": "REPORTING SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO (1st ROUND) PG [MD (HOM.)] & PG [MD/MS (AYURVEDIC)] FOR THE SESSION 2026-27",
+    "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261124893720521.pdf",
+    "exam": "OJEE",
+    "exam_id": "ojee",
+    "category": "Counselling",
+    "source_label": "Official",
+    "source_url": "https://ojee.nic.in/",
+    "id": "da4229c38f0246e93f8e4d50a81ce49c",
+    "fetched_at": "2026-11-24T10:21:25.828775+00:00"
+  },
+  {
     "title": "Latest @ NTA",
     "url": "https://nta.ac.in/Download/Notice/Notice_20261123210726.pdf",
     "exam": "JEE Mains",
@@ -5487,16 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "09e8a1701111525bd60e8cbd7d8dafda",
     "fetched_at": "2026-08-13T10:42:09.644722+00:00"
-  },
-  {
-    "title": "Registration of Students for Sports Participation and Inter-University Trials (Academic Year 2026-27)",
-    "url": "https://www.cuh.ac.in/admin/uploads/files/CUH_Sports_Registration_Notice.pdf",
-    "exam": "CU Haryana",
-    "exam_id": "cu_haryana",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://www.cuh.ac.in/",
-    "id": "84cb54dabf00519fc522acf2a1ba7e60",
-    "fetched_at": "2026-08-13T10:41:36.233183+00:00"
   }
 ]
