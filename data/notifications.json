@@ -1,5 +1,27 @@
 [
   {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261125203042.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "928fee5a281c58642f1d8fccc5b745e4",
+    "fetched_at": "2026-11-25T23:13:31.933426+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261125231704.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "3535e18ad5af98df0d20f669227801b9",
+    "fetched_at": "2026-11-25T23:13:29.955005+00:00"
+  },
+  {
     "title": "REPORTING NOTICE FOR ALL CANDIDATES PARTICIPATED IN STRAY UPGRADATION ROUND BAMS/BHMS COUNSELLING",
     "url": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611252107986608.pdf",
     "exam": "OJEE",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "ba2f149a9f8f4467edd64ffb867ab08e",
     "fetched_at": "2026-08-13T11:56:02.016372+00:00"
-  },
-  {
-    "title": "CUET MERIT LIST FOR B.TECH (CODE-131) FOR THE A.S:2026-27_dated-13.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131308110242.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "932042525c642a90db60f91ce32c1a91",
-    "fetched_at": "2026-08-13T11:56:00.748525+00:00"
-  },
-  {
-    "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "ca448488b60870a50ebb83335b670129",
-    "fetched_at": "2026-08-13T11:55:58.795173+00:00"
   }
 ]
