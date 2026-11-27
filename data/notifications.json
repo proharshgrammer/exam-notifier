@@ -1,5 +1,27 @@
 [
   {
+    "title": "CORREGENDUM OF COUNSELLING SCHEDULE – PGAC (CODE 196) & PGHC (CODE 700) (THROUGH AIAPGET 2026) ROUND 01 OFFLINE COUNSELLING.",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611271007690748.pdf",
+    "exam": "GGSIPU (IPU)",
+    "exam_id": "ggsipu",
+    "category": "Counselling",
+    "source_label": "IPU Portal",
+    "source_url": "https://ipu.admissions.nic.in/",
+    "id": "23c9efa602389f0b12bd1da9b07f64c3",
+    "fetched_at": "2026-11-27T18:54:52.964776+00:00"
+  },
+  {
+    "title": "Latest @ NTA",
+    "url": "https://nta.ac.in/Download/Notice/Notice_20261127225543.pdf",
+    "exam": "JEE Mains",
+    "exam_id": "jee_mains",
+    "category": "Engineering Entrance",
+    "source_label": "NTA Official Website",
+    "source_url": "https://nta.ac.in/",
+    "id": "01338e6c3983622581b91bb58888c74e",
+    "fetched_at": "2026-11-27T18:49:12.212296+00:00"
+  },
+  {
     "title": "RISE-2026",
     "url": "https://www.mmmut.ac.in/News_content/41002news_11272026080618.pdf",
     "exam": "MMMUT Counselling",
@@ -5476,27 +5498,5 @@
     "source_url": "https://ipu.admissions.nic.in/",
     "id": "d71ce846dbf25ed0920d55f7378c3f32",
     "fetched_at": "2026-08-14T10:37:47.990553+00:00"
-  },
-  {
-    "title": "UIET Chd Physical Reporting Schedule (After Spot Round)",
-    "url": "https://jacchd.admissions.nic.in/document/uiet-chd-physical-reporting-schedule-after-spot-round/",
-    "exam": "JAC CHD",
-    "exam_id": "jac_chd",
-    "category": "Counselling",
-    "source_label": "Official",
-    "source_url": "https://jacchd.admissions.nic.in/",
-    "id": "eaf5da131cf689f60620d9e1cd46ba11",
-    "fetched_at": "2026-08-14T09:14:41.682291+00:00"
-  },
-  {
-    "title": "NOTICE PART ACADEMIC FEES PROG. Paramedical (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(Special Education) for the A.S:2026-27_dated-14.08.2026",
-    "url": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814719549662.pdf",
-    "exam": "GGSIPU (IPU)",
-    "exam_id": "ggsipu",
-    "category": "Counselling",
-    "source_label": "IPU Portal",
-    "source_url": "https://ipu.admissions.nic.in/",
-    "id": "4a273e480743edadde744460869fd167",
-    "fetched_at": "2026-08-14T07:47:08.279077+00:00"
   }
 ]
